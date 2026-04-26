@@ -16,17 +16,19 @@ summary: "Session 1 of the scenario \"Vestigial Memories\" for the Blade Runner 
 ## The Assignment: Echoes of the Snake Pit
 
 I was at home, nursing a whisky sour and watching the rain streak against the grime of my windows, when the call came in. It was **Holden**. No small talk, just the usual order: *Report in. New case.*
+
 ![](/assets/img/2026/01/holdeb.png)
+
 ### Case Brief: The Replicant Who Shouldn't Exist
 
-> **Case Briefing Table 1 - Assigment:**
-> [D6 + D10]: [2 + 10] => Murder
-> **Case Briefing Table 2 - Relevance:**
-> [D12]: [2] => Replicant is key witness or accuser
-> **Case Briefing Table 3 - Initial Complication: **
-> [D12]: [11] => Cold Case
-> **Case Briefing Table 4 - Personal Hook:**
-> [D12]: [1] => Involves an aspect of your key memory
+> **Case Briefing Table 1 - Assigment:**  
+> (D6 + D10): (2 + 10) => Murder  
+> **Case Briefing Table 2 - Relevance:**  
+> (D12): (2) => Replicant is key witness or accuser  
+> **Case Briefing Table 3 - Initial Complication:**  
+> (D12): (11) => Cold Case  
+> **Case Briefing Table 4 - Personal Hook:**  
+> (D12): (1) => Involves an aspect of your key memory
 
 The file Holden dumped on his desk was a ghost story from 28 years ago. A murder case.
 
@@ -49,18 +51,20 @@ As I looked over the details, a cold sensation crawled up my spine. The nightclu
 
 **Locke:** "Did you know Kamarr?"
 
-> **Question check roll:**
-> [D10]: [6] => Yes
+> **Question check roll:**  
+> (D10): (6) => Yes
 
 **Holden:** "Yeah. She was a legend back then. The best Cityspeaker the department ever had. Not a needle dropped in L.A. without her knowing about it."
 
 **Locke:** "Is she still around? I'd like to talk to her."
 
-> **Question check roll:**
-> [D10]: [1] => Extreme no
+> **Question check roll:**  
+> (D10): (1) => Extreme no
 
 **Holden:** "No. She passed away a few years ago. At least she got to taste retirement before the city took her. Most of us don't."
+
 ![](/assets/img/2026/01/kamarr_cold-1.png)
+
 **Locke:** "Shame. Sounds like someone I would have liked. I’m going to need the full cold case file."
 
 **Holden:** "You have access to whatever survived the Blackout. But Locke? Don't expect much. Most of the data is corrupted or gone. Double-check everything."

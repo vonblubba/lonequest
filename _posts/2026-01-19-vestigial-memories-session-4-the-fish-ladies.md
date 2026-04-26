@@ -15,32 +15,35 @@ summary: "Session 4 of the scenario \"Vestigial Memories\" for the Blade Runner 
 ---
 ### Scene setup
 
-> **Countdown Timer Event Check:**
-> [D10]: [4] => No Event 
+> **Countdown Timer Event Check:**  
+> (D10): (4) => No Event   
 > The clock is steady, but the pressure is mounting.
 
-> **Scene check **
-> [D8]: [1] => Complicated**.***A simple inquiry turns into a high-stakes chase. The truth is guarded by more than just silence.*
+> **Scene check**  
+> (D8): (1) => Complicated  
+> *A simple inquiry turns into a high-stakes chase. The truth is guarded by more than just silence.*
 
-> **NPC details: 
-> [**D6 + D6]:  [1 + 3] => Commerce + Politics
-> **Trait:**
-> [D6 + D12]: [3+ 4] => flirty
-> **Name:**
+> **NPC details:**  
+> (D6 + D6):  (1 + 3) => Commerce + Politics  
+> **Trait:**  
+> (D6 + D12): (3+ 4) => flirty  
+> **Name:**  
 > Mei Lin Zhao
 
-> **Clue
-> Meaning**: 
-> [D8]: [2] => Contradicts a previous fact or clue 
-> **Evidence Descriptor**: 
-> [D6 + D10]: [6 + 10] => Unexpected + It should not be here
-> **Evidence Type**: 
-> [D6 + D12]: [1 + 7] => Document
+> **Clue**  
+> **Meaning**:   
+> (D8): (2) => Contradicts a previous fact or clue   
+> **Evidence Descriptor**:   
+> (D6 + D10): (6 + 10) => Unexpected + It should not be here  
+> **Evidence Type**:   
+> (D6 + D12): (1 + 7) => Document
 
 ---
 
 I park my Spinner a few blocks away. I don’t want the blue-and-reds announcing my arrival. The **Fish Ladies** stall is a neon-soaked open bar built into the face of a crumbling tenement, right next to my favorite dumpling stand. Synthetic fish, suspended in glowing tanks, cast eerie shadows over the crowd.
+
 ![](/assets/img/2026/01/Screenshot-2026-01-19-at-11.04.04.png)
+
 I spot her: **Mei Lin Zhao**, the proprietor. She’s in her sixties, sharp-eyed and wearing the weariness of the district like a shroud. I decide to keep my badge in my pocket for now.
 
 ### The Encounter
@@ -67,19 +70,18 @@ She doesn't answer. Instead, she gives a sharp nod to a group of street kids nea
 
 She bolts for the back entrance. I’m faster, but the street has its own defenses.
 
-> **Starting Range:** Medium.
+> **Starting Range:** Medium. 
 
-> **Round 1
-> Locke Manouver**: 
-> Pursue
-> **Zhao Manouver**: 
-> [D8]: [7] => block or hide => She blocks.
-> **The Obstacle**: 
-> [D12]: [8] => an old man grabs the pursuer and starts chattering away, clearly after money. Pursuer must roll CONNECTIONS to give the man some chinyen. If it fails, their manouver fails automatically. 
-> **Connections Check:**
-> Locke [D12+D12]: [9 + 9] => 2 successes
-> **Mobility check:**
-> [D8 + D10]: [7 + 8] => 2 successes
+> **Round 1**  
+> **Locke Manouver**: Pursue  
+> **Zhao Manouver**:   
+> (D8): (7) => block or hide => She blocks.  
+> **The Obstacle**:   
+> (D12): (8) => an old man grabs the pursuer and starts chattering away, clearly after money. Pursuer must roll CONNECTIONS to give the man some chinyen. If it fails, their manouver fails automatically.   
+> **Connections Check:**  
+> Locke (D12+D12): (9 + 9) => 2 successes  
+> **Mobility check:**  
+> (D8 + D10): (7 + 8) => 2 successes
 
 An old man suddenly lunges out of the shadows, grabbing my arm and babbling for chinyen. I don't waste time. I dig out a handful of spare change and hurl it. He dives for the coins, clearing my path. I vault over the bar, my trenchcoat snapping in the wind, and corner her in the alley.
 I grab her arm, pinning her against the damp brick. 
@@ -105,21 +107,22 @@ This isn't a 30-year-old relic. It’s a **bootleg**—a high-end illegal Replic
 
 ## **Interrogation sequence**
 
-> **NPC skill level roll**: 
-> [D8]: [7] => experienced [D10 + D10]
+> **NPC skill level roll**:   
+> (D8): (7) => experienced (D10 + D10)
 
-> **Negotiating position:**
+> **Negotiating position:**  
 > Advantages:
+>
 > - Opponent has suffered stress
 > - Opponent is in custody
 > Disadvantages:
 > - Opponent must take a serious risk to help me
 > - Opponent has nothing to gain by helping me
 
-> **Opposed roll, Manipulation vs Stamina:**
-> Locke [D10+D12] vs. Zhao [D10+D10]  
-> **Result:**
-> Locke [7+5 ] vs Zhao [8+8] => 1 success for Locke vs 2 for Zhao
+> **Opposed roll, Manipulation vs Stamina:**  
+> Locke (D10+D12) vs. Zhao (D10+D10)   
+> **Result:**  
+> Locke (7+5 ) vs Zhao (8+8) => 1 success for Locke vs 2 for Zhao
 
 ---
 
@@ -133,9 +136,9 @@ I handcuff her to a heavy garbage bin and pull out my KIA to call Holden.
 
 **Locke:** "I’ve got a bootleg replicant fabrication file. The name on the stamp is 'Vestige.' Does that mean anything to you?"
 
-> Q: Does Holden ever heard the name "Vestige"?
-> **Question roll: **
-> [D10]: [10] => Extreme yes
+> Q: Does Holden ever heard the name "Vestige"?  
+> **Question roll:**  
+> (D10): (10) => Extreme yes
 
 The silence on the other end is deafening. I hear the sound of a heavy sigh—the kind a man makes when he knows his day just got a lot shorter.
 

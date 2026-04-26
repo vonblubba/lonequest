@@ -14,16 +14,16 @@ summary: "Session 6 of the scenario \"Vestigial Memories\" for the Blade Runner 
 ---
 ### Scene setup
 
-> **Mainframe Search (Tech Check):**
-> [D6 + D10 with Advantage because done locally]: [2 + 3 + 6] =>  **1 Success.**
+> **Mainframe Search (Tech Check):**  
+> (D6 + D10 with Advantage because done locally): (2 + 3 + 6) =>  1 Success.
 
-> **Clue Rolls
-> Meaning: **
-> [D8]: [5] => Connects to a new location
-> **Evidence descriptor: **
-> [D6 + D10]: [3 + 7 ] => Familiar - It shares characteristics with another piece of evidence
-> **Evidence type: **
-> [D6 + D12]: [5 + 12] —> Weapon
+> **Clue Rolls**  
+> **Meaning:**   
+> (D8): (5) => Connects to a new location  
+> **Evidence descriptor:**  
+> (D6 + D10): (3 + 7) => Familiar - It shares characteristics with another piece of evidence  
+> **Evidence type:**  
+> (D6 + D12): (5 + 12) => Weapon
 
 ---
 
@@ -34,9 +34,9 @@ I ignore the fatigue gnawing at my brain and focus on the screen. The data on **
 Her criminal record is nearly spotless, save for a single entry: **December 2010**. A self-defense shooting against a street robber. She was cleared, but it’s the hardware that catches my eye.
 The Weapon: A Needle .22. Ultra-compact, low recoil, easily suppressed. The same weapon used by Kasper at the Snake Pit.
 
-> Q: Is there a way to connect the two weapons?
-> **Question Check Roll: **
-> [D10]: [8] => yes
+> Q: Is there a way to connect the two weapons?  
+> **Question Check Roll:**  
+> (D10): (8) => yes
 
 I cross-reference the ballistics with the Snake Pit cold case. The serial numbers are identical. **It is the exact same gun Kasper used to kill Rhea Lang only months later.** How did the LAPD miss this thirty years ago? Or worse—who buried it?
 
@@ -44,17 +44,17 @@ I cross-reference the ballistics with the Snake Pit cold case. The serial number
 
 I dig deeper into the "Vestige" rumors Holden mentioned.
 
-> Q: Is there anything in Zhao file connecting her to vestige?
-> **Question Check Roll: **
-> [D10]: [6] => yes
+> Q: Is there anything in Zhao file connecting her to vestige?  
+> **Question Check Roll:**  
+> (D10): (6) => yes
 
 Mei Lin wasn't just a bystander; she was one of the suspects Gaff personally interrogated during the original 2011 investigation. He couldn't make anything stick, but her name was on his shortlist.
 
 ### The Runciter Link
 
-> Q: Is there anything in her file connecting Zhao to Runciter?
-> **Question Check Roll: **
-> [D10]: [6] => yes
+> Q: Is there anything in her file connecting Zhao to Runciter?  
+> **Question Check Roll:**  
+> (D10): (6) => yes
 
 Her shop, "The Fish Ladies," has an extensive history of commercial dealings with **Runciter Zoological**. In a city where everyone is selling something fake, she and Runciter have been trading "stock" for decades. Could mean something. Or not.
 
@@ -68,4 +68,4 @@ I’m exhausted—my vision is blurring at the edges and my hands are shaking fr
 
 I choose to let her simmer some more.
 
-> **Hypothesis** [D6 => D8]: A group of replicant sympathizers has been building replicant bootlegs. Apparently Zhao statements confirm it.
+> **Hypothesis** (D6 => D8): A group of replicant sympathizers has been building replicant bootlegs. Apparently Zhao statements confirm it.

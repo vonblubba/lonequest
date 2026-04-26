@@ -15,8 +15,8 @@ summary: "Session 7 of the scenario \"Vestigial Memories\" for the Blade Runner 
 ---
 ### Scene setup
 
-> **Downtime Event Table check: 
-> [**D12]: [6] => You catch sight of a device or person surveilling your home. 
+> **Downtime Event Table check:**   
+> (D12): (6) => You catch sight of a device or person surveilling your home.   
 > **Stats change:** +1 resolve for resting
 
 ---
@@ -29,9 +29,9 @@ I stand by the window, staring out at the familiar decay of the abandoned subway
 
 A man is standing near the station entrance, his eyes fixed on my building.
 
-> Q: Does he look dangerous/menacing?
-> **Question check roll: **
-> [D10]: [3] => No
+> Q: Does he look dangerous/menacing?  
+> **Question check roll:**  
+> (D10): (3) => No
 
 He isn't reaching for a piece, and his posture is relaxed. He’s not here to hit me; he’s here to be seen.
 
@@ -43,9 +43,9 @@ I set my glass down, grab my coat, and head out into the rain.
 
 As I approach, the neon from a nearby hoarding catches his face. 
 
-> Q: Who is it?
-> **Cipher table check:**
-> [D6 + D12]: [1 + 11] => Conspire + Guilt
+> Q: Who is it?  
+> **Cipher table check:**  
+> (D6 + D12): (1 + 11) => Conspire + Guilt
 
 My heart skips a beat. It’s him. The Kasper duplicate. The ghost from the Fish Ladies. He doesn't bolt; he just watches me come.
 
@@ -101,4 +101,4 @@ He’s talking. More than that, he’s *confessing*.
 
 Before I can reach for my cuffs, he turns. With the unnatural grace of a Nexus-6, he vaults onto the roof of a low building and vanishes into the darkness. I’m too tired, and he’s too fast.
 
-> **Hypothesis** [D8 => D10]: A group of replicant sympathizers has been building replicant bootlegs. Kael existance confirms it.
+> **Hypothesis** (D8 => D10): A group of replicant sympathizers has been building replicant bootlegs. Kael existance confirms it.

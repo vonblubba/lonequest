@@ -15,10 +15,10 @@ summary: "Interlude of the scenario \"Vestigial Memories\" for the Blade Runner 
 ---
 ### Scene setup
 
-> **Scene countdown check: **
-> [D6]: [6] => Event happens
-> **Countdown Event Table Roll: **
-> [D12]: [6] =>Diversion - False lead, wild goose chase, drawn into a trap
+> **Scene countdown check:** 
+> (D6): (6) => Event happens  
+> **Countdown Event Table Roll:**  
+> (D12): (6) =>Diversion - False lead, wild goose chase, drawn into a trap
 
 ---
 
@@ -36,15 +36,14 @@ He doesn't answer. He doesn't give me a sad smile this time. Instead, he reaches
 
 ### Combat: The Ambush
 
-> K has initiative because of surprise attack
-> **K skill level roll:**
-> [D8]: [4] => Competent C/C (Strength/Hand-To-Hand)
+> K has initiative because of surprise attack  
+> **K skill level roll:**  
+> (D8): (4) => Competent C/C (Strength/Hand-To-Hand)
 
-> **Round 1: K
-> Action: **
-> Attacks with baton
-> **Attack roll: **
-> K [D8 + D8] vs Locke [D6 + D6]: [7 + 2] vs [3 + 4] => 1 success for K => hits for 2 damage
+> **Round 1: K**  
+> **Action:**  Attacks with baton  
+> **Attack roll:**  
+> K (D8 + D8) vs Locke (D6 + D6): (7 + 2) vs (3 + 4) => 1 success for K => hits for 2 damage  
 > **Move:**
 > He runs away yelling "Release the woman!"
 
@@ -70,8 +69,8 @@ I’m doubled over, clutching my side, gasping for breath. My ribs are definitel
 
 Something was wrong. The movement, the voice, the eyes—it looked like Kael, but the "vibe" was violent, desperate.
 
-> **Observation Check:**
-> [D10 + D10]: [1 + 5] => I push the roll: [1 + 9]  => 1 success
+> **Observation Check:**  
+> (D10 + D10): (1 + 5) => I push the roll: (1 + 9)  => 1 success
 
 I replay the last few seconds in my mind. As he lunged at me, the light from a neon billboard caught the side of his head. There was a mark on his right temple. A small, dark tattoo—a stylized bird of some kind.
 

@@ -15,12 +15,12 @@ summary: "Session 3 of the scenario \"Vestigial Memories\" for the Blade Runner 
 ---
 ### Scene setup
 
-> **Scene Countdown Event Check**: 
-> [D8]: [2] => No Event 
+> **Scene Countdown Event Check**:   
+> (D8): (2) => No Event   
 > *The clock is ticking, but the city holds its breath.*
 
-> **Scene check **
-> [D8]: [2] => challenging. Requires one or more skill checks. Witness is reluctant to answer questions or answers are evasive.
+> **Scene check**  
+> (D8): (2) => challenging. Requires one or more skill checks. Witness is reluctant to answer questions or answers are evasive.
 
 ---
 
@@ -28,9 +28,9 @@ The flight to the Red Light District usually takes ten minutes, but today the sk
 
 The building across the way is drowning in **kipple**—layers of abandoned junk and forgotten lives. Inside, however, the structure hums with the desperate energy of the disenfranchised. I find Apartment 234 and press my ear to the door. 
 
-> Q: do I hear anything?
-> **Question Check Roll:**
-> [D10]: [5] => no
+> Q: do I hear anything?  
+> **Question Check Roll:**   
+> (D10): (5) => no
 
 Silence.
 
@@ -41,7 +41,9 @@ I hit the buzzer. After a long beat, a voice like grinding gravel comes through 
 **Locke:** "LAPD. Open up."
 
 The lock clicks. Inside, the apartment is a jarring contrast to the hallway—decrepit, yes, but meticulously kept. It smells of old paper and stale time. Nombeko Esposito stands near the inner door, looking like he’s ready to bolt. I hope he doesn't; it’s too wet for a chase today.
+
 ![](/assets/img/2026/01/esposito.png)
+
 ### The Interview
 
 **Locke:** "You know why I’m here. Kasper."
@@ -52,8 +54,8 @@ A spark ignites in his eyes. He doesn't say a word at first, but the tension in 
 
 **Locke:** "What was he doing there?" 
 
-> **Cipher Table Roll:**
-> [D6 + D12]: [3 + 8] => Escape
+> **Cipher Table Roll:**  
+> (D6 + D12): (3 + 8) => Escape
 
 **Esposito:** "Running. Like his life was forfeit. One can only hope." 
 
@@ -61,13 +63,12 @@ A spark ignites in his eyes. He doesn't say a word at first, but the tension in 
 
 Esposito shifts, his eyes darting toward the window. He’s holding back. I lean into his space, letting the badge and the ten years of grit do the talking.
 
-> **NPC skill roll:**
-> [D8]: 1 => unskilled [D6/D6]
-
-> **Manipulation Check:**
-> Locke [D10+D12] vs. Esposito [D6+D6]  
-> **Result:**
-> Locke [7+5 ] vs Esposito [3+2] => 1 success for Locke vs 0 for Esposito
+> **NPC skill roll:**  
+> (D8): (1) => unskilled (D6/D6)
+> **Manipulation Check:**  
+> Locke (D10+D12) vs. Esposito (D6+D6)  
+> **Result:**  
+> Locke (7+5 ) vs Esposito (3+2) => 1 success for Locke vs 0 for Esposito
 
 He’s wary of crossing a Blade Runner. The wall cracks.
 
@@ -75,8 +76,8 @@ He’s wary of crossing a Blade Runner. The wall cracks.
 
 **Locke:** "To where?" 
 
-> **Location table roll (in Animoid Row)**: 
-> [D6]: [3] => Runciter Zoological
+> **Location table roll (in Animoid Row)**:   
+> (D6): (3) => Runciter Zoological
 
 **Esposito:** "Runciter Zoological. He ducked inside. I waited, but he never came back out. When I went in to look, he was gone. Must’ve used a back exit." 
 
@@ -86,8 +87,8 @@ He’s wary of crossing a Blade Runner. The wall cracks.
 
 **Locke:** "Did he look different? Anything unusual?" 
 
-> **Cipher table roll:**
-> [D6 + D12]: [4 + 11] => Hunt + obsession
+> **Cipher table roll:**  
+> (D6 + D12): (4 + 11) => Hunt + obsession
 
 **Esposito:** "He acted like he was being hunted. And he was clutching a package like his soul was inside it. A box, maybe the size of a shoebox, with the Fish Ladies logo on the side."
 
@@ -97,15 +98,15 @@ I take a gamble on his history at the Snake Pit.
 
 **Locke:** "You were there the night Rhea Lang died. Did you know her?" 
 
-> **Question Check Roll:**
-> [D10]: [9] => yes
+> **Question Check Roll:**  
+> (D10): (9) => yes
 
 **Esposito:** "Yeah. She was a regular. Twice a week, never a problem. I helped her out once with a guy who wouldn't take 'no' for an answer. We became friends after that. She even helped me with my taxes. She was an accountant at Tyrell, you know?" 
 
 **Locke:** "Did you speak to her that night?" 
 
-> **Question Check Roll:**
-> [D10]: [5] => no
+> **Question Check Roll:**  
+> (D10): (5) => no
 
 **Esposito:** "No. She’d just arrived when... Kasper... that bastard."
 

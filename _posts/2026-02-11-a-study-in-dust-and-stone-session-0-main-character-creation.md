@@ -6,14 +6,14 @@ draft: false
 slug: a-study-in-dust-and-stone-session-0-main-character-creation
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
-    image: /images/2026/02/banner_00.png
+    image: /assets/img/2026/02/banner_00.png
     alt: "A Study in Dust and Stone, Session 0:  Main Character creation"
 description:
-image: /images/2026/02/banner_00.png
+image: /assets/img/2026/02/banner_00.png
 summary: "Session 0 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed., where we meet Loenzo Bartolini, Florentine antiquarian."
 ---
 This marks the beginning of a new solo campaign for [**Call of Cthulhu 7th Edition**](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems). To build our protagonist, I utilized the *Investigator Creation Wizard* within [**Foundry VTT**](https://foundryvtt.com), allowing the digital dice to help shape a man caught between Old World prestige and New World shadows.
-![](/images/2026/02/Screenshot-2026-02-10-at-09.02.13.png)
+![](/assets/img/2026/02/Screenshot-2026-02-10-at-09.02.13.png)
 ## The Investigator: Lorenzo Bartolini
 
 - **Age:** 49
@@ -31,7 +31,7 @@ Lorenzo is a scholar, not a brawler. In the lethal world of *Call of Cthulhu*, h
 - **The Keen Eye:** A strangely high **Spot Hidden** suggests a man used to looking for things that don't want to be found.
 - **The Forbidden Knowledge:** His **Occult** skill is far higher than a "respectable" academic's should be.
 
-![](/images/2026/02/Screenshot-2026-02-10-at-09.02.33.png)
+![](/assets/img/2026/02/Screenshot-2026-02-10-at-09.02.33.png)
 ## Background
 
 *Note: most of these entries were rolled on random tables then fleshed out with a bit of imagination. The tables are part of the *[*Foundry CoC core content module*](https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems)*, so I suppose they're on the investigator handbook (I didn't check because I'm lazy).*

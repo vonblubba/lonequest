@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-9-runciters-zoological
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_fa_large_handout_sheets_275x212_crime_runciters.webp
+    image: /assets/img/2026/01/br_fa_large_handout_sheets_275x212_crime_runciters.webp
     alt: "Vestigial Memories, Session 9: Runciter's Zoological"
 description:
-image: /images/2026/01/br_fa_large_handout_sheets_275x212_crime_runciters.webp
+image: /assets/img/2026/01/br_fa_large_handout_sheets_275x212_crime_runciters.webp
 summary: "Session 9 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke tracks down the bootleg replicant to Runciter's Zoological, a place he knows all too well."
 ---
 ### Scene setup

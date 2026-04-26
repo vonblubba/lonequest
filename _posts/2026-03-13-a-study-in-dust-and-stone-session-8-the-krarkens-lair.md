@@ -6,10 +6,10 @@ draft: false
 slug: a-study-in-dust-and-stone-session-8-the-krarkens-lair
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
-    image: /images/2026/03/dark-cellar-with-barrels-wine-it_902338-7250.png
+    image: /assets/img/2026/03/dark-cellar-with-barrels-wine-it_902338-7250.png
     alt: "A Study in Dust and Stone, Session 8: the Krarken's Lair"
 description:
-image: /images/2026/03/dark-cellar-with-barrels-wine-it_902338-7250.png
+image: /assets/img/2026/03/dark-cellar-with-barrels-wine-it_902338-7250.png
 summary: "Session 8 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy face the cult of Summanus."
 ---
 ## Scene setup
@@ -24,7 +24,7 @@ I feel this roll is not required, since this is a direct continuation of the pre
 The stairs end in a dark, oppressive corridor. It is damp and extremely filthy, with thick grime coating the floor like a second skin.
 
 Three doors line the right side, two line the left, and one stands sentinel at the far end.
-![](/images/2026/03/Screenshot-2026-03-13-at-10.53.54.png)
+![](/assets/img/2026/03/Screenshot-2026-03-13-at-10.53.54.png)
 > **Q: Do we hear the groaning noises?**
 > Modificator: +60 (a certainty)
 > [D100 + 60]: [35 + 60] => Yes
@@ -47,7 +47,7 @@ Despite the thick walls, we hear the groaning noises again, unmistakable and clo
 > [D100]: [57] => maybe
 
 We ease open the first door. Behind it, Hattie LaRue is struggling against a dark shape—a man in a black robe trying to force her into a ceremonial garment.
-![](/images/2026/03/Screenshot-2026-03-13-at-12.38.06.png)
+![](/assets/img/2026/03/Screenshot-2026-03-13-at-12.38.06.png)
 > **Remy Stealth skill check**
 > [D100]: [17] => hard success
 
@@ -104,11 +104,11 @@ We reach the final door.
 > [D100]: [38] => failure
 
 The door is too thick to betray the secrets within. I grip my .45, nod to Remy, and kick it open.
-![](/images/2026/03/Screenshot-2026-03-13-at-14.42.22.png)
+![](/assets/img/2026/03/Screenshot-2026-03-13-at-14.42.22.png)
 The room is circular, centered around a large drainage grate. An ancient stone altar stands at the far end, carved with runes that seem to pulse in the dim light. Thibodeaux is there, draped in purple silk and brandishing a ritual dagger. He whirls around, his face twisting from shock to pure, unadulterated rage.
 
 **Thibodeaux:** "YOU! What have you done? The ritual MUST be celebrated! Summanus awaits, you fools!"
-![](/images/2026/03/Screenshot-2026-03-13-at-14.51.52.png)
+![](/assets/img/2026/03/Screenshot-2026-03-13-at-14.51.52.png)
 Thibodeaux moves with a frantic, supernatural speed. He begins a guttural chant.
 
 > Combat - Thibodeaux's turn

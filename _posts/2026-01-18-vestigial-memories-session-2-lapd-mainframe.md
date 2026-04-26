@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-2-lapd-mainframe
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_core08_tools_of_the_trade_188-189.webp
+    image: /assets/img/2026/01/br_core08_tools_of_the_trade_188-189.webp
     alt: "Vestigial Memories, Session 2: LAPD Mainframe"
 description:
-image: /images/2026/01/br_core08_tools_of_the_trade_188-189.webp
+image: /assets/img/2026/01/br_core08_tools_of_the_trade_188-189.webp
 summary: "Session 2 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke digs out a cold case file from the LAPD mainframe, looking for leads on the murder of Rhea Lang."
 ---
 ## The Investigation: Digging Through the Digital Ash
@@ -32,7 +32,7 @@ The terminal hums to life, and the file pulls up with surprising clarity. Better
 ### Findings: The Victim
 
 I check the date: **February 2nd, 2011.** My breath hitches. It’s confirmed. This isn’t just a case; it’s *the* night. I was there, a terrified child in the crowd at the Snake Pit. The report matches my memory with cold, clinical precision. *[This confirmation comes from the 2 successes]*
-![](/images/2026/01/lang.png)
+![](/assets/img/2026/01/lang.png)
 - **Subject:** Rhea Lang (28).
 - **Profile:** An accountant for Tyrell Corp since her graduation six years prior.
 - **Details:** No criminal record. Her file photo shows a woman far too elegant for a low-level clerk.
@@ -49,7 +49,7 @@ I check the date: **February 2nd, 2011.** My breath hitches. It’s confirmed. T
 
 - **Connection to Kasper:** No link found. No shared history, no professional overlap. By all accounts, she was simply standing in the wrong place when the world went mad.
 
-![](/images/2026/01/kasper.png)
+![](/assets/img/2026/01/kasper.png)
 ### Findings: The Suspect (KS-1108 "Kasper")
 
 - **Technical Specs:** Inception date 2009. Expiration date 2013. If he’s alive today, he’s 24 years past his "sell-by" date.

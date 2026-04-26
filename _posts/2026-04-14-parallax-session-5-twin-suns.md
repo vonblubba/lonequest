@@ -6,10 +6,10 @@ draft: false
 slug: parallax-session-5-twin-suns
 tags: ["Delta Green","PARALLAX"]
 cover:
-    image: /images/2026/03/suns.webp
+    image: /assets/img/2026/03/suns.webp
     alt: "PARALLAX, Session 5: Twin Suns"
 description:
-image: /images/2026/03/suns.webp
+image: /assets/img/2026/03/suns.webp
 summary: "Session 5 of the campaign PARALLAX for Delta Green, where things get moving before Lawrence is contacted again."
 ---
 ## Scene setup

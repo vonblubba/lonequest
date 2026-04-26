@@ -6,16 +6,16 @@ draft: false
 slug: vestigial-meories-session-1-case-briefieng
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_core07_working_the_case_158-159-1.webp
+    image: /assets/img/2026/01/br_core07_working_the_case_158-159-1.webp
     alt: "Vestigial Memories, Session 1: Case briefing"
 description:
-image: /images/2026/01/br_core07_working_the_case_158-159-1.webp
+image: /assets/img/2026/01/br_core07_working_the_case_158-159-1.webp
 summary: "Session 1 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke's downtime is cut short by Deputy Chief Holden that wants him on a new case."
 ---
 ## The Assignment: Echoes of the Snake Pit
 
 I was at home, nursing a whisky sour and watching the rain streak against the grime of my windows, when the call came in. It was **Holden**. No small talk, just the usual order: *Report in. New case.*
-![](/images/2026/01/holdeb.png)
+![](/assets/img/2026/01/holdeb.png)
 ### Case Brief: The Replicant Who Shouldn't Exist
 
 > **Case Briefing Table 1 - Assigment:**
@@ -59,7 +59,7 @@ As I looked over the details, a cold sensation crawled up my spine. The nightclu
 > [D10]: [1] => Extreme no
 
 **Holden:** "No. She passed away a few years ago. At least she got to taste retirement before the city took her. Most of us don't."
-![](/images/2026/01/kamarr_cold-1.png)
+![](/assets/img/2026/01/kamarr_cold-1.png)
 **Locke:** "Shame. Sounds like someone I would have liked. I’m going to need the full cold case file."
 
 **Holden:** "You have access to whatever survived the Blackout. But Locke? Don't expect much. Most of the data is corrupted or gone. Double-check everything."

@@ -2,9 +2,9 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-image: /images/2026/01/dice-7270763_640.jpg
+image: /assets/img/2026/01/dice-7270763_640.jpg
 cover:
-    image: /images/2026/01/dice-7270763_640.jpg
+    image: /assets/img/2026/01/dice-7270763_640.jpg
     alt: About this site
 ---
 **Lone Quest** is a personal blog where I journal my solo TTRPG adventures.

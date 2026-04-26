@@ -6,10 +6,10 @@ draft: false
 slug: parallax-session-2-pariah
 tags: ["Delta Green","PARALLAX"]
 cover:
-    image: /images/2026/03/auttopsy.jpeg
+    image: /assets/img/2026/03/auttopsy.jpeg
     alt: "PARALLAX, Session 2: Pariah"
 description:
-image: /images/2026/03/auttopsy.jpeg
+image: /assets/img/2026/03/auttopsy.jpeg
 summary: "Session 2 of the campaign PARALLAX for Delta Green, where Lawrence's vision of the world is shaken to the core."
 ---
 ## Scene setup
@@ -53,7 +53,7 @@ The ink begins to shift before my eyes, pulsing with colors not of this world—
 *Get it together, Lawrence. Breathe. Think. There has to be a clinical explanation. A chemical reaction? A visual migraine?*
 
 The heavy thud of footsteps echoes from the corridor. The morgue door swings open, and a woman steps in who seems to command the very air in the room. She’s a powerhouse—maybe 6’4”, clearly samoan, with arms like corded oak. She’s wearing a U.S. Marines combat medic uniform, her name tag torn away.
-![](/images/2026/03/pariah.png)
+![](/assets/img/2026/03/pariah.png)
 **Woman:** "Hello there. Call me Pariah. You the one cutting the bodies today?"
 
 I stare at her, the bloody towel still pressed to my nose. She doesn't wait for an answer. She looks down at Baptiste, spots the tattoo, then looks at the blood on my hand. She sighs, a sound of heavy weariness.

@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-17-the-sea-wall-docks
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/02/br_core05_a_tale_of_two_cities_122-123.webp
+    image: /assets/img/2026/02/br_core05_a_tale_of_two_cities_122-123.webp
     alt: "Vestigial Memories, Session 17: The Sea Wall Docks"
 description:
-image: /images/2026/02/br_core05_a_tale_of_two_cities_122-123.webp
+image: /assets/img/2026/02/br_core05_a_tale_of_two_cities_122-123.webp
 summary: "Session 17 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where the final reckoning with Vestige is at hand."
 ---
 ## Scene setup
@@ -58,7 +58,7 @@ I don't go in alone. I’m not a martyr, and this isn't a job for one man. I cal
 
 > Rules say 3 promotion points and 1 shift to get support from Spec Ops, but I am ignoring the time requirements because Holden was forewarned of my plan.
 
-![](/images/2026/02/Screenshot-2026-02-05-at-16.22.07.png)3 promotion points spent
+![](/assets/img/2026/02/Screenshot-2026-02-05-at-16.22.07.png)3 promotion points spent
 Fifteen minutes later, the air vibrates with the hum of unmarked tactical spinners. Spec Ops moves like a scalpel. They don't ask questions about who I'm with or how I found the place. They launch micro-drones—detecting 32 heartbeats, light weaponry. I warn them they’re facing Replicants. They don't even blink.
 
 The assault is a symphony of flash-bangs and pulse-fire. Vestige is caught in the middle of a systemic failure; they were too busy staring at their dying vats to see the front door come off its hinges. Six "skinjobs" are retired on the floor. Twenty-six others are zip-tied and kneeling.

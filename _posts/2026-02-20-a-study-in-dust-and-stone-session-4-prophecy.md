@@ -6,10 +6,10 @@ draft: false
 slug: a-study-in-dust-and-stone-session-4-prophecy
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
-    image: /images/2026/02/bd413ddb75ff33f6bd1e5a61ea552057.jpg
+    image: /assets/img/2026/02/bd413ddb75ff33f6bd1e5a61ea552057.jpg
     alt: "A Study in Dust and Stone, Session 4: Prophecy"
 description:
-image: /images/2026/02/bd413ddb75ff33f6bd1e5a61ea552057.jpg
+image: /assets/img/2026/02/bd413ddb75ff33f6bd1e5a61ea552057.jpg
 summary: "Session 4 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where a dream becomes a prophecy."
 ---
 ## Scene setup
@@ -36,7 +36,7 @@ summary: "Session 4 of the scenario \"A study in Dust and Stone\" for Call of Ct
 *October 27th, 13:43 | The Garden District, Baton Rouge*
 
 Camille’s workplace is a short, fifteen-minute stroll from the gumbo shop. The Garden District is beautiful—all wrought-iron fences and ancient oaks—but the air feels heavy, as if the humidity is hiding a secret.
-![](/images/2026/02/camille.png)Camille Fontenot
+![](/assets/img/2026/02/camille.png)Camille Fontenot
 As we enter the upscale restaurant, Remy’s posture stiffens. He spots her immediately. She is serving an expensive dish to a wealthy woman, but her movements are jagged.
 
 > **NPC Modifier roll**

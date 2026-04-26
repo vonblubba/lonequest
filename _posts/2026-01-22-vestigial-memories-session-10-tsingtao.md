@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-10-tsingtao
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_core05_a_tale_of_two_cities_86-87.webp
+    image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_86-87.webp
     alt: "Vestigial Memories, Session 10: Tsingtao"
 description:
-image: /images/2026/01/br_core05_a_tale_of_two_cities_86-87.webp
+image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_86-87.webp
 summary: "Session 10 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke tracks down the bootleg replicant to Tsingtao corp."
 ---
 ## Scene setup

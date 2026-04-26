@@ -6,10 +6,10 @@ draft: false
 slug: a-study-in-dust-and-stone-session-7-jazz-night
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
-    image: /images/2026/03/jazz.jpg
+    image: /assets/img/2026/03/jazz.jpg
     alt: "A Study in Dust and Stone, Session 7: Jazz night"
 description:
-image: /images/2026/03/jazz.jpg
+image: /assets/img/2026/03/jazz.jpg
 summary: "Session 7 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy head for the lair of the Kraken."
 ---
 ## Scene setup
@@ -37,7 +37,7 @@ As darkness falls, we head for the Golden Kraken. We hop into a cab and hammer o
 **Remy:** "I've been there a few times for... business meetings. I know the bar personnel well. What worries me is avoiding Thibodeaux. If he spots us, we're done. He usually stays near the stage, so we should be fine if we keep our heads down. We go in, look for anything suspicious. Also, take this."
 
 He hands me a **.45 revolver**. I look at it anxiously—the cold steel feels heavy and wrong in my palm—but I tuck it into my pocket nonetheless.
-![](/images/2026/03/Screenshot-2026-03-12-at-09.00.54.png)Lorenzo and Remy arrive at the Golden Kraken
+![](/assets/img/2026/03/Screenshot-2026-03-12-at-09.00.54.png)Lorenzo and Remy arrive at the Golden Kraken
 The cab drops us in front of the Golden Kraken. A young Black receptionist greets us with a bright, practiced smile. 
 
 **Receptionist:** "Welcome to the Golden Kraken, esteemed customers! Please, enter and make yourselves comfortable. We have the best jazz in the city, and we can provide *all* kinds of beverages for your pleasure."
@@ -69,7 +69,7 @@ I spot Thibodeaux near the stage. He is leaning in close to a young woman in her
 > [D100]: [58] < [70] => success
 
 We slip into the corridor behind the stage and find the dressing room. The girl is inside, dabbing at tears with a silk handkerchief.
-![](/images/2026/03/Screenshot-2026-03-12-at-15.04.06.png)Lorenzo and Remy sneak into the dressing room
+![](/assets/img/2026/03/Screenshot-2026-03-12-at-15.04.06.png)Lorenzo and Remy sneak into the dressing room
 **Remy:** "Hello, Miss. I'm Remy Fontenot, and this is my associate, Mr. Bartolini. Could we have a moment of your time?" 
 **Girl:** "This really isn't a good time." 
 **Remy:** "I understand. See, I’m Camille’s brother. The singer you’re replacing? She had to leave because of some... unpleasantness with Mr. Thibodeaux. We just wanted to warn you." 

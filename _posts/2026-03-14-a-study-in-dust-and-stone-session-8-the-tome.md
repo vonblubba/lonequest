@@ -6,10 +6,10 @@ draft: false
 slug: a-study-in-dust-and-stone-session-8-the-tome
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
-    image: /images/2026/03/tome_2.jpg
+    image: /assets/img/2026/03/tome_2.jpg
     alt: "A Study in Dust and Stone, Session 8: The tome"
 description:
-image: /images/2026/03/tome_2.jpg
+image: /assets/img/2026/03/tome_2.jpg
 summary: "Session 9 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo takes a peek at forbidden knowledge"
 ---
 *October 28th, 10:17 a.m. | Prof. St. Claire office*
@@ -69,7 +69,7 @@ I turned to my companion. "Remy, your sister is safe now. You have no further ob
 > **Luck recovery roll**
 > [D100]: [80] > 35 => Remy recovers [D10]: [5] LP
 
-![](/images/2026/03/tome.png)
+![](/assets/img/2026/03/tome.png)
 ### Lorenzo's development phase
 
 > **Library use skill improvement roll**

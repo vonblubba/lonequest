@@ -6,10 +6,10 @@ draft: false
 slug: a-study-in-dust-and-stone-session-6-ancient-gods
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
-    image: /images/2026/02/tome.jpg
+    image: /assets/img/2026/02/tome.jpg
     alt: "A Study in Dust and Stone, Session 6: Ancient gods"
 description:
-image: /images/2026/02/tome.jpg
+image: /assets/img/2026/02/tome.jpg
 summary: "Session 6 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where some light is shed upon the situation"
 ---
 ## Scene setup
@@ -52,7 +52,7 @@ She hands me a note:
 **Lorenzo:** "Huh. Well, looks like the library will have to wait."
 
 ---
-![](/images/2026/02/st_claire.png)
+![](/assets/img/2026/02/st_claire.png)
 **St. Claire:** "Ah, Lorenzo. Finally." 
 
 Sterling is a man in his fifties, well-groomed and polite. He teaches Renaissance History at LSU and is a fellow member of the Dante Alighieri Society. He’s no stranger to matters of the occult.

@@ -6,10 +6,10 @@ draft: true
 slug: parallax-session-8-hasturs-shadow
 tags: ["Delta Green","PARALLAX"]
 cover:
-    image: /images/2026/04/Police-Building-Edit-3TAC_1611-1-scaled.jpg
+    image: /assets/img/2026/04/Police-Building-Edit-3TAC_1611-1-scaled.jpg
     alt: "PARALLAX, Session 8: Hastur's shadow"
 description:
-image: /images/2026/04/Police-Building-Edit-3TAC_1611-1-scaled.jpg
+image: /assets/img/2026/04/Police-Building-Edit-3TAC_1611-1-scaled.jpg
 summary: "Session 8 of the campaign PARALLAX for Delta Green, where the teams hits a dead end."
 ---
 ## Scene setup
@@ -93,4 +93,4 @@ Pariah flips open her laptop, her fingers flying across the keys as she attempts
 ## Scene Bookkeeping
 
 **Chaos factor:** 6 (unchanged)
-![](/images/2026/04/Screenshot-2026-04-15-at-13.19.31.png)![](/images/2026/04/Screenshot-2026-04-15-at-13.19.45.png)
+![](/assets/img/2026/04/Screenshot-2026-04-15-at-13.19.31.png)![](/assets/img/2026/04/Screenshot-2026-04-15-at-13.19.45.png)

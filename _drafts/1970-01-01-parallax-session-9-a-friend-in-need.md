@@ -6,10 +6,10 @@ draft: true
 slug: parallax-session-9-a-friend-in-need
 tags: ["Delta Green","PARALLAX"]
 cover:
-    image: /images/2026/04/h.webp
+    image: /assets/img/2026/04/h.webp
     alt: "PARALLAX, Session 9: A friend in need"
 description:
-image: /images/2026/04/h.webp
+image: /assets/img/2026/04/h.webp
 summary: "Session 9 of the campaign PARALLAX for Delta Green, where a friend faces danger."
 ---
 ## Scene setup

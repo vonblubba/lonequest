@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-15-the-snake-pit
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/02/br_large_handout_sheets_snake_pit.webp
+    image: /assets/img/2026/02/br_large_handout_sheets_snake_pit.webp
     alt: "Vestigial Memories, Session 15: The Snake Pit"
 description:
-image: /images/2026/02/br_large_handout_sheets_snake_pit.webp
+image: /assets/img/2026/02/br_large_handout_sheets_snake_pit.webp
 summary: "Session 15 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke's enemies are closing in."
 ---
 ## **Scene setup**
@@ -64,7 +64,7 @@ We slip out to the Spinner. I don't talk until we’re airborne, circling the ne
 He doesn't argue. I drop him in Hawker’s Circle and pull a dangerous U-turn. I have to get back. I told Kael to meet me there, and I’ve just walked him into a kill box.
 
 ---
-![](/images/2026/02/kael.png)
+![](/assets/img/2026/02/kael.png)
 I re-enter the Snake Pit, my hand on the butt of my blaster. I spot Kael at the bar. He’s clean—no drink in front of him. 
 
 > **Observation roll:**

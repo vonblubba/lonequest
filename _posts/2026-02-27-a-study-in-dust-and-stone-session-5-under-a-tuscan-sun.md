@@ -6,10 +6,10 @@ draft: false
 slug: a-study-in-dust-and-stone-session-5-under-a-tuscan-sun
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
-    image: /images/2026/02/maxresdefault.jpg
+    image: /assets/img/2026/02/maxresdefault.jpg
     alt: "A Study in Dust and Stone, Session 5: Under a Tuscan sun"
 description:
-image: /images/2026/02/maxresdefault.jpg
+image: /assets/img/2026/02/maxresdefault.jpg
 summary: "Session 5 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where the investigation takes a Tuscan turn"
 ---
 ## Scene setup
@@ -69,7 +69,7 @@ His chanting reached a fever pitch. With a swift, practiced motion, he dragged t
 He had a point.
 
 We knocked. The chanting stopped instantly. After a tense silence, the door opened. A Black man in his sixties stood there; he had discarded the robe but was awkwardly hiding his bandaged forearm behind his back.
-![](/images/2026/02/Thibodeaux.jpg)
+![](/assets/img/2026/02/Thibodeaux.jpg)
 **Remy:** "Mr. Thibodeaux? My name is Remy. I’m a pianist. The manager at the Kraken said I needed your approval to be hired. Hope it’s a good time."
 
 > **Fast Talk skill check**

@@ -6,10 +6,10 @@ draft: false
 slug: a-study-in-dust-and-stone-session-2-dreams-and-visions
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
-    image: /images/2026/02/train-1.png
+    image: /assets/img/2026/02/train-1.png
     alt: "A Study in Dust and Stone, Session 2: Dreams and Visions"
 description:
-image: /images/2026/02/train-1.png
+image: /assets/img/2026/02/train-1.png
 summary: "Session 2 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo receives a warning."
 ---
 ## Scene setup
@@ -66,7 +66,7 @@ Driven by a buzzing in my skull, I stepped out of the iron carriage and found my
 A mermaid with skin like midnight sat upon a salt-stained rock, bathing in the sun. Beneath the waves, a mountain of gold stirred—a giant squid, its metallic hide gleaming with a predatory luster.
 
 She sang, and the gold moved. The water erupted. The event was gruesome: the squid did not just kill her, it erased her.
-![](/images/2026/02/mermaid.png)
+![](/assets/img/2026/02/mermaid.png)
 "Sir! Sir, you all right?"
 
 The world snapped back into focus with a jolt. The sun was still bright, the passengers were back, and a man was shaking my shoulder. He was rugged, with the steady hands of someone who worked with machines—or guns.

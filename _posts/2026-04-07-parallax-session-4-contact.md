@@ -6,10 +6,10 @@ draft: false
 slug: parallax-session-4-contact
 tags: ["Delta Green","PARALLAX"]
 cover:
-    image: /images/2026/03/confroom.jpg
+    image: /assets/img/2026/03/confroom.jpg
     alt: "PARALLAX, Session 4: Contact"
 description:
-image: /images/2026/03/confroom.jpg
+image: /assets/img/2026/03/confroom.jpg
 summary: "Session 4 of the campaign PARALLAX for Delta Green, where Lawrence gets an interesting briefing."
 ---
 ## Scene setup
@@ -149,4 +149,4 @@ I nod, a chill running down my spine. The fact that she knows I talk to Akira is
 ## Scene bookkeeping
 
 **Chaos factor**: unchanged = 6
-![](/images/2026/03/npc.png)![](/images/2026/03/thread.png)
+![](/assets/img/2026/03/npc.png)![](/assets/img/2026/03/thread.png)

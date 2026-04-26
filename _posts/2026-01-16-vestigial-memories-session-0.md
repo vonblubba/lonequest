@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-0
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_core01_fiery_the-angels_fell_4-5.png
+    image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.png
     alt: "Vestigial Memories, Session 0:  Character creation"
 description:
-image: /images/2026/01/br_core01_fiery_the-angels_fell_4-5.png
+image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.png
 summary: "Session 0 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where we meet Nathaniel Locke, veteran cityspeaker for the LAPD Replicant Detection Unit."
 ---
 This is the beginning of a new solo adventure for the **Blade Runner RPG** by [Freelegue Publishing](https://freeleaguepublishing.com). At the moment of writing, a beta version for the solo rules is available, so that's what I will use.
@@ -19,7 +19,7 @@ I also use Foundry to manage the game sessions.
 **"Vestigial Memories"** is a solo adventure. This story is being built piece by piece—roll by roll—with no preexisting direction. Using the solo rules tables, I have allowed the dice to shape the protagonist and his history.
 
 Let's meet the main character.
-![](/images/2026/01/Screenshot-2026-01-19-at-16.41.54.png)
+![](/assets/img/2026/01/Screenshot-2026-01-19-at-16.41.54.png)
 ## The Blade Runner: Nathaniel Locke
 
 Nathaniel is a **Cityspeaker**, a veteran human Blade Runner with a decade on the force. He’s seen the worst the city has to offer, and it shows.
@@ -72,7 +72,7 @@ Locke’s history is defined by isolation. After a traumatic childhood, he strug
 A man pulled a gun, screaming, and fired blindly. A woman fell.
 Then, she appeared. A woman stepped from the shadows, hands raised, perfectly calm. She spoke to the gunman. They talked for what felt like hours—a private conversation in the middle of a massacre. He dropped the gun. When the police arrived, they treated her with a deference I’d never seen. They called her a 'Blade Runner.'
 I survived that night emboldened by single realization: words are more powerful than bullets.*
-![](/images/2026/01/Screenshot-2026-01-16-at-15.36.40.png)
+![](/assets/img/2026/01/Screenshot-2026-01-16-at-15.36.40.png)
 ## Key Relationship: Dante "Static" Riggs
 
 > **Key Relationship Table 1 roll:**

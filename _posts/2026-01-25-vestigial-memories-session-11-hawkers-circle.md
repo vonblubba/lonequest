@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-11-hawkers-circle
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_core01_fiery_the-angels_fell_4-5.webp
+    image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.webp
     alt: "Vestigial Memories, Session 11: Hawker's Circle"
 description:
-image: /images/2026/01/br_core01_fiery_the-angels_fell_4-5.webp
+image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.webp
 summary: "Session 11 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke takes some time off that leads to an unexpected meeting."
 ---
 ## Scene setup
@@ -31,7 +31,7 @@ I can't go home. My apartment feels like a trap, and the silence there is too lo
 > Result: [2 + 6] => Capture + Dream => The woman from my key memory talks about replicant captivity
 
 An elderly woman sits on a bench nearby, her face a map of lived-in history. She watches me with eyes that have seen too much.
-![](/images/2026/01/kamarr-1.png)
+![](/assets/img/2026/01/kamarr-1.png)
 **Woman:** "Bad day, young man?" 
 **Locke:** "You could say that, lady." 
 **Woman:** [Laughing softly] "A nice single malt usually helps me when the world gets heavy." 

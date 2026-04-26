@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-16-lapd
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/02/br_core07_working_the_case_158-159-1-1.webp
+    image: /assets/img/2026/02/br_core07_working_the_case_158-159-1-1.webp
     alt: "Vestigial Memories, Session 16: LAPD"
 description:
-image: /images/2026/02/br_core07_working_the_case_158-159-1-1.webp
+image: /assets/img/2026/02/br_core07_working_the_case_158-159-1-1.webp
 summary: "Session 16 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke finally pieces together the whole mess."
 ---
 ## Scene setup
@@ -27,7 +27,7 @@ Time to report to Holden, but before I face him, I need more than a hunch. I ret
 > [D10 + D6 + Adv because done locally]: [10 + (1 + 1)] => 2 successes
 
 I dig into the restricted archives of **Libby Kamarr**. Born 1976. RDU in 2006. One of the most decorated Runners in history—124 retirements. But then, the cracks appear. Six months before she "retired," there was an informal reprimand. She’d broken Detective Sean O’Mallon’s jaw in the middle of a precinct hallway.
-![](/images/2026/02/kamarr_cold-1.png)
+![](/assets/img/2026/02/kamarr_cold-1.png)
 The context: A female replicant was being retired for "assaulting" her owner. The owner claimed robbery; the girl claimed he’d forced her into a crime. O’Mallon—a sadistic fossil who treated skinjobs like scrap metal—had "handled" the retirement with his usual brutality. Kamarr watched it, then leveled him.
 
 She wasn't just a cop; she was a sympathizer. Her "death" in an apartment fire was too convenient. A body burned to ash, identified only by a few teeth left behind in the debris. In this city, that’s not a death—it’s a career change.
@@ -41,7 +41,7 @@ The desk phone screams. It’s Holden.
 ---
 
 I walk in, and the air is practically vibrating with Holden's rage.
-![](/images/2026/02/holdeb.png)
+![](/assets/img/2026/02/holdeb.png)
 **Holden:** "The Snake Pit? Again? I told you to keep a lid on this, Locke! Now I've got two gunmen shooting up a nightclub. What the hell is going on?"
 
 **Locke:** "They tried to poison me at the Pit, Sarge. I barely made it to the sink in time. They’re desperate because I finally found out who’s running the show."

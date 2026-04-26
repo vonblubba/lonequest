@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-debriefing
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/02/br_core07_working_the_case_158-159-1-1-1.webp
+    image: /assets/img/2026/02/br_core07_working_the_case_158-159-1-1-1.webp
     alt: Vestigial Memories, Debriefing
 description:
-image: /images/2026/02/br_core07_working_the_case_158-159-1-1-1.webp
+image: /assets/img/2026/02/br_core07_working_the_case_158-159-1-1-1.webp
 summary: "Final debriefing for the \"Vestigial memories\" scenario"
 ---
 Holden is pacing his office, the neon glow of a "Wallace Corp" billboard across the street strobing rhythmically against his tired face. The arrest reports are stacked high on his desk, but there’s a hole in the middle of them where Kamarr’s name should be.

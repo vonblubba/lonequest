@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-14-holdens-office
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_core07_working_the_case_158-159-1-1.webp
+    image: /assets/img/2026/01/br_core07_working_the_case_158-159-1-1.webp
     alt: "Vestigial Memories, Session 14: Holden's Office"
 description:
-image: /images/2026/01/br_core07_working_the_case_158-159-1-1.webp
+image: /assets/img/2026/01/br_core07_working_the_case_158-159-1-1.webp
 summary: "Session 14 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke must report back to Holden without revealing too much."
 ---
 ## Scene setup
@@ -34,7 +34,7 @@ I take a seat, forcing my posture to look relaxed despite my cracked ribs.
 **Locke:** "There’s a faction with... ethical hang-ups. Hard to believe, but Zhao and the K-model I found are part of it. They’ve been sabotaging the operation for years. They’re the ones who blew the production site and stole the master data drive. They don't just want to stop Vestige; they want to erase it. They’re planning something big, something final. I’m still tracking the movement."
 
 Holden stares at me, his eyes searching mine for the twitch of a lie.
-![](/images/2026/01/holdeb-1.png)
+![](/assets/img/2026/01/holdeb-1.png)
 > **Opposed roll: Manipulation vs Insight
 > Advantage for locke:** Holden has no reason to doubt my word, plus I'm mostly telling the truth
 > Locke's [D12 + D10 + advantage] vs Holden's [D10 + D12] (taken from the official rules stats)

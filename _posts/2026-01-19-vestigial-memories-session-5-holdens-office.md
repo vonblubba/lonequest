@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-5-holdens-office
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_core07_working_the_case_158-159-2.webp
+    image: /assets/img/2026/01/br_core07_working_the_case_158-159-2.webp
     alt: "Vestigial Memories, Session 5: Holden's Office"
 description:
-image: /images/2026/01/br_core07_working_the_case_158-159-2.webp
+image: /assets/img/2026/01/br_core07_working_the_case_158-159-2.webp
 summary: "Session 5 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke reports to Deputy Chief Holden and finds out that something much more sinister than expected is going on."
 ---
 ### Scene setup

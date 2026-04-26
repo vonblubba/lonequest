@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-13-ucla
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/ucla.jpg
+    image: /assets/img/2026/01/ucla.jpg
     alt: "Vestigial Memories, Session 13: UCLA"
 description:
-image: /images/2026/01/ucla.jpg
+image: /assets/img/2026/01/ucla.jpg
 summary: "Session 13 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke finds a way to alter Vestige's data at the cost of some of his own pride."
 ---
 ## Scene setup
@@ -50,7 +50,7 @@ I knock.
 **Sterling:** [A heavy sigh, then the buzz of the lock] "Come in."
 
 The office is a tomb of digital scrolls and DNA models. She doesn't look up from her screen.
-![](/images/2026/01/sterling.png)Prof. sterling at work
+![](/assets/img/2026/01/sterling.png)Prof. sterling at work
 **Sterling:** "What is it this time, Locke? Do I need to explain how to spell 'Deoxyribonucleic' for your report again?" 
 **Locke:** [Ignoring the jab] "Indulge me, Professor. Suppose you had a sequence for a biosynthetic organism. What kind of subtle, untraceable alteration could cause the production process to fail halfway through the vats?"
 

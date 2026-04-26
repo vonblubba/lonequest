@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-3-the-witness
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_large_handout_sheets_apartment.webp
+    image: /assets/img/2026/01/br_large_handout_sheets_apartment.webp
     alt: "Vestigial Memories, Session 3: The Witness"
 description:
-image: /images/2026/01/br_large_handout_sheets_apartment.webp
+image: /assets/img/2026/01/br_large_handout_sheets_apartment.webp
 summary: "Session 3 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke travels to the Red Lights district to interrogate the main witness.  Is this a mistaken identity case or is there something worse going on?"
 ---
 ### Scene setup
@@ -40,7 +40,7 @@ I hit the buzzer. After a long beat, a voice like grinding gravel comes through 
 **Locke:** "LAPD. Open up."
 
 The lock clicks. Inside, the apartment is a jarring contrast to the hallway—decrepit, yes, but meticulously kept. It smells of old paper and stale time. Nombeko Esposito stands near the inner door, looking like he’s ready to bolt. I hope he doesn't; it’s too wet for a chase today.
-![](/images/2026/01/esposito.png)
+![](/assets/img/2026/01/esposito.png)
 ### The Interview
 
 **Locke:** "You know why I’m here. Kasper."

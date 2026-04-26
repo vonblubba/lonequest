@@ -6,10 +6,10 @@ draft: false
 slug: parallax-session-1-the-po-boy
 tags: ["Delta Green","PARALLAX"]
 cover:
-    image: /images/2026/03/office.png
+    image: /assets/img/2026/03/office.png
     alt: "PARALLAX, Session 1: The po-boy"
 description:
-image: /images/2026/03/office.png
+image: /assets/img/2026/03/office.png
 summary: "Session 1 of the campaign PARALLAX for Delta Green, where Lawrence gets some work to do."
 ---
 ## Scene setup
@@ -40,7 +40,7 @@ The first step is to decide how much your character knows at the beginning of th
 *Wednesday, October 12th, 1995. 9:48 a.m.*
 
 It’s a gray, rain-slicked morning in New Orleans. The humidity is thick enough to chew. Jo swings into my office, the smell of wet pavement trailing behind her.
-![](/images/2026/03/jo-1.png)
+![](/assets/img/2026/03/jo-1.png)
 **Jo:** "Hey, Law. You look bored. I brought you something to wake you up."
 
 **Lawrence:** "Careful, Jo. Your 'toys' usually come in body bags. Not much to be thankful for there."

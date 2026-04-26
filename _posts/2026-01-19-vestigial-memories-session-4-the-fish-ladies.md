@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-4-the-fish-ladies
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_core05_a_tale_of_two_cities_112-113.webp
+    image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_112-113.webp
     alt: "Vestigial Memories, Session 4: The Fish Ladies"
 description:
-image: /images/2026/01/br_core05_a_tale_of_two_cities_112-113.webp
+image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_112-113.webp
 summary: "Session 4 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke visits Animoid Row to verify the witness' statements. This takes him to the Fish Ladies, a shop specialized in aquatic animoids."
 ---
 ### Scene setup
@@ -39,7 +39,7 @@ summary: "Session 4 of the scenario \"Vestigial Memories\" for the Blade Runner 
 ---
 
 I park my Spinner a few blocks away. I don’t want the blue-and-reds announcing my arrival. The **Fish Ladies** stall is a neon-soaked open bar built into the face of a crumbling tenement, right next to my favorite dumpling stand. Synthetic fish, suspended in glowing tanks, cast eerie shadows over the crowd.
-![](/images/2026/01/Screenshot-2026-01-19-at-11.04.04.png)
+![](/assets/img/2026/01/Screenshot-2026-01-19-at-11.04.04.png)
 I spot her: **Mei Lin Zhao**, the proprietor. She’s in her sixties, sharp-eyed and wearing the weariness of the district like a shroud. I decide to keep my badge in my pocket for now.
 
 ### The Encounter

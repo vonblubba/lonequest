@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-interlude-the-snake-pit
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_large_handout_sheets_snake_pit.webp
+    image: /assets/img/2026/01/br_large_handout_sheets_snake_pit.webp
     alt: "Vestigial Memories, Interlude: The Snake Pit"
 description:
-image: /images/2026/01/br_large_handout_sheets_snake_pit.webp
+image: /assets/img/2026/01/br_large_handout_sheets_snake_pit.webp
 summary: "Interlude for the scenario \"Vestigial Memories\" for the Blade Runner RPG, where while en route to the warehouse district, Locke receives a disturbing message from a CI."
 ---
 ## Scene setup
@@ -33,7 +33,7 @@ Shit. I write back.
 
 > *Meet me at the Snake Pit in 15*
 
-![](/images/2026/01/Screenshot-2026-01-16-at-15.36.40-1.png)
+![](/assets/img/2026/01/Screenshot-2026-01-16-at-15.36.40-1.png)
 ### The Meeting
 
 The Snake Pit is a hollowed-out cavern of red light and synthetic smoke. I take my usual stool at the corner of the bar, the one with a clear view of the stage. A daiquiri sits untouched in my hand.

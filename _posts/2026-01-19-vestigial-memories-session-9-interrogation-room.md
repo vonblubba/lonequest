@@ -6,10 +6,10 @@ draft: false
 slug: vestigial-memories-session-9-interrogation-room
 tags: ["Blade Runner","Vestigial Memories"]
 cover:
-    image: /images/2026/01/br_core08_tools_of_the_trade_174-175-2.webp
+    image: /assets/img/2026/01/br_core08_tools_of_the_trade_174-175-2.webp
     alt: "Vestigial Memories, Session 8: Interrogation room"
 description:
-image: /images/2026/01/br_core08_tools_of_the_trade_174-175-2.webp
+image: /assets/img/2026/01/br_core08_tools_of_the_trade_174-175-2.webp
 summary: "Session 8 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where it's time for Locke to interrogate Zhao again. Does he have enough dirt on her to get the information he needs?"
 ---
 ### **Scene setup**

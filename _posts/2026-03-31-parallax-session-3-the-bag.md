@@ -5,6 +5,7 @@ title: "PARALLAX, Session 3: The Bag"
 draft: false
 slug: parallax-session-3-the-bag
 tags: ["Delta Green","PARALLAX"]
+categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/bag.jpeg
     alt: "PARALLAX, Session 3: The Bag"

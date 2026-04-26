@@ -5,6 +5,7 @@ title: "A Study in Dust and Stone, Session 2: Dreams and Visions"
 draft: false
 slug: a-study-in-dust-and-stone-session-2-dreams-and-visions
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/train-1.png
     alt: "A Study in Dust and Stone, Session 2: Dreams and Visions"

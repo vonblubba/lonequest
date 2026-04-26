@@ -5,6 +5,7 @@ title: "PARALLAX, Session 6: The Green Box"
 draft: false
 slug: parallax-session-6-the-green-box
 tags: ["Delta Green","PARALLAX"]
+categories: ["Delta Green","PARALLAX"]
 image: /assets/img/2026/03/storage.jpeg
 cover:
     image: /assets/img/2026/03/storage.jpeg

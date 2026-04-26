@@ -5,6 +5,7 @@ title: "PARALLAX, Session 4: Contact"
 draft: false
 slug: parallax-session-4-contact
 tags: ["Delta Green","PARALLAX"]
+categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/confroom.jpg
     alt: "PARALLAX, Session 4: Contact"

@@ -4,7 +4,8 @@ lastmod: 2026-02-05T15:26:22.000Z
 title: "Vestigial Memories, Session 4: The Fish Ladies"
 draft: false
 slug: vestigial-memories-session-4-the-fish-ladies
-tags: ["Blade Runner","Vestigial Memories"]
+tags: ["Blade Runner RPG", "Vestigial Memories"]
+categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_112-113.webp
     alt: "Vestigial Memories, Session 4: The Fish Ladies"

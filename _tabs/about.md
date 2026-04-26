@@ -7,6 +7,8 @@ cover:
     image: /assets/img/2026/01/dice-7270763_640.jpg
     alt: About this site
 ---
+![Dices!](/assets/img/2026/01/dice-7270763_640.jpg)
+
 **Lone Quest** is a personal blog where I journal my solo TTRPG adventures.
 
 I use several different systems, but I prefer SciFi and Horror settings (*Call of Cthulhu, Delta Green, Imperium Maledictum, Mothership* to name a few). 

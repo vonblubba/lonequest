@@ -4,7 +4,8 @@ lastmod: 2026-01-27T08:12:57.000Z
 title: "Vestigial Memories, Session 13: UCLA"
 draft: false
 slug: vestigial-memories-session-13-ucla
-tags: ["Blade Runner","Vestigial Memories"]
+tags: ["Blade Runner RPG", "Vestigial Memories"]
+categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/ucla.jpg
     alt: "Vestigial Memories, Session 13: UCLA"

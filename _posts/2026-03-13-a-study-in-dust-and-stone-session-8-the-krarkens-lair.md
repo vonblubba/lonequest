@@ -5,6 +5,7 @@ title: "A Study in Dust and Stone, Session 8: the Krarken's Lair"
 draft: false
 slug: a-study-in-dust-and-stone-session-8-the-krarkens-lair
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/03/dark-cellar-with-barrels-wine-it_902338-7250.png
     alt: "A Study in Dust and Stone, Session 8: the Krarken's Lair"

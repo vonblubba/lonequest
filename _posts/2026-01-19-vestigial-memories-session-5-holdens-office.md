@@ -4,7 +4,8 @@ lastmod: 2026-02-05T15:18:17.000Z
 title: "Vestigial Memories, Session 5: Holden's Office"
 draft: false
 slug: vestigial-memories-session-5-holdens-office
-tags: ["Blade Runner","Vestigial Memories"]
+tags: ["Blade Runner RPG", "Vestigial Memories"]
+categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core07_working_the_case_158-159-2.webp
     alt: "Vestigial Memories, Session 5: Holden's Office"

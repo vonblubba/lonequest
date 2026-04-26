@@ -5,6 +5,7 @@ title: "A Study in Dust and Stone, Session 3: Gumbo and Books"
 draft: false
 slug: a-study-in-dust-and-stone-session-3-gumbo-and-books
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/gumbo.png
     alt: "A Study in Dust and Stone, Session 3: Gumbo and Books"

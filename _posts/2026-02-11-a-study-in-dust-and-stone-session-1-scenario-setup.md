@@ -5,6 +5,7 @@ title: "A Study in Dust and Stone, Session 1:  Scenario setup"
 draft: false
 slug: a-study-in-dust-and-stone-session-1-scenario-setup
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/train.png
     alt: "A Study in Dust and Stone, Session 1:  Scenario setup"

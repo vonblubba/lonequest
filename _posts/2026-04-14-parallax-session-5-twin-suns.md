@@ -5,6 +5,7 @@ title: "PARALLAX, Session 5: Twin Suns"
 draft: false
 slug: parallax-session-5-twin-suns
 tags: ["Delta Green","PARALLAX"]
+categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/suns.webp
     alt: "PARALLAX, Session 5: Twin Suns"

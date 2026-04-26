@@ -4,7 +4,8 @@ lastmod: 2026-02-05T15:31:36.000Z
 title: "Vestigial Memories, Session 15: The Snake Pit"
 draft: false
 slug: vestigial-memories-session-15-the-snake-pit
-tags: ["Blade Runner","Vestigial Memories"]
+tags: ["Blade Runner RPG", "Vestigial Memories"]
+categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/02/br_large_handout_sheets_snake_pit.webp
     alt: "Vestigial Memories, Session 15: The Snake Pit"

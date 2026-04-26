@@ -4,7 +4,8 @@ lastmod: 2026-01-26T11:52:31.000Z
 title: "Vestigial Memories, Session 12: Dante's Lair"
 draft: false
 slug: vestigial-memories-session-12-dantes-lair
-tags: ["Blade Runner","Vestigial Memories"]
+tags: ["Blade Runner RPG", "Vestigial Memories"]
+categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/riggs_lair.png
     alt: "Vestigial Memories, Session 12: Dante's Lair"

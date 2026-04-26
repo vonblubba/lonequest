@@ -5,6 +5,7 @@ title: "A Study in Dust and Stone, Session 4: Prophecy"
 draft: false
 slug: a-study-in-dust-and-stone-session-4-prophecy
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/bd413ddb75ff33f6bd1e5a61ea552057.jpg
     alt: "A Study in Dust and Stone, Session 4: Prophecy"

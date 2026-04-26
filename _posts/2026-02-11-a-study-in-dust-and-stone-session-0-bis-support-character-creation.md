@@ -5,6 +5,7 @@ title: "A Study in Dust and Stone, Session 0/bis: Support Character creation"
 draft: false
 slug: a-study-in-dust-and-stone-session-0-bis-support-character-creation
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/banner_00-1.png
     alt: "A Study in Dust and Stone, Session 0/bis: Support Character creation"

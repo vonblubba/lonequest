@@ -4,7 +4,8 @@ lastmod: 2026-01-21T13:52:42.000Z
 title: "Vestigial Memories, Interlude: Locke's Apartment"
 draft: false
 slug: vestigial-memories-session-6bis-lockes-apartment
-tags: ["Blade Runner","Vestigial Memories"]
+tags: ["Blade Runner RPG", "Vestigial Memories"]
+categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_108-109-1.webp
     alt: "Vestigial Memories, Interlude: Locke's Apartment"

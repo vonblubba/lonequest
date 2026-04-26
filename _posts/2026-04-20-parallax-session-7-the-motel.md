@@ -5,6 +5,7 @@ title: "PARALLAX, Session 7: The Motel"
 draft: false
 slug: parallax-session-7-the-motel
 tags: ["Delta Green","PARALLAX"]
+categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/04/What-is-a-Motel-1.webp
     alt: "PARALLAX, Session 7: The Motel"

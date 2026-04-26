@@ -4,7 +4,8 @@ lastmod: 2026-01-21T13:54:23.000Z
 title: "Vestigial Memories, Session 9: Runciter's Zoological"
 draft: false
 slug: vestigial-memories-session-9-runciters-zoological
-tags: ["Blade Runner","Vestigial Memories"]
+tags: ["Blade Runner RPG", "Vestigial Memories"]
+categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_fa_large_handout_sheets_275x212_crime_runciters.webp
     alt: "Vestigial Memories, Session 9: Runciter's Zoological"

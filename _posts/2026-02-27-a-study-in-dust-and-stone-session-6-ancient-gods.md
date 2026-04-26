@@ -5,6 +5,7 @@ title: "A Study in Dust and Stone, Session 6: Ancient gods"
 draft: false
 slug: a-study-in-dust-and-stone-session-6-ancient-gods
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/tome.jpg
     alt: "A Study in Dust and Stone, Session 6: Ancient gods"

@@ -4,7 +4,8 @@ lastmod: 2026-01-21T13:54:54.000Z
 title: "Vestigial Memories, Interlude: The Snake Pit"
 draft: false
 slug: vestigial-memories-interlude-the-snake-pit
-tags: ["Blade Runner","Vestigial Memories"]
+tags: ["Blade Runner RPG", "Vestigial Memories"]
+categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_large_handout_sheets_snake_pit.webp
     alt: "Vestigial Memories, Interlude: The Snake Pit"

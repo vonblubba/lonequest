@@ -5,6 +5,7 @@ title: "A Study in Dust and Stone, Session 7: Jazz night"
 draft: false
 slug: a-study-in-dust-and-stone-session-7-jazz-night
 tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/03/jazz.jpg
     alt: "A Study in Dust and Stone, Session 7: Jazz night"

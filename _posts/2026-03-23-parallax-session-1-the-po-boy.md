@@ -5,6 +5,7 @@ title: "PARALLAX, Session 1: The po-boy"
 draft: false
 slug: parallax-session-1-the-po-boy
 tags: ["Delta Green","PARALLAX"]
+categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/office.png
     alt: "PARALLAX, Session 1: The po-boy"

@@ -4,7 +4,8 @@ lastmod: 2026-02-06T07:31:34.000Z
 title: "Vestigial Memories, Session 17: The Sea Wall Docks"
 draft: false
 slug: vestigial-memories-session-17-the-sea-wall-docks
-tags: ["Blade Runner","Vestigial Memories"]
+tags: ["Blade Runner RPG", "Vestigial Memories"]
+categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/02/br_core05_a_tale_of_two_cities_122-123.webp
     alt: "Vestigial Memories, Session 17: The Sea Wall Docks"

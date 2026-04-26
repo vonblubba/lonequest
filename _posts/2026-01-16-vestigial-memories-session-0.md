@@ -33,12 +33,12 @@ Nathaniel is a **Cityspeaker**, a veteran human Blade Runner with a decade on th
 
 **Appearance:** He wears clothes that are likely older than he is. His trenchcoat, battered by ten years of acid rain and grime, is a second skin—a testament to a career that hardens a man in more ways than one.
 
-> **Blade Runner Home roll: **  
+> **Blade Runner Home roll:**  
 > (D12): (7)
 
 **Home:** A sprawling, dilapidated apartment in an abandoned building on **Retirement Row**. It’s a place of leaking ceilings and piles of debris—a skeleton of a home for a man who lives among ghosts.
 
-> **Cityspeaker Specialty roll:**
+> **Cityspeaker Specialty roll:**  
 > (D3): (3) => Origami
 
 **Specialty:** When the stress of the job becomes unbearable, Locke folds intricate origami—sharp, precise shapes in a chaotic world.

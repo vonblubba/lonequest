@@ -19,10 +19,10 @@ summary: "Session 7 of the scenario \"A study in Dust and Stone\" for Call of Ct
 > [D100 + 1]: [84 + 1] => Dice Roll
 
 > Dice Roll table roll
-> [D100]: [2] => You hear something
+> (D100): (2) => You hear something
 
 > Auditory Effect table roll
-> [D100 + D100]: [23+ 1] => Groaning + Under floor/ground
+> (D100 + D100): (23+ 1) => Groaning + Under floor/ground
 
 Note: I used this scene to learn and experiment with Foundry VTT maps, tokens, lines of sight etc. Very powerful tools indeed.
 
@@ -51,13 +51,13 @@ I scan the room, my eyes searching for the rot beneath the glamour.
 > [D100]: [17 < 90] => Extreme Success.
 
 > **Q: Do we see anything cult-related?**
-> [D100]: [39] => Maybe
+> (D100): (39) => Maybe
 
 > **Q: What do we see?
 > Verbs table roll**
-> [D10 + D100]: [6 + 23] => examine
-> [D10 + D100]: [2 + 56] => beguile
-> [D10 + D100]: [2 + 77] => blurt
+> (D10 + D100): (6 + 23) => examine
+> (D10 + D100): (2 + 56) => beguile
+> (D10 + D100): (2 + 77) => blurt
 
 I spot Thibodeaux near the stage. He is leaning in close to a young woman in her twenties, resplendent in an evening dress. She looks like Camille’s replacement. Thibodeaux is being conniving, his voice a low, oily murmur as he tries to beguile her.
 
@@ -67,7 +67,7 @@ I spot Thibodeaux near the stage. He is leaning in close to a young woman in her
 **Remy:** "We should talk to that girl. Let's slip backstage while he’s occupied."
 
 > **Remy Stealth skill check**
-> [D100]: [58] < [70] => success
+> (D100): (58) < [70] => success
 
 We slip into the corridor behind the stage and find the dressing room. The girl is inside, dabbing at tears with a silk handkerchief.
 ![](/assets/img/2026/03/Screenshot-2026-03-12-at-15.04.06.png)Lorenzo and Remy sneak into the dressing room
@@ -91,7 +91,7 @@ I stop. A sound reaches my ears—a muffled, agonizing groan. It isn't coming fr
 **Lorenzo: **"There must some passage to the basement around here. Let me see."
 
 > **Lorenzo Spot Hidden skill roll**
-> [D100]: [75] < 90 => success
+> (D100): (75) < 90 => success
 
 **Lorenzo:** "There! Under that table! A trapdoor."
 

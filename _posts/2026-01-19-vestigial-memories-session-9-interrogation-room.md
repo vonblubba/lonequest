@@ -15,11 +15,12 @@ summary: "Session 8 of the scenario \"Vestigial Memories\" for the Blade Runner 
 ---
 ### **Scene setup**
 
-> **NPC skill level roll: **
-> [D8]: [7] => experienced [D10 + D10]
+> **NPC skill level roll:**  
+> (D8): (7) => experienced (D10 + D10)  
 
-> **Negotiating position**
+> **Negotiating position**  
 > Advantages:
+>
 > - Opponent has suffered stress
 > - Opponent is in custody
 > - Opponent is in the interrogation room
@@ -28,7 +29,7 @@ summary: "Session 8 of the scenario \"Vestigial Memories\" for the Blade Runner 
 > - Opponent must take a serious risk to help me
 > - Opponent has nothing to gain by helping me
 
-> **Opposed roll, MANIPULATION vs STAMINA:**
+> **Opposed roll, MANIPULATION vs STAMINA:**  
 > Locke [2D10 + D12] vs Zhao [D10 + D10] = [10 + 8] vs [6 + 4] => 2 successes for Locke (critical success)
 
 ---
@@ -55,8 +56,8 @@ She nearly drops the coffee. The mention of Kael—or someone like him—hits ho
 
 **Locke:** "I don’t care why Vestige is doing this. But I *will* end it. And I think you want that too. I can link you to a murder at the Snake Pit thirty years ago—the gun was yours. But I’m not here to bury you, Zhao. Not until I’ve heard your side. You’ve got nothing left to lose."
 
-> **Critical Success Roll:**
-> [D8]: [5] => Make an impression on an NPC
+> **Critical Success Roll:**  
+> (D8): (5) => Make an impression on an NPC
 
 ### The Confession: The Birth of Vestige
 

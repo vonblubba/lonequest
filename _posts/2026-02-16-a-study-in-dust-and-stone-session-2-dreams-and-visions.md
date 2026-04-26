@@ -16,21 +16,21 @@ summary: "Session 2 of the scenario \"A study in Dust and Stone\" for Call of Ct
 ## Scene setup
 
 > Story Direction Roll
-> [D100]: [91] => Dice roll
+> (D100): (91) => Dice roll
 
 > Dice Roll
-> [D100]: [89] => Something happens
+> (D100): (89) => Something happens
 
 > Random event table roll
-> [D100]: [2] => Make a Spot Hidden roll, standard. If successful, you notice that someone is following you. You don’t give anything away just yet, but they’ve been shadowing you for several days. What are their motives? Could it be to do with what you’ve been investigating recently?
+> (D100): (2) => Make a Spot Hidden roll, standard. If successful, you notice that someone is following you. You don’t give anything away just yet, but they’ve been shadowing you for several days. What are their motives? Could it be to do with what you’ve been investigating recently?
 
 > Regular Spot Hidden roll:
-> [D100]: [51] => Success
+> (D100): (51) => Success
 
 > Q: Who is following me?
 > Verbs table roll
-> [D10 + D100]: [1 + 94] => enchant
-> [D10 + D100]: [2 + 42] => follow
+> (D10 + D100): (1 + 94) => enchant
+> (D10 + D100): (2 + 42) => follow
 > A magic user is following me and the empty train is an effect of some spell or enchantment.
 
 I chose a spell from the [Grand Grimoire of Cthulhu](https://www.drivethrurpg.com/en/product/206774/the-grand-grimoire-of-cthulhu-mythos-magic)
@@ -40,8 +40,8 @@ Brings forth dreams or nightmares portending to the future. May be cast upon the
 
 > Q: What do I see in the prophetic dream?
 > Verbs table roll
-> [D10 + D100]: [4 + 84] => drop
-> [D10 + D100]: [0 + 34] => sing
+> (D10 + D100): (4 + 84) => drop
+> (D10 + D100): (0 + 34) => sing
 > A a black skinned mermaid is sitting on a rock. A giant golden squid is nearby, minding its own business. The mermaid starts singing, which attracts the attention of the squid. the giant squid attacks and eats her. => Remy's sister is in danger if she does not quit singing.
 
 > Sanity check for the vision: 0/1 sanity points

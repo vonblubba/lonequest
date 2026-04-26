@@ -15,10 +15,10 @@ summary: "Interlude of the scenario \"Vestigial Memories\" for the Blade Runner 
 ---
 ## Scene setup
 
-> **Downtime event table roll:**
-> [D12]: [9] => Outside your home, cops swarm to a nearby incident. You come upon a crime scene or the aftermath of an incident. 
+> **Downtime event table roll:**  
+> (D12): (9) => Outside your home, cops swarm to a nearby incident. You come upon a crime scene or the aftermath of an incident. 
 
-+1 Health for rest
+> +1 Health for rest
 
 ---
 
@@ -33,9 +33,9 @@ I head down, my coat collar pulled high. The damp air is a slap to the face. I s
 **Locke:** "I live three doors down. Hard to sleep through the light show. What do you have?" 
 **Thorne:** "A body. And a headache."
 
-> Q: "How did the man die?"
-> **Cipher table roll:**
-> [D6 + D12]: [1 + 9] => Command + Freedom
+> Q: "How did the man die?"  
+> **Cipher table roll:**  
+> (D6 + D12): (1 + 9) => Command + Freedom  
 > *An agent asked him for id but he tried to escape*
 
 He gestures toward the alleyway.

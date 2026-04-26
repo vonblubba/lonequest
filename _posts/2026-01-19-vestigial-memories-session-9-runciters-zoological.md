@@ -15,18 +15,18 @@ summary: "Session 9 of the scenario \"Vestigial Memories\" for the Blade Runner 
 ---
 ### Scene setup
 
-> **Countdown event check: **
-> [D6]: [6] => no event
-> **Scene check: **
-> [D8]: [6] => Routine. Probably does not require a skill roll. Witness is cooperative; there are obvious clues at the crime scene; the data you seek is easily retrieved.
+> **Countdown event check: **  
+> (D6): (6) => no event  
+> **Scene check:**  
+> (D8): (6) => Routine. Probably does not require a skill roll. Witness is cooperative; there are obvious clues at the crime scene; the data you seek is easily retrieved.
 
-> **Clues
-> Meaning: **
-> [D8]: [5] => connects to a new location
-> **Evidence Descriptor: **
-> [D6 + D10]: [5 + 2] => Missing. It should be here but is not
-> **Evidence type: **
-> [D6 + D12]: [5 + 3] => Marking / Stain
+> **Clues**  
+> **Meaning:**  
+> (D8): (5) => connects to a new location  
+> **Evidence Descriptor:**  
+> (D6 + D10): (5 + 2) => Missing. It should be here but is not  
+> **Evidence type:**  
+> (D6 + D12): (5 + 3) => Marking / Stain
 
 ---
 
@@ -56,13 +56,13 @@ I lean in, my voice low and heavy with the authority of the badge.
 
 **Locke:** "Think hard, Emil. This is big—Vestige big. I’m going to get to the bottom of this one way or the other. I’d hate for the department to have to serve a warrant and tear this place apart looking for answers. The attention wouldn't be good for the 'stock.'"
 
-> **Manipulation vs Insight:**
-> Locke [D12 + D10] vs. Runciter [D10 + D8] 
-> **Result:**
-> [11 + 8] (3 successes) vs [10 + 4] (1 success) => 1 Success for Locke
+> **Manipulation vs Insight:**  
+> Locke (D12 + D10) vs. Runciter (D10 + D8)   
+> **Result:**  
+> (11 + 8) (3 successes) vs (10 + 4) (1 success) => 1 Success for Locke
 
-> **Cipher table roll**: 
-> [D6 + D12]: [5 + 3] => Persuade + Secret
+> **Cipher table roll**:   
+> (D6 + D12): (5 + 3) => Persuade + Secret
 
 Runciter pales. He knows I’m not bluffing. He looks around to make sure no other customers are listening.
 
@@ -74,13 +74,13 @@ Runciter pales. He knows I’m not bluffing. He looks around to make sure no oth
 
 **Runciter:** "Okay. He was here four days ago. Burst through the front door like the devil himself was at his heels."
 
-> **Cipher table roll: **
-> [D6 + D12]:[6 + 4] => Preserve + Surveillance
+> **Cipher table roll:**  
+> (D6 + D12): (6 + 4) => Preserve + Surveillance
 
 He pulls me behind the counter to a small, flickering monitor connected to his security feed. 
 
-> **Clue table roll for Evidence type: **
-> [D6 + D12]: [3 + 9] => Garment
+> **Clue table roll for Evidence type:**  
+> (D6 + D12): (3 + 9) => Garment
 
 I watch the grainy footage. Kael sprints into the shop, clutching the shoebox to his chest. He looks terrified. As he stumbles past a cage of synthetic owls, a lanyard swings out from under his jacket.
 I freeze the frame. It’s a corporate ID badge. The logo is unmistakable: **Tsingtao**, a small-time logistics firm operating out of the Warehouse District. Beneath the logo, I can just make out the text: **"Logistic Hub D."**

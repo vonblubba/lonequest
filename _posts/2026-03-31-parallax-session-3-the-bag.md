@@ -18,7 +18,7 @@ summary: "Session 3 of the campaign PARALLAX for Delta Green, where Lawrence mak
 > **Expectations:** Lawrence will think about what just happened, evaluating his options. Jo will be back shortly, he will have to make a decision by then.
 
 > **Expected scene test roll**
-> [D10]: [5] => altered scene
+> (D10): (5) => altered scene
 
 > **Scene adjustment roll:** Add an object
 > **Element meaning objects roll:** Container + Hard

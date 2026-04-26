@@ -19,7 +19,7 @@ summary: "Session 6 of the scenario \"A study in Dust and Stone\" for Call of Ct
 > [D100 + 1]: [30 + 1] => Development
 
 > Development table roll
-> [D100]: [38] => Roll on Random Events Table
+> (D100): (38) => Roll on Random Events Table
 
 > Random events table roll
 > [D100 + 1]: [3 + 1] => A friend of yours, a professor, gets in touch with you regarding a disturbing discovery he has made. He’s heard what you’ve been researching and has a warning. [well, this seems to fit right in!]
@@ -27,10 +27,10 @@ summary: "Session 6 of the scenario \"A study in Dust and Stone\" for Call of Ct
 Pasting here the NPC rolls already made in scenario setup for Prof. St. Claire
 
 > CHARACTERS INVOLVED OCCUPATION TABLE ROLL
-> [D100]: [96] => Historian
+> (D100): (96) => Historian
 > GENDER TABLE ROLL
-> [D100]: [70] => Male
-> NPC KEYWORD MODIFIER TABLE ROLL[D100]: [41] => Brooding
+> (D100): (70) => Male
+> NPC KEYWORD MODIFIER TABLE ROLL(D100): (41) => Brooding
 
 ---
 
@@ -126,7 +126,7 @@ He is also referred to as a *Great old One*, whatever that means.
 There's pages and pages that describe the "Liturgy of Summanus", practices a devotee must follow to worship his god. In particular there's a ritual describing an offering of three wheat-breads in the shape of wheels with ribbed spokes [this is from Brian Lumley's short story]. Bread offerings are not unusual in European liturgies.
 
 > Q: Do I find anything useful about the sigil in my family house?
-> [D100]: [13] => no
+> (D100): (13) => no
 
 The notes regarding the sigil are incomplete, there's not much I can find out about it. It's a ward to 'defuse death' or 'defuse murder'. Why was it on my library floor? No answers here.
 
@@ -137,11 +137,11 @@ I look for information about the map next.
 
 > Q: What does the map represent?
 > **Verbs table roll**
-> [D10 + D100]: [7 + 50] => offend
-> [D10 + D100]: [7 + 51] => oppress
-> [D10 + D100]: [8 + 97] => recite
-> [D10 + D100]: [4 + 36] => decay
-> [D10 + D100]: [8 + 66] => plead
+> (D10 + D100): (7 + 50) => offend
+> (D10 + D100): (7 + 51) => oppress
+> (D10 + D100): (8 + 97) => recite
+> (D10 + D100): (4 + 36) => decay
+> (D10 + D100): (8 + 66) => plead
 
 In *Tuscan Rituals* are several reports of episodes happened in Etruscan times. Apparently Summanus was quite an oppressive god. He was easily offended by even the slightest misconduct of his followers. When an unfortunate worshipper became the target of his wrath, a *curse of decay *was bestowed upon him. His body would slowly writhe and decompose. The process took days and it was extremely painful, leading to an excruciating death. The only way for the curse to be lifted was for the unfortunate fellow to recite the *ritual of pleading*. Details of the ritual are missing, but it is stated that to get better, *the repentant must navigate through the labyrinth of faith*.
 

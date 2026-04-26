@@ -15,19 +15,21 @@ summary: "Session 13 of the scenario \"Vestigial Memories\" for the Blade Runner
 ---
 ## Scene setup
 
-> **Countdown event check:** [D10]: [8] => Event happens
-> **Countdown event table roll:** [D12]: [9] => Loss: Evidence stolen or destroyed, key person killed or missing, safehouse compromised
+> **Countdown event check:**   
+> (D10): (8) => Event happens  
+> **Countdown event table roll:**  
+> (D12): (9) => Loss: Evidence stolen or destroyed, key person killed or missing, safehouse compromised
 
-> **Scene check**
-> [D8]: [6] => Routine. Probably does not require a skill roll => The witness is cooperative; there are obvious clues at the crime scene; the data you seek is easily retrieved
+> **Scene check**  
+> (D8): (6) => Routine. Probably does not require a skill roll => The witness is cooperative; there are obvious clues at the crime scene; the data you seek is easily retrieved
 
-> **Scene category**
-> [D12] Must be [3] =>  Consult. Seek expert insight or outside perspective => CONNEC TIONS to leverage an informant or LAPD asset, MANIPULATION to gain cooperation, TECH or MEDICAL AID to verify or interpret findings
+> **Scene category**  
+> (D12) Must be (3) =>  Consult. Seek expert insight or outside perspective => CONNEC TIONS to leverage an informant or LAPD asset, MANIPULATION to gain cooperation, TECH or MEDICAL AID to verify or interpret findings
 
-> **NPC details roll
-> Sphere:** must be Science
-> **Trait: **[D6 + D12]: [2 + 6]: Arrogant
-> **NPC skill level roll:** [D8]: [1]: => unskilled [D6 + D6]
+> **NPC details roll**  
+> **Sphere:** must be Science  
+> **Trait: **(D6 + D12): (2 + 6): Arrogant  
+> **NPC skill level roll:** (D8): (1): => unskilled (D6 + D6)
 
 ---
 
@@ -59,17 +61,17 @@ She stops. Her eyes narrow as she finally looks at me.
 
 **Sterling:** "That is a very dangerous question, Locke. What are you playing at?"
 
-> **Opposed roll: Manipulation vs Insight**
-> Locke's [D12 + D10] vs Sterling's [D6 + D6]
-> Result: [6 + 4] vs [2 + 4] => 1 success vs 0 => Locke wins
+> **Opposed roll: Manipulation vs Insight**  
+> Locke's (D12 + D10) vs Sterling's (D6 + D6)  
+> Result: (6 + 4) vs (2 + 4) => 1 success vs 0 => Locke wins
 
 **Locke:** "The less you know, the safer your tenure is. Just think of it as a hypothetical security flaw."
 
 She scoffs, but the challenge piques her ego. She pulls up a blank sequence and starts typing with a predatory grace.
 
-> **NPC skill check**
-> I'm assuming she is one of the top on her field so [intelligence + Tech] = [D12 + D12]
-> Result: [7 + 12] => 3 successes => critical success => Prof Sterling provides an untraceable alteration to the DNA sequence.
+> **NPC skill check**  
+> I'm assuming she is one of the top on her field so (intelligence + Tech) = (D12 + D12)  
+> Result: (7 + 12) => 3 successes => critical success => Prof Sterling provides an untraceable alteration to the DNA sequence.
 
 **Sterling:** "A child could answer this, Locke. You don't rewrite the DNA—you just confuse the translation. You insert a **Premature Stop Codon** into a structural gene—specifically one tied to neural stability. To a basic scan, the sequence looks perfect. Pristine. But halfway through the growth cycle, the cell just... stops reading. The organism becomes a non-viable slurry before it ever grows a heartbeat."
 

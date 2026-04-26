@@ -15,16 +15,18 @@ summary: "Session 12 of the scenario \"Vestigial Memories\" for the Blade Runner
 ---
 ## Scene setup
 
-**Countdown event timer check:** [D8]: [5] => No event
+> **Countdown event timer check:**   
+> (D8): (5) => No event
 
-**Scene check**
-[D8]: [7] => Routine. Probably does not require a skill roll => The witness is cooperative; there are obvious clues at the crime scene; the data you seek is easily retrieved
+> **Scene check**  
+> (D8): (7) => Routine. Probably does not require a skill roll => The witness is cooperative; there are obvious clues at the crime scene; the data you seek is easily retrieved
 
-**Scene category**
-[D12] Must be [3] =>  Consult. Seek expert insight or outside perspective => CONNEC TIONS to leverage an informant or LAPD asset, MANIPULATION to gain cooperation, TECH or MEDICAL AID to verify or interpret findings
+> **Scene category**  
+> [D12] Must be [3] =>  Consult. Seek expert insight or outside perspective => CONNEC TIONS to leverage an informant or LAPD asset, MANIPULATION to gain cooperation, TECH or MEDICAL AID to verify or interpret findings
 
 ---
 ![](/assets/img/2026/01/riggs.png)
+
 Dante is holed up in a ratty basement apartment in **Hawker’s Circle**. It’s a damp, low-ceilinged tomb that smells of ozone and mildew—hardly the ideal environment for high-end hardware, but beggars can’t be choosers when they’re hiding from shadows.
 
 **Riggs:** "Nate. You’re late. What do you have for me?" 
@@ -49,9 +51,9 @@ The silence that follows is heavy. Dante actually stops typing.
 **Riggs:** "Who the fuck do you think I am? Nobody outside of Wallace knows a damn thing about their bio-sequencing. I’m a decker, not a god." 
 **Locke:** "I’ll handle the genetic logic, just send me every genetic sequence you can find on that drive. I’ve got contacts at the University and a woman who’s spent thirty years sabotaging this exact process. I just need you to fix the data hash signatures. I need the 'sabotage' to look like a natural corruption in the sequence. Can you do that?"
 
-> **Connections Roll**
-> [D12 + D12 + Disadvantage because NPC indisposed towards me]
-> Result: [12 + (9 + 5)] => 2 successes => critical success
+> **Connections Roll**  
+> (D12 + D12 + Disadvantage because NPC indisposed towards me)  
+> Result: (12 + (9 + 5)) => 2 successes => critical success
 
 **Riggs:** "Of course I can. I’ve dealt with 'difficult customers' before. I’ll ghost the hash signatures. They won't see the poison until the bodies start hitting the floor."
 
@@ -63,11 +65,11 @@ The silence returns, longer this time.
 
 **Locke:** "This isn't a payday, Dante. It’s a death sentence. The moment you try to fence even a fragment of this, Wallace’s internal security will have you in a black site before you can blink. It isn’t worth the risk."
 
-> **Opposed roll: Manipulation vs Insight**
-> NPC skill level roll: [D8]: [6] => experienced [D10 + D10]
-> Advantage because my position is very convincing (because it's true)
-> Locke [D12 + D10 + advantage] vs Riggs [D10 + D10]
-> Result [8 + (5 + 4)] vs [6 + 7] => 1 success vs 2 successes => **Riggs wins**
+> **Opposed roll: Manipulation vs Insight**  
+> NPC skill level roll: (D8): (6) => experienced [D10 + D10]  
+> Advantage because my position is very convincing (because it's true)  
+> Locke (D12 + D10 + advantage) vs Riggs (D10 + D10)  
+> Result (8 + (5 + 4)) vs (6 + 7) => 1 success vs 2 successes => **Riggs wins**
 
 **Riggs:** [With a dismissive wave] "Sure, sure. I'm not stupid, Nate. No copies. I just want this out of my sight as soon as it’s cooked."
 

@@ -16,11 +16,11 @@ summary: "Session 5 of the scenario \"A study in Dust and Stone\" for Call of Ct
 ## Scene setup
 
 > **Story Direction Table Roll**
-> [D100]: [29] => Development
+> (D100): (29) => Development
 > **Development table roll**
-> [D100]: [79] => You meet a hostile NPC (roll on NPC tables, re-rolling for positive Keyword results).
+> (D100): (79) => You meet a hostile NPC (roll on NPC tables, re-rolling for positive Keyword results).
 > **NPC keyword modifier table roll**
-> [D100]: [60] => Impulsive
+> (D100): (60) => Impulsive
 
 ---
 
@@ -37,13 +37,13 @@ The address was a brisk twenty-minute walk away. We found ourselves standing bef
 Remy slipped into the garden with the practiced ease of a man who spent his nights dodging the law. He moved from shadow to shadow, peeking through the windows. Suddenly, his posture went rigid. He gestured for me to join him at the left-side window.
 
 > Q: Does Remy notices anything:
-> [D100]: [98] => yes
+> (D100): (98) => yes
 
 > Q: What does he see?
-> [D10 + D100]: [9 + 43] => worship
-> [D10 + D100]: [8 + 81] => provide
-> [D10 + D100]: [4 + 0] => collaborate
-> [D10 + D100]: [4 + 15] => conjure
+> (D10 + D100): (9 + 43) => worship
+> (D10 + D100): (8 + 81) => provide
+> (D10 + D100): (4 + 0) => collaborate
+> (D10 + D100): (4 + 15) => conjure
 
 The room inside was a tastefully decorated parlor, but the scene within was grotesque. A man in dark, heavy robes stood before a makeshift altar. He held a tome in one hand and a jagged, ritual dagger in the other.
 
@@ -91,9 +91,9 @@ While they argued, I peered past Thibodeaux's shoulder.
 
 > Q: what do I see?
 > Verbs table roll
-> [D10 + D100]: [2 + 62] => berate
-> [D10 + D100]: [7 + 99] => recruit
-> [D10 + D100]: [4 + 16] => consecrate
+> (D10 + D100): (2 + 62) => berate
+> (D10 + D100): (7 + 99) => recruit
+> (D10 + D100): (4 + 16) => consecrate
 
 A young girl, her face pale with terror, crossed the room carrying the ritual tome. Thibodeaux noticed my gaze and roared at her, berating her to get back to her quarters.
 

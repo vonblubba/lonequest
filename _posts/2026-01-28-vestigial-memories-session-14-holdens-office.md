@@ -15,7 +15,8 @@ summary: "Session 14 of the scenario \"Vestigial Memories\" for the Blade Runner
 ---
 ## Scene setup
 
-> **Countdown event roll:** [D6]: [3] => no event
+> **Countdown event roll:**   
+> (D6): (3) => no event
 > No need for any other setup for this scene.
 
 ---
@@ -36,10 +37,11 @@ I take a seat, forcing my posture to look relaxed despite my cracked ribs.
 
 Holden stares at me, his eyes searching mine for the twitch of a lie.
 ![](/assets/img/2026/01/holdeb-1.png)
-> **Opposed roll: Manipulation vs Insight
-> Advantage for locke:** Holden has no reason to doubt my word, plus I'm mostly telling the truth
-> Locke's [D12 + D10 + advantage] vs Holden's [D10 + D12] (taken from the official rules stats)
-> **Result:** [11 + (7+4)] vs [5 + 6] => 2 successes for Locke vs 1 for Holden => Success
+
+> **Opposed roll: Manipulation vs Insight**  
+> **Advantage for locke:** Holden has no reason to doubt my word, plus I'm mostly telling the truth  
+> Locke's (D12 + D10 + advantage) vs Holden's (D10 + D12) (taken from the official rules stats)  
+> **Result:** (11 + (7+4)) vs (5 + 6) => 2 successes for Locke vs 1 for Holden => Success
 
 **Holden:** "Huh. Radical skinjobs playing corporate saboteur. So, what’s your recommendation, Locke? Do we kick in the doors?"
 

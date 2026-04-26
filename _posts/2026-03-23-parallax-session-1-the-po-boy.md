@@ -25,16 +25,16 @@ The first step is to decide how much your character knows at the beginning of th
 > I choose paramedic, as I don't feel like bringing in some 3-lettered agency right now.
 
 > **Deed**
-> [D100]: [39] => Manslaughter
+> (D100): (39) => Manslaughter
 
 > **Means**
-> [D100]: [2] => Handgun
+> (D100): (2) => Handgun
 
 > **Motive**
-> [D100]: [82] => Religious Revelation
+> (D100): (82) => Religious Revelation
 
 > **Unnatural element**
-> [D100]: [93] => Great Old Ones
+> (D100): (93) => Great Old Ones
 
 ---
 

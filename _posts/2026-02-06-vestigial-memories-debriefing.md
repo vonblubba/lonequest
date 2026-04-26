@@ -33,10 +33,10 @@ He doesn't say "good job." He doesn't offer a bonus. He just gestures to the doo
 
 I nod and walk out. The elevator ride down to the street is silent. Outside, the rain is still falling, washing the blood of the night into the Pacific. I’ve saved the city from an army it never knew was coming. Now, all that’s left is the long, cold hunt for the ghost who started it all.
 
-> **Final staus changes**
-> +3 promotion points for closing the case
-> -1 promotion points for letting Kamarr escape
-> +2 humanity points for covering for Kael and Zhao
+> **Final staus changes**  
+> +3 promotion points for closing the case  
+> -1 promotion points for letting Kamarr escape  
+> +2 humanity points for covering for Kael and Zhao  
 
 ---
 

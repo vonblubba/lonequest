@@ -16,21 +16,21 @@ summary: "Session 4 of the scenario \"A study in Dust and Stone\" for Call of Ct
 ## Scene setup
 
 > **Story Direction Table Roll**
-> [D100]: [49] => Discovery
+> (D100): (49) => Discovery
 
 > **Discovery Table Roll**
-> [D100]: [5] => You discover a clue, or something directly related to the uncovering of the mystery. Roll on Clue Table or Verbs table (your choice). With the context of your Skill Roll, this should tell you what you have discovered.
+> (D100): (5) => You discover a clue, or something directly related to the uncovering of the mystery. Roll on Clue Table or Verbs table (your choice). With the context of your Skill Roll, this should tell you what you have discovered.
 
 > **Skill roll required:**
-> [D100]: [71] => Psychology
+> (D100): (71) => Psychology
 
 > **Clue table roll**
-> [D100]: [78] => A map of a labyrinth neatly made on a piece of paper
+> (D100): (78) => A map of a labyrinth neatly made on a piece of paper
 
 > **Verbs table rolls:**
-> [D10 + D100]: [2 + 6] => aggravate
-> [D10 + D100]: [6 + 13] => enter
-> [D10 + D100]: [8 + 90] => quarrel
+> (D10 + D100): (2 + 6) => aggravate
+> (D10 + D100): (6 + 13) => enter
+> (D10 + D100): (8 + 90) => quarrel
 
 ---
 
@@ -66,13 +66,13 @@ Remy doesn't waste time. He sees through her mask instantly. "Everything all rig
 
 > **Question roll**
 > What was the argument about?
-> [D10 + D100]: [0 + 75] => unleash
-> [D10 + D100]: [1 + 72] => blame
-> [D10 + D100]: [5 + 18] => antagonize
+> (D10 + D100): (0 + 75) => unleash
+> (D10 + D100): (1 + 72) => blame
+> (D10 + D100): (5 + 18) => antagonize
 
 > **Who was arguing? NPC occupation table roll**
-> [D100]: [4] => Artist
-> [D100]: [65] => Savant
+> (D100): (4) => Artist
+> (D100): (65) => Savant
 
 Camille realizes she can’t hide. She spills the story: A few days ago at the **Golden Kraken**, she overheard a vicious argument between **Marcel** (the trumpet player) and **Mr. Thibodeaux** (the orchestra director).
 
@@ -81,20 +81,20 @@ Camille realizes she can’t hide. She spills the story: A few days ago at the *
 She hands it to Remy.
 
 > Q: Are there any writings on the map?
-> [D100]: [41] => maybe => They are in a strange language
+> (D100): (41) => maybe => They are in a strange language
 > Occult Check: [7] => Extreme Success.
 
 > Q: What does the writings say?
-> [D10 + D100]: [1 + 64] => bestow
-> [D10 + D100]: [9 + 14] => rob
-> [D10 + D100]: [8 + 44] => loot
+> (D10 + D100): (1 + 64) => bestow
+> (D10 + D100): (9 + 14) => rob
+> (D10 + D100): (8 + 44) => loot
 
 "Mind if I take a look at those markings, Mr. Fontenot?" I ask. The alphabet is a twisted variant of the **Golden Dawn** cipher. I squint at the ominous script. "It’s… defensive. It speaks of **bestowing a curse on those who rob or loot**. It’s not just a map; it’s a warning."
 
 > Q: What happened then?
-> [D10 + D100]: [1 + 4] => accuse
-> [D10 + D100]: [4 + 33] =>dazzle
-> [D10 + D100]: [6 + 7] => enrage
+> (D10 + D100): (1 + 4) => accuse
+> (D10 + D100): (4 + 33) =>dazzle
+> (D10 + D100): (6 + 7) => enrage
 
 "The next evening," Camille continues, her voice trembling, "Thibodeaux cornered me. He accused me of stealing it. He was enraged—dazzled by a fury I didn't think he was capable of. He threatened me, Mr. Bartolini. He said if I didn't return it, it wouldn't end well."
 

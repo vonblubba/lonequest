@@ -20,6 +20,7 @@ I also use Foundry to manage the game sessions.
 **"Vestigial Memories"** is a solo adventure. This story is being built piece by piece—roll by roll—with no preexisting direction. Using the solo rules tables, I have allowed the dice to shape the protagonist and his history.
 
 Let's meet the main character.
+
 ![Nathaniel Locke](/assets/img/2026/01/Screenshot-2026-01-19-at-16.41.54.png)
 
 ## The Blade Runner: Nathaniel Locke

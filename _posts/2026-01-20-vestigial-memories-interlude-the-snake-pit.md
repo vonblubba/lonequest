@@ -15,10 +15,10 @@ summary: "Interlude for the scenario \"Vestigial Memories\" for the Blade Runner
 ---
 ## Scene setup
 
-> **Countdown event check roll: **
-> [D8]: [6] => Event happens
-> **Countdown event table roll: **
-> [D12]: [7] => Entanglement. Key relationship drawn into danger, old debt resurfaces, personal vice causes trouble.
+> **Countdown event check roll:**  
+> (D8): (6) => Event happens  
+> **Countdown event table roll:**  
+> (D12): (7) => Entanglement. Key relationship drawn into danger, old debt resurfaces, personal vice causes trouble.
 
 ---
 
@@ -73,9 +73,9 @@ I pause, remembering the flash of light on the rooftop.
 
 **Locke:** "Did he have a tattoo on his temple?" 
 
-> Q: Did the replicante have a tattoo?
-> **Question check roll: **
-> [D10]: [7] => Yes
+> Q: Did the replicante have a tattoo?  
+> **Question check roll:**  
+> (D10): (7) => Yes
 
 **Dante:** "He did. Ugly little bird thing."
 

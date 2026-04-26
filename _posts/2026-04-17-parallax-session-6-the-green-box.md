@@ -105,7 +105,7 @@ We both nod.
 She slides a laptop onto a crate and pops in a DVD. We watch the grainy security feed.
 
 > **Lawrence search skill check**
-> [D100]: [3] < 60 success
+> (D100): (3) < 60 success
 > **Fate question:** What do I see in the footage?
 > **Element meaning vision and dreams roll: **Plans + Allies
 > **My interpretation: **she meets with someone just outside the motel
@@ -118,7 +118,7 @@ She slides a laptop onto a crate and pops in a DVD. We watch the grainy security
 **Phalanx:** "Good eye, Doc. Definitely a piece."
 
 > **Lawrence medicine skill check**
-> [D100]: [80] > 60 => failure
+> (D100): (80) > 60 => failure
 
 **Lawrence:** "Something about his posture is off... he looks like a junkie, or maybe he’s already symptomatic. It's hard to tell from an image."
 
@@ -130,7 +130,7 @@ She slides a laptop onto a crate and pops in a DVD. We watch the grainy security
 **Lawrence:** "I have access to the NOPD database. Let me try."
 
 > **Lawrence bureocracy roll**
-> [D100]: [96] => failure
+> (D100): (96) => failure
 
 I log into my account, but my screen hits a red wall.
 

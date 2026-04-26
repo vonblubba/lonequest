@@ -15,24 +15,26 @@ summary: "Session 11 of the scenario \"Vestigial Memories\" for the Blade Runner
 ---
 ## Scene setup
 
-> **Downtime event table roll**
-> [D12]: [5] => You encounter a stranger who delivers a message or warning.
+> **Downtime event table roll**  
+> (D12): (5) => You encounter a stranger who delivers a message or warning.
 
-> **Countdown check**
-> [D6] Result: 5 => No event happens
+> **Countdown check**  
+> (D6) Result: 5 => No event happens
 
-**Status changes:** +1 health because of rest
+> **Status changes:** +1 health because of rest
 
 ---
 
 I can't go home. My apartment feels like a trap, and the silence there is too loud. I need the city. I need the smell of ozone, the rain-slicked pavement, and the anonymous crowd. I stop in front of the **Kabukicho Arcade** in Hawker's Circle, leaning against a grime-streaked wall. I watch the kids and the drifters lose themselves in the digital glow, trying to find where my duty ends and my conscience begins.
 
-> Q: Who do I meet?
-> **Cipher table roll:** [D6 + D12]
-> Result: [2 + 6] => Capture + Dream => The woman from my key memory talks about replicant captivity
+> Q: Who do I meet?  
+> **Cipher table roll:** (D6 + D12)  
+> Result: (2 + 6) => Capture + Dream => The woman from my key memory talks about replicant captivity
 
 An elderly woman sits on a bench nearby, her face a map of lived-in history. She watches me with eyes that have seen too much.
+
 ![](/assets/img/2026/01/kamarr-1.png)
+
 **Woman:** "Bad day, young man?" 
 **Locke:** "You could say that, lady." 
 **Woman:** [Laughing softly] "A nice single malt usually helps me when the world gets heavy." 
@@ -58,4 +60,4 @@ But in this city, death is often just another layer of cover. If Kamarr is alive
 
 Her words cut through the neon haze better than any whiskey could. The choice wasn't hard; it was inevitable. I reached for my KIA and pulled up the contact I used for the jobs the LAPD didn't need to know about. **Static**.
 
-> **Hypothesis** [D10 => D12]: A group of replicant sympathizers, lead by a retired Blade Runner legend, has been building replicant bootlegs.
+> **Hypothesis** (D10 => D12): A group of replicant sympathizers, lead by a retired Blade Runner legend, has been building replicant bootlegs.

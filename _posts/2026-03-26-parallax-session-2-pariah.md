@@ -19,7 +19,7 @@ summary: "Session 2 of the campaign PARALLAX for Delta Green, where Lawrence's v
 > Something unnatural emerges from the autopsy. Tattoo has moved to the paramedic?
 
 > **Expected scene test roll**
-> [D10]: [5] => altered scene
+> (D10): (5) => altered scene
 
 > **Scene adjustment roll:** Add a character
 > **Character identity roll:** Protector + Public
@@ -49,7 +49,7 @@ The ink begins to shift before my eyes, pulsing with colors not of this world—
 *What the hell just happened?*
 
 > **First contact with the unnatural: Sanity Check (0/2)**
-> [D100]: [66] => **Critical Success!** (No Sanity loss)
+> (D100): (66) => **Critical Success!** (No Sanity loss)
 
 *Get it together, Lawrence. Breathe. Think. There has to be a clinical explanation. A chemical reaction? A visual migraine?*
 

@@ -26,22 +26,22 @@ Well, what can I say. I'm already intrigued.
 ## SCENARIO SETUP ROLLS
 
 > **PROBLEM TABLE ROLL**
-> [D100]: [100] => You are on a train, heading to your destination. The train leaves town and enters beautiful countryside. You drift off into a pleasant and peaceful sleep. Some hours later you awake to find the train empty and stopped on the track. You are the only passenger. Everyone, including the driver, is gone.
+> (D100): (100) => You are on a train, heading to your destination. The train leaves town and enters beautiful countryside. You drift off into a pleasant and peaceful sleep. Some hours later you awake to find the train empty and stopped on the track. You are the only passenger. Everyone, including the driver, is gone.
 
 > **QUEST SOURCE TABLE ROLL**
-> [D100]: [82] => An old family heirloom falls and breaks, revealing something mysterious inside.
+> (D100): (82) => An old family heirloom falls and breaks, revealing something mysterious inside.
 
 > **CLUE TABLE ROLL**
-> [D100]: [53] => A rune, made out in carefully placed stones on the ground
+> (D100): (53) => A rune, made out in carefully placed stones on the ground
 
 > **CHARACTERS INVOLVED OCCUPATION TABLE ROLL**
-> [D100]: [96] => Historian
+> (D100): (96) => Historian
 
 > **GENDER TABLE ROLL**
-> [D100]: [70] => Male
+> (D100): (70) => Male
 
 > **NPC KEYWORD MODIFIER TABLE ROLL**
-> [D100]: [41] => Brooding
+> (D100): (41) => Brooding
 
 > **URBAN LOCATION TABLE ROLL**
 > I chose University

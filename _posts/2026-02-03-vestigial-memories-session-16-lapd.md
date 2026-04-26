@@ -15,8 +15,8 @@ summary: "Session 16 of the scenario \"Vestigial Memories\" for the Blade Runner
 ---
 ## Scene setup
 
-> Event countdown timer roll
-> [D10]: [4] => no event
+> Event countdown timer roll  
+> (D10): (4) => no event
 
 No more setup required.
 
@@ -24,11 +24,13 @@ No more setup required.
 
 Time to report to Holden, but before I face him, I need more than a hunch. I return to the LAPD Tower, the taste of bile still lingering in my throat. I head straight for the mainframe, bypassing the usual filters.
 
-> **Tech Roll:**
+> **Tech Roll:**  
 > [D10 + D6 + Adv because done locally]: [10 + (1 + 1)] => 2 successes
 
 I dig into the restricted archives of **Libby Kamarr**. Born 1976. RDU in 2006. One of the most decorated Runners in history—124 retirements. But then, the cracks appear. Six months before she "retired," there was an informal reprimand. She’d broken Detective Sean O’Mallon’s jaw in the middle of a precinct hallway.
+
 ![](/assets/img/2026/02/kamarr_cold-1.png)
+
 The context: A female replicant was being retired for "assaulting" her owner. The owner claimed robbery; the girl claimed he’d forced her into a crime. O’Mallon—a sadistic fossil who treated skinjobs like scrap metal—had "handled" the retirement with his usual brutality. Kamarr watched it, then leveled him.
 
 She wasn't just a cop; she was a sympathizer. Her "death" in an apartment fire was too convenient. A body burned to ash, identified only by a few teeth left behind in the debris. In this city, that’s not a death—it’s a career change.
@@ -42,15 +44,17 @@ The desk phone screams. It’s Holden.
 ---
 
 I walk in, and the air is practically vibrating with Holden's rage.
+
 ![](/assets/img/2026/02/holdeb.png)
+
 **Holden:** "The Snake Pit? Again? I told you to keep a lid on this, Locke! Now I've got two gunmen shooting up a nightclub. What the hell is going on?"
 
 **Locke:** "They tried to poison me at the Pit, Sarge. I barely made it to the sink in time. They’re desperate because I finally found out who’s running the show."
 
 That stops him. He leans back, his eyes narrowing.
 
-> **Hypothesis check**
-> [D12 + D12]: [12 + 5] => 2 successes. It's confirmed.
+> **Hypothesis check**  
+> (D12 + D12): (12 + 5) => 2 successes. It's confirmed.  
 > 5 promotion points gained
 
 **Locke:** "Libby Kamarr."
@@ -59,10 +63,10 @@ That stops him. He leans back, his eyes narrowing.
 
 **Locke:** "She faked it. Cost her a couple of teeth and a fire to disappear. I talked to her yesterday, Chief. Face to face. She’s been the rot inside this department since Gaff was still wearing a badge. She sabotaged the '21 investigation. She’s the one pulling Vestige’s strings."
 
-> **Opposed roll: Manipulation vs Insight**
-> Advantage for Locke: Holden has no reason to doubt my word, plus I provided some credible distraction.
-> Locke's [D12 + D10 + advantage] vs Holden's [D10 + D12] (taken from the official rules stats)
-> Result: [8 + (4+1)] vs [1 + 5] => 1 successes for Locke vs 0 for Holden => Success
+> **Opposed roll: Manipulation vs Insight**  
+> Advantage for Locke: Holden has no reason to doubt my word, plus I provided some credible distraction.  
+> Locke's (D12 + D10 + advantage) vs Holden's (D10 + D12) (taken from the official rules stats)  
+> Result: (8 + (4+1)) vs (1 + 5) => 1 successes for Locke vs 0 for Holden => Success
 
 Holden stares at the wall for a long moment. I can see him weighing the political fallout of a dead hero being a traitor. It’s a distraction big enough to hide an elephant—or a few minor pawns in the game.
 

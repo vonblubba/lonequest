@@ -15,22 +15,22 @@ summary: "Session 10 of the scenario \"Vestigial Memories\" for the Blade Runner
 ---
 ## Scene setup
 
-**Scene check**
-[D8]: [5] => Challenging.
-Requires one or more skill rolls to proceed. The witness is reluctant to answer your questions, or their answers are evasive; the crime scene is a mess, and requires a careful and lengthy search; finding the data you seek can be done remotely, but requires a requires a TECH roll 
+> **Scene check**  
+> (D8): (5) => Challenging.  
+> Requires one or more skill rolls to proceed. The witness is reluctant to answer your questions, or their answers are evasive; the crime scene is a mess, and requires a careful and lengthy search; finding the data you seek can be done remotely, but requires a requires a TECH roll 
 
-**Scene category**
-[D12]: [4] => examine
-Analyze evidence closely for subtle evidence, to interpret data or digital traces, MEDICAL AID to to examine forensic clues 
+> **Scene category**  
+> (D12): (4) => examine  
+> Analyze evidence closely for subtle evidence, to interpret data or digital traces, MEDICAL AID to to examine forensic clues 
 
-**Clues
-Clue table 1: Meaning**
-[D8]: [3] => Affirms a previous fact or clue 
-**Evidence Descriptor**
-[D6 + D10]: [2 + 3] => Corrupted.
-It has been tampered or degraded. 
-**Evidence type**
-Must be (data) Device
+> **Clues**  
+> **Clue table 1: Meaning**  
+> (D8): (3) => Affirms a previous fact or clue   
+> **Evidence Descriptor**  
+> (D6 + D10): (2 + 3) => Corrupted.  
+> It has been tampered or degraded.   
+> **Evidence type**  
+> Must be (data) Device
 
 ---
 
@@ -38,9 +38,9 @@ I park the Spinner a block away. Walking helps clear the fog in my head, even if
 
 I take a seat at a nearby noodle stand, the steam from my miso ramen mixing with the frigid rain. I watch. I wait.
 
-> Q: Do I see something/someone unusual entering or leaving the hub?
-> **Question check roll:**
-> [D10]: [4] => no
+> Q: Do I see something/someone unusual entering or leaving the hub?  
+> **Question check roll:**  
+> (D10): (4) => no
 
 Nothing unusual, just a fee workers going in or out.
 
@@ -50,21 +50,21 @@ I finish the ramen and adjust my battered trenchcoat. Time to put the Cityspeake
 
 The lobby of Hub D is cold and sterile, guarded by four men who look like they were grown in a vat for the sole purpose of standing still. I scan the reception desk. One woman looks sharp, experienced—a gatekeeper. Beside her is a kid, barely twenty, eyes darting nervously between his terminal and his mentor.
 
-> **Insight Check:** [D12 + D12[: [9 + 10]
+> **Insight Check:** (D12 + D12): (9 + 10)  
 > **Critical Success.** *The kid is drowning. He’s my way in.*
 
 I wait for a delivery driver to distract the woman, then I loom over the boy’s desk, projecting the aura of a man who hasn't slept and has a very short fuse.
 
 **Locke:** "Auditor Bryant. We spoke last week. I'm here for the fire-suppression check. I really hope you fixed those foam sprinklers, because if I find a dry pipe, this whole facility is getting red-tagged."
 
-> **Manipulation check
-> NPC skill level roll:**
-> [D8]: [1] => unskilled [D6 + D6]
-> **Opposed Roll: Manipulation vs. Insight
-> Situation:**
-> Advantage for insight roll, disadvantage for cracked ribs
-> [D12 + D10] vs [D6 + D6]
-> [11 + 3] vs [4 + 1] => 2 successes vs 0 successes => critical success
+> **Manipulation check**  
+> **NPC skill level roll:**  
+> (D8): (1) => unskilled [D6 + D6]  
+> **Opposed Roll: Manipulation vs. Insight**  
+> **Situation:**  
+> Advantage for insight roll, disadvantage for cracked ribs  
+> (D12 + D10) vs (D6 + D6)  
+> (11 + 3) vs (4 + 1) => 2 successes vs 0 successes => critical success
 
 The kid’s face goes white. He looks at his colleague, but she’s buried in paperwork. He looks back at me, his lip trembling.
 
@@ -78,29 +78,29 @@ He practically fumbles the badge into my hand. I don't thank him. I just turn an
 
 The warehouse is a cathedral of steel. Rows of containers stretch into the gloom. I walk with purpose, pretending to inspect fire alarms, my eyes scanning for anything that isn't corporate-approved.
 
-> **Observation roll:**
-> [D10 + D10]: [8 +9] => 2 successes
-> **Critical success table roll:**
-> [D8]: [4] => Intimidating: Cause an NPC to falter or hesitate.
+> **Observation roll:**  
+> (D10 + D10): (8 +9) => 2 successes  
+> **Critical success table roll:**  
+> (D8): (4) => Intimidating: Cause an NPC to falter or hesitate.
 
-> **Question: what do I notice?
-> Cipher table roll:**
-> [D6 + D12]: [4 + 12] => infiltrate + passion
+> **Question: what do I notice?**  
+> **Cipher table roll:**  
+> (D6 + D12): (4 + 12) => infiltrate + passion
 
 Near the west wall, I see it. Two men in worksuits, arguing in hushed, frantic tones. They look around, then slip inside a container. I move like a shadow, my hand hovering over the blaster in my pocket.
 
 I reach the heavy steel door. I hear voices—desperate, hushed. I don't knock. I kick the door wide, my weapon drawn but hidden in my coat.
 
-> **Critical success effect:**
+> **Critical success effect:**  
 > The men freeze, paralyzed by the sudden intrusion.
 
-> Q: is one of the men Kael?
-> **Question table roll:**
-> [D10]: [8] => yes
+> Q: is one of the men Kael?  
+> **Question table roll:**  
+> (D10): (8) => yes
 
-> Q: What is inside the container?
-> **Cipher table roll:**
-> [D6 + D12]: [2 + 2] => aid + connection
+> Q: What is inside the container?  
+> **Cipher table roll:**  
+> (D6 + D12): (2 + 2) => aid + connection
 
 It’s **Kael**. Beside him is another man, older, with the hollowed-out look of a man who has already accepted his death.
 

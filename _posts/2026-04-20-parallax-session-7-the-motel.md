@@ -17,7 +17,7 @@ summary: "Session 7 of the campaign PARALLAX for Delta Green, where another vict
 **Scene Expectations**
 Delta green agents visit the motel to find out more about Kaminski's wereabout.
 
-**Expected scene test:** Scene Proceeds Normally
+**Expected scene test:** Scene Proceeds Normally.
 
 ---
 

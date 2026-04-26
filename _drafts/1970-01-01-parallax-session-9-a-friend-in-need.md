@@ -1,10 +1,11 @@
 ---
-date: 1970-01-01T00:00:00.000Z
+date: 2026-04-15T14:24:10.000Z
 lastmod: 2026-04-15T14:24:10.000Z
 title: "PARALLAX, Session 9: A friend in need"
 draft: true
 slug: parallax-session-9-a-friend-in-need
 tags: ["Delta Green","PARALLAX"]
+categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/04/h.webp
     alt: "PARALLAX, Session 9: A friend in need"
@@ -14,10 +15,10 @@ summary: "Session 9 of the campaign PARALLAX for Delta Green, where a friend fac
 ---
 ## Scene setup
 
-> **Expectations:** The team goes to new york looking for Hastur & Associates and goes to the company offices.
-> **Expected scene test:** Scene was altered! => Scene was interrupted!
-> **Interruption Event:** NPC negative, Befriend + Health
-> **NPC table roll:** Jo Mouton
+> **Expectations:** The team goes to new york looking for Hastur & Associates and goes to the company offices.  
+> **Expected scene test:** Scene was altered! => Scene was interrupted!  
+> **Interruption Event:** NPC negative, Befriend + Health  
+> **NPC table roll:** Jo Mouton  
 > **My interpretation:** Jo calls, saying that she's at the hospital, injured. She's been attacked by a man in a bar while off duty.
 
 ---

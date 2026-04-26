@@ -1,10 +1,11 @@
 ---
-date: 1970-01-01T00:00:00.000Z
+date: 2026-04-15T11:32:35.000Z
 lastmod: 2026-04-15T11:32:35.000Z
 title: "PARALLAX, Session 8: Hastur's shadow"
 draft: true
 slug: parallax-session-8-hasturs-shadow
 tags: ["Delta Green","PARALLAX"]
+categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/04/Police-Building-Edit-3TAC_1611-1-scaled.jpg
     alt: "PARALLAX, Session 8: Hastur's shadow"
@@ -22,12 +23,12 @@ Expected scene test : Scene was altered! => Make 2 Adjustments
 
 My interpretation: Kaminski's accomplice was NOT apprehended, but he was identified by the police.
 
-> **NPC rolls**
-> Morgan Robertson
-> Character Background: Independent + Pursued
-> Character Identity: Killer + Explorer
-> Character Personality: Helpful + Crude
-> Character Appearance: Powerful + Remarkable
+> **NPC rolls**  
+> Morgan Robertson  
+> Character Background: Independent + Pursued  
+> Character Identity: Killer + Explorer  
+> Character Personality: Helpful + Crude  
+> Character Appearance: Powerful + Remarkable  
 > Character Motivation: Justice + Goal
 
 My interpretation: Morgan Robertson, 39. Veteran army Ranger. Bad Conduct Discharge in 1990: during a mission, he disregarded direct orders to pursue a personal goal. Details missing on the report.
@@ -52,11 +53,11 @@ The wait in the car feels like an eternity, though the clock says it’s been le
 
 **Pariah:** "Nothing. He’s a ghost. We’re better off pivoting back to Kaminski—that’s where the infection started."
 
-> **NPC rolls for Colleen Kaminski
-> Character Background: **Activity + Bold
-> **Character Identity:** Hunter + Gambler => ancient relic hunter?
-> **Character Personality:** Greed + Larcenous => she stole something that got her the tattoo
-> **Character Appearance: **Eyewear + Lithe
+> **NPC rolls for Colleen Kaminski  
+> Character Background: **Activity + Bold  
+> **Character Identity:** Hunter + Gambler => ancient relic hunter?  
+> **Character Personality:** Greed + Larcenous => she stole something that got her the tattoo  
+> **Character Appearance: **Eyewear + Lithe  
 > **My interpretation:** Kaminski is a ruthless relic hunter, selling ancient stuff to pay for her gambling habit. She stole something that got her the tattoo. She's slender and wears eyegalsses.
 
 She opens a second file, sliding a photo across the console. It shows a slender woman with sharp features and wire-rimmed glasses. She looks more like a librarian than a criminal.
@@ -65,9 +66,9 @@ She opens a second file, sliding a photo across the console. It shows a slender 
 
 **Phalanx:** "Ancient relics. Sounds like the perfect way to stumble onto a cursed ink job. What was she digging for lately?"
 
-> FQ: any details on Kaminski's recent activity?
-> A: yes
-> **Character Motivation:** Art + Recover
+> FQ: any details on Kaminski's recent activity?  
+> A: yes  
+> **Character Motivation:** Art + Recover  
 > **My interpretation:** she was trying to recover a copy of the King in Yellow
 
 **Pariah:** "Notes from her motel room suggest she was on a commission for a private collector. The objective: recover an original copy of a play titled ***The King in Yellow***. She spent five months in Paris on their dime. She found *something* there, but her notes descend into gibberish toward the end. She returned to the States a month ago and immediately began showing signs of psychological collapse—screaming about 'tattered kings' and 'Carcosa.'"
@@ -93,4 +94,7 @@ Pariah flips open her laptop, her fingers flying across the keys as she attempts
 ## Scene Bookkeeping
 
 **Chaos factor:** 6 (unchanged)
-![](/assets/img/2026/04/Screenshot-2026-04-15-at-13.19.31.png)![](/assets/img/2026/04/Screenshot-2026-04-15-at-13.19.45.png)
+
+![](/assets/img/2026/04/Screenshot-2026-04-15-at-13.19.31.png)
+
+![](/assets/img/2026/04/Screenshot-2026-04-15-at-13.19.45.png)

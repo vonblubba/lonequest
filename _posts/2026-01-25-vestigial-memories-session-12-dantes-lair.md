@@ -23,7 +23,7 @@ summary: "Session 12 of the scenario \"Vestigial Memories\" for the Blade Runner
 [D12] Must be [3] =>  Consult. Seek expert insight or outside perspective => CONNEC TIONS to leverage an informant or LAPD asset, MANIPULATION to gain cooperation, TECH or MEDICAL AID to verify or interpret findings
 
 ---
-![](http://192.168.76.1:2368/content/images/2026/01/riggs.png)
+![](/images/2026/01/riggs.png)
 Dante is holed up in a ratty basement apartment in **Hawker’s Circle**. It’s a damp, low-ceilinged tomb that smells of ozone and mildew—hardly the ideal environment for high-end hardware, but beggars can’t be choosers when they’re hiding from shadows.
 
 **Riggs:** "Nate. You’re late. What do you have for me?" 

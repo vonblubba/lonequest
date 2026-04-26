@@ -69,7 +69,7 @@ His chanting reached a fever pitch. With a swift, practiced motion, he dragged t
 He had a point.
 
 We knocked. The chanting stopped instantly. After a tense silence, the door opened. A Black man in his sixties stood there; he had discarded the robe but was awkwardly hiding his bandaged forearm behind his back.
-![](http://192.168.76.1:2368/content/images/2026/02/Thibodeaux.jpg)
+![](/images/2026/02/Thibodeaux.jpg)
 **Remy:** "Mr. Thibodeaux? My name is Remy. I’m a pianist. The manager at the Kraken said I needed your approval to be hired. Hope it’s a good time."
 
 > **Fast Talk skill check**

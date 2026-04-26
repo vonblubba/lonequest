@@ -25,25 +25,25 @@ Well, what can I say. I'm already intrigued.
 
 ## SCENARIO SETUP ROLLS
 
-> **PROBLEM TABLE ROLL**
+> **PROBLEM TABLE ROLL**  
 > (D100): (100) => You are on a train, heading to your destination. The train leaves town and enters beautiful countryside. You drift off into a pleasant and peaceful sleep. Some hours later you awake to find the train empty and stopped on the track. You are the only passenger. Everyone, including the driver, is gone.
 
-> **QUEST SOURCE TABLE ROLL**
+> **QUEST SOURCE TABLE ROLL**  
 > (D100): (82) => An old family heirloom falls and breaks, revealing something mysterious inside.
 
-> **CLUE TABLE ROLL**
+> **CLUE TABLE ROLL**  
 > (D100): (53) => A rune, made out in carefully placed stones on the ground
 
-> **CHARACTERS INVOLVED OCCUPATION TABLE ROLL**
+> **CHARACTERS INVOLVED OCCUPATION TABLE ROLL**  
 > (D100): (96) => Historian
 
-> **GENDER TABLE ROLL**
+> **GENDER TABLE ROLL**  
 > (D100): (70) => Male
 
-> **NPC KEYWORD MODIFIER TABLE ROLL**
+> **NPC KEYWORD MODIFIER TABLE ROLL**  
 > (D100): (41) => Brooding
 
-> **URBAN LOCATION TABLE ROLL**
+> **URBAN LOCATION TABLE ROLL**  
 > I chose University
 
 ---
@@ -56,7 +56,8 @@ The inciting incident arrived not by vision, but by post. A frantic, stain-rimme
 > *"Master Bartolini, the rains were unholy. They clawed through the roof of the library and rotted the very floorboards. When I pulled up the soaked planks to save the foundation, I found... it. A floor of cold stone beneath the wood, and upon it, a design made of set pebbles. I had our neighbor, Ms. Ravini, photograph it. Master, the sight of it curdles the milk in my stomach. I have covered it with a tarp, but I can still feel it through the soles of my shoes."*
 
 Included was the photograph: a jagged, morbid sigil. To my eye, it bore the unmistakable, twisted geometry of the **Ars Goetia**. But why was it under my father’s feet? Why was our history built upon a seal of the abyss?
-![](/assets/img/2026/02/rune.png)The sigil
+
+![](/assets/img/2026/02/rune.png)
 I knew only one man with the cold temperament to analyze such a thing: **Professor Sterling St. Claire** of LSU. Our shared membership in the *Dante Alighieri Society*—a thin veneer for our true work in occult historiography—provided the necessary trust.
 
 ---

@@ -17,18 +17,18 @@ summary: "Session 3 of the campaign PARALLAX for Delta Green, where Lawrence mak
 
 > **Expectations:** Lawrence will think about what just happened, evaluating his options. Jo will be back shortly, he will have to make a decision by then.
 
-> **Expected scene test roll**
+> **Expected scene test roll**  
 > (D10): (5) => altered scene
 
-> **Scene adjustment roll:** Add an object
-> **Element meaning objects roll:** Container + Hard
+> **Scene adjustment roll:** Add an object  
+> **Element meaning objects roll:** Container + Hard  
 > **My interpretation: **if I decide to agree to Pariah's request, I will need to put every remaining track of Baptiste and the autopsy (e.g. the towel with my blood, clean the gurney, etc) in some kind of container that will be hard to hide from Jo and then destroy.
 
 ---
 
 I stand in the center of the morgue, shaken. Part of me still refuses to believe any of this is real. But that woman... she mentioned my grandfather.
 
-> **Fate Question (Likely modifier):** Is Lawrence aware of his grandfather’s involvement with the unnatural? 
+> **Fate Question (Likely modifier):** Is Lawrence aware of his grandfather’s involvement with the unnatural?   
 > **Answer:** Yes!
 
 Grandpa Lorenzo had always been an enigma. In his final years, he’d ramble for hours, spinning impossible tales of subterranean cults worshipping ancient Roman gods and "things from the depths." He’d been an antiquarian his whole life; we all just assumed his mind was crumbling under the weight of too many old stories. We called it senility. But now? Now I’m not so sure.
@@ -57,7 +57,7 @@ Jo doesn't hesitate. She pushes past me into the morgue, her eyes scanning the e
 
 **Jo:** "What. The. Fuck."
 
-> **Fate Question:** Does she smell the bleach? 
+> **Fate Question:** Does she smell the bleach?   
 > **Answer:** Yes.
 
 **Jo (wrinkling her nose):** "Did you just deep-clean this place?"

@@ -15,22 +15,22 @@ summary: "Session 2 of the scenario \"A study in Dust and Stone\" for Call of Ct
 ---
 ## Scene setup
 
-> Story Direction Roll
+> Story Direction Roll  
 > (D100): (91) => Dice roll
 
-> Dice Roll
+> Dice Roll  
 > (D100): (89) => Something happens
 
-> Random event table roll
+> Random event table roll  
 > (D100): (2) => Make a Spot Hidden roll, standard. If successful, you notice that someone is following you. You don’t give anything away just yet, but they’ve been shadowing you for several days. What are their motives? Could it be to do with what you’ve been investigating recently?
 
-> Regular Spot Hidden roll:
+> Regular Spot Hidden roll:  
 > (D100): (51) => Success
 
-> Q: Who is following me?
-> Verbs table roll
-> (D10 + D100): (1 + 94) => enchant
-> (D10 + D100): (2 + 42) => follow
+> Q: Who is following me?  
+> Verbs table roll  
+> (D10 + D100): (1 + 94) => enchant  
+> (D10 + D100): (2 + 42) => follow  
 > A magic user is following me and the empty train is an effect of some spell or enchantment.
 
 I chose a spell from the [Grand Grimoire of Cthulhu](https://www.drivethrurpg.com/en/product/206774/the-grand-grimoire-of-cthulhu-mythos-magic)
@@ -38,15 +38,15 @@ I chose a spell from the [Grand Grimoire of Cthulhu](https://www.drivethrurpg.co
 ***Dream Vision**
 Brings forth dreams or nightmares portending to the future. May be cast upon the wizard him or herself, or at a chosen target (the wizard must be able to see the target). The spell may involve the ingestion of certain hallucinogenic plants or compounds. The dreams are unusually vivid, although the information related is usually cryptic and metaphorical in nature and imagery—may also cost Sanity points, depending on the content of the dream.*
 
-> Q: What do I see in the prophetic dream?
-> Verbs table roll
-> (D10 + D100): (4 + 84) => drop
-> (D10 + D100): (0 + 34) => sing
+> Q: What do I see in the prophetic dream?  
+> Verbs table roll  
+> (D10 + D100): (4 + 84) => drop  
+> (D10 + D100): (0 + 34) => sing  
 > A a black skinned mermaid is sitting on a rock. A giant golden squid is nearby, minding its own business. The mermaid starts singing, which attracts the attention of the squid. the giant squid attacks and eats her. => Remy's sister is in danger if she does not quit singing.
 
 > Sanity check for the vision: 0/1 sanity points
-> Sanity check roll:
-> [D100]: [64 < 70] => success, no sanity loss
+> Sanity check roll:  
+> (D100): (64 < 70) => success, no sanity loss
 
 I am then woken up by Remy. He tells me he's going to Baton Rouge to hear her sister singing at the golden kraken.
 
@@ -67,7 +67,9 @@ Driven by a buzzing in my skull, I stepped out of the iron carriage and found my
 A mermaid with skin like midnight sat upon a salt-stained rock, bathing in the sun. Beneath the waves, a mountain of gold stirred—a giant squid, its metallic hide gleaming with a predatory luster.
 
 She sang, and the gold moved. The water erupted. The event was gruesome: the squid did not just kill her, it erased her.
+
 ![](/assets/img/2026/02/mermaid.png)
+
 "Sir! Sir, you all right?"
 
 The world snapped back into focus with a jolt. The sun was still bright, the passengers were back, and a man was shaking my shoulder. He was rugged, with the steady hands of someone who worked with machines—or guns.
@@ -90,10 +92,10 @@ He paused, his eyes narrowing.
 
 **"The club is called The Golden Kraken."**
 
-> **Mythos points +1 for unsettling event
-> Sanity check 0/1d4-2**
-> Lorenzo: [D100]: [16 < 70] => No sanity loss
-> Remy: [D100]: [16 < 40] => No sanity loss
+> **Mythos points +1 for unsettling event**  
+> **Sanity check 0/1d4-2**  
+> Lorenzo: (D100): (16 < 70) => No sanity loss  
+> Remy: (D100): (16 < 40) => No sanity loss  
 
 The air in the car suddenly felt as thin as it had in the dream. I told him I wasn't a man of nightclubs,
 

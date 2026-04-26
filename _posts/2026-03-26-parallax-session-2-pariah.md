@@ -15,18 +15,18 @@ summary: "Session 2 of the campaign PARALLAX for Delta Green, where Lawrence's v
 ---
 ## Scene setup
 
-> **Expectations**
+> **Expectations**  
 > Something unnatural emerges from the autopsy. Tattoo has moved to the paramedic?
 
-> **Expected scene test roll**
+> **Expected scene test roll**  
 > (D10): (5) => altered scene
 
-> **Scene adjustment roll:** Add a character
-> **Character identity roll:** Protector + Public
+> **Scene adjustment roll:** Add a character  
+> **Character identity roll:** Protector + Public  
 > **My interpretation:** A delta green agent shows up shortly after the autopsy
 
-> **Character background:** Care + Heroic => A U.S. Marine combat medic
-> **Character Appearance: **Different + Exotic => A huge Samoan woman
+> **Character background:** Care + Heroic => A U.S. Marine combat medic  
+> **Character Appearance: **Different + Exotic => A huge Samoan woman  
 > **Character Motivation:** Conflict + Pursue => Asks that I give up the body, or she will be very pissed.
 
 ---
@@ -39,22 +39,24 @@ I freeze. My mind races back to the briefing. Didn't Jo say the *girl* had that 
 
 I lean in for a closer look.
 
-> **Fate Question (Very Likely):** Do I see something unnatural about the tattoo? 
-> **Answer:** Yes. 
-> **Element Meaning (Sensory, Vision & Dreams):** Colorful + Suffering 
+> **Fate Question (Very Likely):** Do I see something unnatural about the tattoo?   
+> **Answer:** Yes.   
+> **Element Meaning (Sensory, Vision & Dreams):** Colorful + Suffering   
 > **Interpretation:** The tattoo shifts and changes color. It causes severe cranial pressure if observed for too long.
 
 The ink begins to shift before my eyes, pulsing with colors not of this world—hues my mind cannot categorize or accept. A jagged spike of pain lances through my skull. I jerk my head away, gasping. A thick drop of blood hits the floor, followed by another. My left nostril is bleeding. I press a paper towel to my face, my heart hammering against my ribs.
 
 *What the hell just happened?*
 
-> **First contact with the unnatural: Sanity Check (0/2)**
+> **First contact with the unnatural: Sanity Check (0/2)**  
 > (D100): (66) => **Critical Success!** (No Sanity loss)
 
 *Get it together, Lawrence. Breathe. Think. There has to be a clinical explanation. A chemical reaction? A visual migraine?*
 
 The heavy thud of footsteps echoes from the corridor. The morgue door swings open, and a woman steps in who seems to command the very air in the room. She’s a powerhouse—maybe 6’4”, clearly samoan, with arms like corded oak. She’s wearing a U.S. Marines combat medic uniform, her name tag torn away.
+
 ![](/assets/img/2026/03/pariah.png)
+
 **Woman:** "Hello there. Call me Pariah. You the one cutting the bodies today?"
 
 I stare at her, the bloody towel still pressed to my nose. She doesn't wait for an answer. She looks down at Baptiste, spots the tattoo, then looks at the blood on my hand. She sighs, a sound of heavy weariness.

@@ -42,41 +42,41 @@ Phalanx leans over the counter, his smile more of a threat than a greeting.
 
 **Phalanx:** "Yes, Mr. Howells. Again. Walk us through what you saw the night of the murder."
 
-> Q: Does he add some new detail?
+> Q: Does he add some new detail?  
 > A: Exceptional No!
 
 Howells actually looks relieved to step away from his mundane chores. He launches into a story that is a verbatim copy of the police report I’ve already read. It’s too perfect—like he’s reciting a script.
 
-> Phalanx HUMINT = 70 => no need to roll
-> Q (likely): did he see Kaminski with the accomplice?
+> Phalanx HUMINT = 70 => no need to roll  
+> Q (likely): did he see Kaminski with the accomplice?  
 > A: Yes
 
 **Phalanx:** "You inadvertently omitted something, Howells. We have footage of Kaminski talking to a man by the entrance. How odd that you forgot to mention him."
 
 The color drains from Howells’ face.
 
-> Q: did he known the man?
-> A: no
-> Q: why did he omit to tell about him?
-> A: Character Motivation: Strange + Fight
+> Q: did he known the man?  
+> A: no  
+> Q: why did he omit to tell about him?  
+> A: Character Motivation: Strange + Fight  
 > My interpretation: he saw them fighting but then something strange happened and he feared that he would not have been believed
 
 **Howells:** "I... shit. I saw them, alright? They weren't just talking. They were fighting."
 
 **Phalanx:** "About what?"
 
-> Q: did he hear what they were fighting about?
-> A: yes!
-> Q: what they were fighting about?
-> A: Character Motivation: Approval + Search
+> Q: did he hear what they were fighting about?  
+> A: yes!  
+> Q: what they were fighting about?  
+> A: Character Motivation: Approval + Search  
 > My interpretation: the man wanted Kaminski's approval to begin searching for something or someone
 
 **Howells:** "The guy was desperate. He wanted her permission to go looking for something—or someone. She wouldn't give it. The argument got heated, and then something... odd happened."
 
-> Q (likely): is the odd happening related to the tattoo?
-> A: Yes
-> Q: What did he see?
-> A: Vision & Dream: Ideas + Colorful
+> Q (likely): is the odd happening related to the tattoo?  
+> A: Yes  
+> Q: What did he see?  
+> A: Vision & Dream: Ideas + Colorful  
 > My interpretation: he caught a glimpse of the tattoo color, that altered his perception
 
 He pauses, looking at his bandaged wrist.

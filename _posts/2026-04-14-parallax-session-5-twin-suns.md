@@ -17,10 +17,10 @@ summary: "Session 5 of the campaign PARALLAX for Delta Green, where things get m
 
 **Expectations:** Lawrence is contacted again 2 days later. He meets the team in a safehouse and gets the details of operation PARALLAX.
 
-> **Expected scene test roll:** Interrupt scene
-> **Event focus roll:** NPC action
-> **Event meaning roll:** Invade + News
-> **NPC list roll:** choose or roll again => I choose Colleen Kaminski
+> **Expected scene test roll:** Interrupt scene  
+> **Event focus roll:** NPC action  
+> **Event meaning roll:** Invade + News  
+> **NPC list roll:** choose or roll again => I choose Colleen Kaminski  
 > **My interpretation:** while waiting to be contacted again, Lawrence reads on the news something about Colleen Kaminski. Details TBD.
 
 ---
@@ -31,9 +31,9 @@ The next day, I head to work. The wait for the next contact is already becoming 
 
 A name jumps off the page: **Colleen Kaminski**.
 
-> **Fate Question:** Was Colleen Kaminski found dead?
-> **Answer:** Yes.
-> **Location Roll: **Valuable + Aggressive
+> **Fate Question:** Was Colleen Kaminski found dead?  
+> **Answer:** Yes.  
+> **Location Roll: **Valuable + Aggressive  
 > **Interpretation:** She was killed during a violent attempted robbery.
 
 Kaminski was shot dead by a security guard while trying to rob a jewelry store. According to the report, she was acting alone and appeared to be in the midst of a total mental breakdown. She’d lunged at the guard with a knife, screaming unintelligible phrases, leaving him no choice but to fire.
@@ -50,7 +50,7 @@ My pulse quickens. Should I wait for the Program, or use my position to dig? I a
 
 **Lawrence:** "Just professional curiosity. Jo, can you confirm if she had a tattoo? On her left forearm?"
 
-> **Fate Question:** Was the tattoo still there?
+> **Fate Question:** Was the tattoo still there?  
 > **Answer:** Yes.
 
 **Jo:** "Yeah, actually. LaRoux was right—she had that ugly ink on her left arm. Why? You think that’s a lead?"

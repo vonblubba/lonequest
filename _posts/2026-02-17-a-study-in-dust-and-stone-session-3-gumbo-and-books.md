@@ -15,16 +15,16 @@ summary: "Session 3 of the scenario \"A study in Dust and Stone\" for Call of Ct
 ---
 ## Scene setup
 
-> **Story Direction Table Roll**
-> (D100): (13) => Downtime
-> **Downtime Disturbance Table Roll**
-> [D100 + 1]: [6 +1] => No Disturbance
+> **Story Direction Table Roll**  
+> (D100): (13) => Downtime  
+> **Downtime Disturbance Table Roll**  
+> (D100 + 1): (6 +1) => No Disturbance
 
--2 Mythos points for undisturbed downtime
+> -2 Mythos points for undisturbed downtime
 
 ---
 
-*October 27th, 12:21 p.m. | Baton Rouge, Louisiana *
+*October 27th, 12:21 p.m. | Baton Rouge, Louisiana*
 
 We arrived in Baton Rouge shortly after midday. The humid air of the city felt thick, pressing against the station platforms.
 

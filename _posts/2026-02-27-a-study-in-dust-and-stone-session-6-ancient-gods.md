@@ -15,21 +15,21 @@ summary: "Session 6 of the scenario \"A study in Dust and Stone\" for Call of Ct
 ---
 ## Scene setup
 
-> Story Direction Table Roll
-> [D100 + 1]: [30 + 1] => Development
+> Story Direction Table Roll  
+> (D100 + 1): (30 + 1) => Development
 
-> Development table roll
+> Development table roll  
 > (D100): (38) => Roll on Random Events Table
 
-> Random events table roll
-> [D100 + 1]: [3 + 1] => A friend of yours, a professor, gets in touch with you regarding a disturbing discovery he has made. He’s heard what you’ve been researching and has a warning. [well, this seems to fit right in!]
+> Random events table roll  
+> (D100 + 1): (3 + 1) => A friend of yours, a professor, gets in touch with you regarding a disturbing discovery he has made. He’s heard what you’ve been researching and has a warning. [well, this seems to fit right in!]
 
 Pasting here the NPC rolls already made in scenario setup for Prof. St. Claire
 
-> CHARACTERS INVOLVED OCCUPATION TABLE ROLL
-> (D100): (96) => Historian
-> GENDER TABLE ROLL
-> (D100): (70) => Male
+> CHARACTERS INVOLVED OCCUPATION TABLE ROLL  
+> (D100): (96) => Historian  
+> GENDER TABLE ROLL  
+> (D100): (70) => Male  
 > NPC KEYWORD MODIFIER TABLE ROLL(D100): (41) => Brooding
 
 ---
@@ -54,6 +54,7 @@ She hands me a note:
 
 ---
 ![](/assets/img/2026/02/st_claire.png)
+
 **St. Claire:** "Ah, Lorenzo. Finally." 
 
 Sterling is a man in his fifties, well-groomed and polite. He teaches Renaissance History at LSU and is a fellow member of the Dante Alighieri Society. He’s no stranger to matters of the occult.
@@ -92,10 +93,10 @@ I tell him everything about Thibodeaux and the map.
 
 The LSU library has an occult section. I cross-reference the map symbols and Sterling’s notes.
 
-> **Library Use skill check**
-> [D100]: [67 < 80] => regular success
+> **Library Use skill check**  
+> (D100): (67 < 80) => regular success
 
-References about the ancient Roman god ***Summanus ***were easily found. [From [Wikipedia](https://en.wikipedia.org/wiki/Summanus)]
+References about the ancient Roman god **Summanus** were easily found. [From [Wikipedia](https://en.wikipedia.org/wiki/Summanus)]
 
 > Summanus (Latin: Summānus) was the god of nocturnal thunder in ancient Roman religion, as counterposed to Jupiter, the god of diurnal (daylight) thunder.
 > His precise nature was unclear even to Ovid.
@@ -116,8 +117,8 @@ Ok, that's plenty of information. Now let's dive into Tuscan Rituals.
 
 [Summanus apparently is an Great Old One created by writer *Brian Lumley*. I looked for inspiration in his short story [What Dark God](https://readerslibrary.org/wp-content/uploads/What-Dark-God-1.pdf)]
 
-> **Library use skill check**
-> [D100]: [4 < 80] => extreme success
+> **Library use skill check**  
+> (D100): (4 < 80) => extreme success
 
 The information about Summanus I find in Sterling's notes describe a god quite different from the one worshipped by the Romans.
 Appearing as a *grotesque, mouthless humanoid with pale tentacles sticking out from under his robes, Summanus can use these appendages to siphon blood from his victims*. Talk about benevolent gods.
@@ -125,22 +126,22 @@ He is also referred to as a *Great old One*, whatever that means.
 
 There's pages and pages that describe the "Liturgy of Summanus", practices a devotee must follow to worship his god. In particular there's a ritual describing an offering of three wheat-breads in the shape of wheels with ribbed spokes [this is from Brian Lumley's short story]. Bread offerings are not unusual in European liturgies.
 
-> Q: Do I find anything useful about the sigil in my family house?
+> Q: Do I find anything useful about the sigil in my family house?  
 > (D100): (13) => no
 
 The notes regarding the sigil are incomplete, there's not much I can find out about it. It's a ward to 'defuse death' or 'defuse murder'. Why was it on my library floor? No answers here.
 
 I look for information about the map next.
 
-> **Library Use skill check**
-> [D100]: [46 < 80] => success
+> **Library Use skill check**  
+> (D100(: (46 < 80) => success
 
-> Q: What does the map represent?
-> **Verbs table roll**
-> (D10 + D100): (7 + 50) => offend
-> (D10 + D100): (7 + 51) => oppress
-> (D10 + D100): (8 + 97) => recite
-> (D10 + D100): (4 + 36) => decay
+> Q: What does the map represent?  
+> **Verbs table roll**  
+> (D10 + D100): (7 + 50) => offend  
+> (D10 + D100): (7 + 51) => oppress  
+> (D10 + D100): (8 + 97) => recite  
+> (D10 + D100): (4 + 36) => decay  
 > (D10 + D100): (8 + 66) => plead
 
 In *Tuscan Rituals* are several reports of episodes happened in Etruscan times. Apparently Summanus was quite an oppressive god. He was easily offended by even the slightest misconduct of his followers. When an unfortunate worshipper became the target of his wrath, a *curse of decay *was bestowed upon him. His body would slowly writhe and decompose. The process took days and it was extremely painful, leading to an excruciating death. The only way for the curse to be lifted was for the unfortunate fellow to recite the *ritual of pleading*. Details of the ritual are missing, but it is stated that to get better, *the repentant must navigate through the labyrinth of faith*.

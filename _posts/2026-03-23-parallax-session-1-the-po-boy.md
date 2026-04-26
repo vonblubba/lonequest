@@ -21,19 +21,19 @@ The first step is to decide how much your character knows at the beginning of th
 
 ### Operation Details (from random tables)
 
-> **Victim**
+> **Victim**  
 > I choose paramedic, as I don't feel like bringing in some 3-lettered agency right now.
 
-> **Deed**
+> **Deed**  
 > (D100): (39) => Manslaughter
 
-> **Means**
+> **Means**  
 > (D100): (2) => Handgun
 
-> **Motive**
+> **Motive**  
 > (D100): (82) => Religious Revelation
 
-> **Unnatural element**
+> **Unnatural element**  
 > (D100): (93) => Great Old Ones
 
 ---

@@ -15,9 +15,9 @@ summary: "Session 4 of the campaign PARALLAX for Delta Green, where Lawrence get
 ---
 ## Scene setup
 
-> **Expectations:** Lawrence goes back to his normal life but is contacted by delta green after a few days.
-> **Expected scene test roll: **Interrupt scene
-> **Event focus roll:** PC positive
+> **Expectations:** Lawrence goes back to his normal life but is contacted by delta green after a few days.  
+> **Expected scene test roll: **Interrupt scene  
+> **Event focus roll:** PC positive  
 > **My interpretation:** Jo trusts Lawrence on the body disappearence
 
 ---
@@ -64,7 +64,7 @@ When the car stops, she leads me through several doors. I hear the distinct *chi
 
 We’re in a nondescript briefing room—whiteboard, projector, a few folding chairs.
 
-> **Fate Question (Likely modifier):** Is there anyone else with us? 
+> **Fate Question (Likely modifier):** Is there anyone else with us?   
 > **Answer:** No.
 
 **Pariah:** "Sorry for the theatrics. I’m sure you understand."
@@ -77,7 +77,7 @@ A smirk flickers across her face.
 
 **Lawrence:** "Let’s not get ahead of ourselves. I want to know what’s going on. Maybe start with my grandfather?"
 
-> **Fate Question (Likely modifier):** Was Lorenzo part of Delta Green? 
+> **Fate Question (Likely modifier):** Was Lorenzo part of Delta Green?   
 > **Answer:** Yes.
 
 **Pariah:** "Your grandfather was one of us. One of the first, to be honest."
@@ -104,7 +104,7 @@ She pauses to let the weight of that settle. I feel like laughing in her face, a
 
 **Lawrence:** "Of course. What was that thing?"
 
-> **Fate Question:** Was the tattoo an interdimensional parasite? 
+> **Fate Question:** Was the tattoo an interdimensional parasite?   
 > **Answer:** Yes.
 
 **Pariah:** "It’s a living thing. A parasite, to be precise. Upon contact, it completely rewrites the host's perception of reality. We need to know how it transmits and, more importantly, how to kill it."
@@ -150,4 +150,7 @@ I nod, a chill running down my spine. The fact that she knows I talk to Akira is
 ## Scene bookkeeping
 
 **Chaos factor**: unchanged = 6
-![](/assets/img/2026/03/npc.png)![](/assets/img/2026/03/thread.png)
+
+![](/assets/img/2026/03/npc.png)
+
+![](/assets/img/2026/03/thread.png)

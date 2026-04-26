@@ -15,13 +15,13 @@ summary: "Session 7 of the scenario \"A study in Dust and Stone\" for Call of Ct
 ---
 ## Scene setup
 
-> Story Direction Table Roll
-> [D100 + 1]: [84 + 1] => Dice Roll
+> Story Direction Table Roll  
+> (D100 + 1): (84 + 1) => Dice Roll
 
-> Dice Roll table roll
+> Dice Roll table roll  
 > (D100): (2) => You hear something
 
-> Auditory Effect table roll
+> Auditory Effect table roll  
 > (D100 + D100): (23+ 1) => Groaning + Under floor/ground
 
 Note: I used this scene to learn and experiment with Foundry VTT maps, tokens, lines of sight etc. Very powerful tools indeed.
@@ -38,7 +38,9 @@ As darkness falls, we head for the Golden Kraken. We hop into a cab and hammer o
 **Remy:** "I've been there a few times for... business meetings. I know the bar personnel well. What worries me is avoiding Thibodeaux. If he spots us, we're done. He usually stays near the stage, so we should be fine if we keep our heads down. We go in, look for anything suspicious. Also, take this."
 
 He hands me a **.45 revolver**. I look at it anxiously—the cold steel feels heavy and wrong in my palm—but I tuck it into my pocket nonetheless.
+
 ![](/assets/img/2026/03/Screenshot-2026-03-12-at-09.00.54.png)Lorenzo and Remy arrive at the Golden Kraken
+
 The cab drops us in front of the Golden Kraken. A young Black receptionist greets us with a bright, practiced smile. 
 
 **Receptionist:** "Welcome to the Golden Kraken, esteemed customers! Please, enter and make yourselves comfortable. We have the best jazz in the city, and we can provide *all* kinds of beverages for your pleasure."
@@ -47,16 +49,16 @@ Remy smirks. We enter the main lounge—a cavernous room with a stage at the far
 
 I scan the room, my eyes searching for the rot beneath the glamour.
 
-> **Lorenzo Spot Hidden skill check**
-> [D100]: [17 < 90] => Extreme Success.
+> **Lorenzo Spot Hidden skill check** 
+> (D100): (17 < 90) => Extreme Success.
 
-> **Q: Do we see anything cult-related?**
+> **Q: Do we see anything cult-related?**  
 > (D100): (39) => Maybe
 
-> **Q: What do we see?
-> Verbs table roll**
-> (D10 + D100): (6 + 23) => examine
-> (D10 + D100): (2 + 56) => beguile
+> **Q: What do we see?** 
+> **Verbs table roll**  
+> (D10 + D100): (6 + 23) => examine  
+> (D10 + D100): (2 + 56) => beguile  
 > (D10 + D100): (2 + 77) => blurt
 
 I spot Thibodeaux near the stage. He is leaning in close to a young woman in her twenties, resplendent in an evening dress. She looks like Camille’s replacement. Thibodeaux is being conniving, his voice a low, oily murmur as he tries to beguile her.
@@ -66,11 +68,13 @@ I spot Thibodeaux near the stage. He is leaning in close to a young woman in her
 **Lorenzo:** "Interesting. Is he just a depraved old man, or is there something cult-related at play?" 
 **Remy:** "We should talk to that girl. Let's slip backstage while he’s occupied."
 
-> **Remy Stealth skill check**
+> **Remy Stealth skill check**  
 > (D100): (58) < [70] => success
 
 We slip into the corridor behind the stage and find the dressing room. The girl is inside, dabbing at tears with a silk handkerchief.
+
 ![](/assets/img/2026/03/Screenshot-2026-03-12-at-15.04.06.png)Lorenzo and Remy sneak into the dressing room
+
 **Remy:** "Hello, Miss. I'm Remy Fontenot, and this is my associate, Mr. Bartolini. Could we have a moment of your time?" 
 **Girl:** "This really isn't a good time." 
 **Remy:** "I understand. See, I’m Camille’s brother. The singer you’re replacing? She had to leave because of some... unpleasantness with Mr. Thibodeaux. We just wanted to warn you." 
@@ -90,7 +94,7 @@ I stop. A sound reaches my ears—a muffled, agonizing groan. It isn't coming fr
 **Remy:** "Yes! They must have taken Hattie!"
 **Lorenzo: **"There must some passage to the basement around here. Let me see."
 
-> **Lorenzo Spot Hidden skill roll**
+> **Lorenzo Spot Hidden skill roll**  
 > (D100): (75) < 90 => success
 
 **Lorenzo:** "There! Under that table! A trapdoor."

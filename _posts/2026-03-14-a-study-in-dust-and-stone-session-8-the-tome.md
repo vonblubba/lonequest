@@ -59,49 +59,49 @@ I turned to my companion. "Remy, your sister is safe now. You have no further ob
 
 ### Remy's development phase
 
-> **Psychology skill improvement roll**
+> **Psychology skill improvement roll**  
 > (D100): (82) > 20 => skill improved by (D10): (10)
 
-> **Stealth skill improvement roll**
+>   **Stealth skill improvement roll**
 > (D100): (90) > 70 => skill improved by (D10): (2)
 
 > **Sanity reward for stopping Thibodeaux**: 2 SP
 
-> **Luck recovery roll**
+> **Luck recovery roll**  
 > (D100): (80) > 35 => Remy recovers (D10): (5) LP
 
 ![](/assets/img/2026/03/tome.png)
 ### Lorenzo's development phase
 
-> **Library use skill improvement roll**
+> **Library use skill improvement roll**  
 > (D100): (73) < 80 => no improvement
 
-> **Listen skill improvement roll**
+> **Listen skill improvement roll** 
 > (D100): (95) > 20 => skill improved by (D10): (5)
 
-> **Occult skill improvement roll**
+> **Occult skill improvement roll**  
 > (D100): (99) > 65 => skill improved by (D10): (10)
 
-> **Spot Hidden skill improvement roll**
+> **Spot Hidden skill improvement roll**  
 > (D100): (27) < 90 => no improvement
 
 > **Sanity reward for stopping Thibodeaux:** 2 SP
 
-> **Luck recovery roll**
+> **Luck recovery roll**  
 > (D100): (46) < 46 => No luck recovered
 
-> **Lorenzo performs an initial reading of the Tuscan Rituals**
-> Language (italian) skil check
-> (D100): (6) < 60 => success
-> Lorenzo gains 4% Cthulhu Mythos and loses 2 SP
+> **Lorenzo performs an initial reading of the Tuscan Rituals**  
+> Language (italian) skil check  
+> (D100): (6) < 60 => success  
+> Lorenzo gains 4% Cthulhu Mythos and loses 2 SP  
 > (D4): (4) spells are revealed: all spells present in the tome.
 
-> **Lorenzo spends 8 weeks studying the tome**
-> Cthulhu Mythos +1%, 3 Max Sanity lost
-> Italian skill improvement check
+> **Lorenzo spends 8 weeks studying the tome**  
+> Cthulhu Mythos +1%, 3 Max Sanity lost  
+> Italian skill improvement check  
 > (D100): (84) < 60 => skill improved by (D10): (6)
 
-> **Lorenzo tries to learn "Blessing of the Labyrinth"**
-> Hard INT check:
-> (D100): (23) < (70/2) => Success!
+> **Lorenzo tries to learn "Blessing of the Labyrinth"**  
+> Hard INT check:  
+> (D100): (23) < (70/2) => Success!  
 > Lorenzo learns the spell and loses (D6): (1) SP

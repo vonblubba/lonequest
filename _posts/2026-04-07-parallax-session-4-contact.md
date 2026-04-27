@@ -9,7 +9,7 @@ categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/confroom.jpg
     alt: "PARALLAX, Session 4: Contact"
-description:
+description: "Session 4 of the campaign PARALLAX for Delta Green, where Lawrence gets an interesting briefing."
 image: /assets/img/2026/03/confroom.jpg
 summary: "Session 4 of the campaign PARALLAX for Delta Green, where Lawrence gets an interesting briefing."
 ---

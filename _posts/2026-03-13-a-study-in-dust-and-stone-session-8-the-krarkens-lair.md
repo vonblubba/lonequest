@@ -9,7 +9,7 @@ categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/03/dark-cellar-with-barrels-wine-it_902338-7250.png
     alt: "A Study in Dust and Stone, Session 8: the Krarken's Lair"
-description:
+description: "Session 8 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy face the cult of Summanus."
 image: /assets/img/2026/03/dark-cellar-with-barrels-wine-it_902338-7250.png
 summary: "Session 8 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy face the cult of Summanus."
 ---

@@ -9,7 +9,7 @@ categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/03/tome_2.jpg
     alt: "A Study in Dust and Stone, Session 8: The tome"
-description:
+description: "Session 9 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo takes a peek at forbidden knowledge"
 image: /assets/img/2026/03/tome_2.jpg
 summary: "Session 9 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo takes a peek at forbidden knowledge"
 ---

@@ -9,7 +9,7 @@ categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/maxresdefault.jpg
     alt: "A Study in Dust and Stone, Session 5: Under a Tuscan sun"
-description:
+description: "Session 5 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where the investigation takes a Tuscan turn"
 image: /assets/img/2026/02/maxresdefault.jpg
 summary: "Session 5 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where the investigation takes a Tuscan turn"
 ---

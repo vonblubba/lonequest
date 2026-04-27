@@ -9,7 +9,7 @@ categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core08_tools_of_the_trade_188-189.webp
     alt: "Vestigial Memories, Session 2: LAPD Mainframe"
-description:
+description: "Session 2 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke digs out a cold case file from the LAPD mainframe, looking for leads on the murder of Rhea Lang."
 image: /assets/img/2026/01/br_core08_tools_of_the_trade_188-189.webp
 summary: "Session 2 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke digs out a cold case file from the LAPD mainframe, looking for leads on the murder of Rhea Lang."
 ---

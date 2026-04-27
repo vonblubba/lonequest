@@ -9,7 +9,7 @@ categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core07_working_the_case_158-159-1.webp
     alt: "Vestigial Memories, Session 1: Case briefing"
-description:
+description: "Session 1 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke's downtime is cut short by Deputy Chief Holden that wants him on a new case."
 image: /assets/img/2026/01/br_core07_working_the_case_158-159-1.webp
 summary: "Session 1 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke's downtime is cut short by Deputy Chief Holden that wants him on a new case."
 ---

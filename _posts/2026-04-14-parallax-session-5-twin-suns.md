@@ -9,7 +9,7 @@ categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/suns.webp
     alt: "PARALLAX, Session 5: Twin Suns"
-description:
+description: "Session 5 of the campaign PARALLAX for Delta Green, where things get moving before Lawrence is contacted again."
 image: /assets/img/2026/03/suns.webp
 summary: "Session 5 of the campaign PARALLAX for Delta Green, where things get moving before Lawrence is contacted again."
 ---

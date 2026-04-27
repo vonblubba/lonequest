@@ -9,7 +9,7 @@ categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/train-1.png
     alt: "A Study in Dust and Stone, Session 2: Dreams and Visions"
-description:
+description: "Session 2 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo receives a warning."
 image: /assets/img/2026/02/train-1.png
 summary: "Session 2 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo receives a warning."
 ---

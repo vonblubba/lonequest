@@ -9,7 +9,7 @@ categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/02/br_core07_working_the_case_158-159-1-1-1.webp
     alt: Vestigial Memories, Debriefing
-description:
+description: "Final debriefing for the \"Vestigial memories\" scenario"
 image: /assets/img/2026/02/br_core07_working_the_case_158-159-1-1-1.webp
 summary: "Final debriefing for the \"Vestigial memories\" scenario"
 ---

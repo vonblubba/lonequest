@@ -9,7 +9,7 @@ categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/gumbo.png
     alt: "A Study in Dust and Stone, Session 3: Gumbo and Books"
-description:
+description: "Session 3 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy get to know each other over spicy gumbo."
 image: /assets/img/2026/02/gumbo.png
 summary: "Session 3 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy get to know each other over spicy gumbo."
 ---

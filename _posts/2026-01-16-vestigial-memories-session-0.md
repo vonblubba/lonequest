@@ -9,7 +9,7 @@ categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.png
     alt: "Vestigial Memories, Session 0:  Character creation"
-description:
+description: "Session 0 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where we meet Nathaniel Locke, veteran cityspeaker for the LAPD Replicant Detection Unit."
 image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.png
 summary: "Session 0 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where we meet Nathaniel Locke, veteran cityspeaker for the LAPD Replicant Detection Unit."
 ---

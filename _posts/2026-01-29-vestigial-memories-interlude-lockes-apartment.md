@@ -9,7 +9,7 @@ categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_108-109-1-1.webp
     alt: "Vestigial Memories, Interlude: Locke's Apartment"
-description:
+description: "Interlude of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where an unexpected encounter outside of Locke's apartment turns into a dangerous situation."
 image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_108-109-1-1.webp
 summary: "Interlude of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where an unexpected encounter outside of Locke's apartment turns into a dangerous situation."
 ---

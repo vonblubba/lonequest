@@ -9,7 +9,7 @@ categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/04/h.webp
     alt: "PARALLAX, Session 9: A friend in need"
-description:
+description: "Session 9 of the campaign PARALLAX for Delta Green, where a friend faces danger."
 image: /assets/img/2026/04/h.webp
 summary: "Session 9 of the campaign PARALLAX for Delta Green, where a friend faces danger."
 ---

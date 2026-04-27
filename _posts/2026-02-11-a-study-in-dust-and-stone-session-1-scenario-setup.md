@@ -9,7 +9,7 @@ categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/train.png
     alt: "A Study in Dust and Stone, Session 1:  Scenario setup"
-description:
+description: "Session 1 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo faces a mystery from his past."
 image: /assets/img/2026/02/train.png
 summary: "Session 1 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo faces a mystery from his past."
 ---

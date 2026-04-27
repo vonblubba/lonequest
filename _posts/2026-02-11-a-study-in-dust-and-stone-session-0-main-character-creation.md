@@ -9,7 +9,7 @@ categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/banner_00.png
     alt: "A Study in Dust and Stone, Session 0:  Main Character creation"
-description:
+description: "Session 0 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed., where we meet Loenzo Bartolini, Florentine antiquarian."
 image: /assets/img/2026/02/banner_00.png
 summary: "Session 0 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed., where we meet Loenzo Bartolini, Florentine antiquarian."
 ---

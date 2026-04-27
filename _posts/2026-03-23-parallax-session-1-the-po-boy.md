@@ -9,7 +9,7 @@ categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/office.png
     alt: "PARALLAX, Session 1: The po-boy"
-description:
+description: "Session 1 of the campaign PARALLAX for Delta Green, where Lawrence gets some work to do."
 image: /assets/img/2026/03/office.png
 summary: "Session 1 of the campaign PARALLAX for Delta Green, where Lawrence gets some work to do."
 ---

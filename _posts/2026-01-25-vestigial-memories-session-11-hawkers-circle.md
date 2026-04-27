@@ -9,7 +9,7 @@ categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.webp
     alt: "Vestigial Memories, Session 11: Hawker's Circle"
-description:
+description: "Session 11 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke takes some time off that leads to an unexpected meeting."
 image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.webp
 summary: "Session 11 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke takes some time off that leads to an unexpected meeting."
 ---

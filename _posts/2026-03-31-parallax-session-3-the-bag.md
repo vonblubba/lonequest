@@ -9,7 +9,7 @@ categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/bag.jpeg
     alt: "PARALLAX, Session 3: The Bag"
-description:
+description: "Session 3 of the campaign PARALLAX for Delta Green, where Lawrence makes a choice."
 image: /assets/img/2026/03/bag.jpeg
 summary: "Session 3 of the campaign PARALLAX for Delta Green, where Lawrence makes a choice."
 ---

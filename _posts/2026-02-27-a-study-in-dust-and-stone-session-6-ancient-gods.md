@@ -9,7 +9,7 @@ categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/tome.jpg
     alt: "A Study in Dust and Stone, Session 6: Ancient gods"
-description:
+description: "Session 6 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where some light is shed upon the situation"
 image: /assets/img/2026/02/tome.jpg
 summary: "Session 6 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where some light is shed upon the situation"
 ---

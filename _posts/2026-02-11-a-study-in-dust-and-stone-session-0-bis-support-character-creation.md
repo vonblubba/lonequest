@@ -9,7 +9,7 @@ categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/banner_00-1.png
     alt: "A Study in Dust and Stone, Session 0/bis: Support Character creation"
-description:
+description: "Session 0 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed., where we meet Remy \"Red\" Fontenot, bootlegger form New Orleans."
 image: /assets/img/2026/02/banner_00-1.png
 summary: "Session 0 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed., where we meet Remy \"Red\" Fontenot, bootlegger form New Orleans."
 ---

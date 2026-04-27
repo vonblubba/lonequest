@@ -10,7 +10,7 @@ image: /assets/img/2026/03/storage.jpeg
 cover:
     image: /assets/img/2026/03/storage.jpeg
     alt: "PARALLAX, Session 6: The Green Box"
-description: 
+description: "Session 6 of the campaign PARALLAX for Delta Green, where a party is formed."
 summary: "Session 6 of the campaign PARALLAX for Delta Green, where a party is formed."
 ---
 ## Scene setup

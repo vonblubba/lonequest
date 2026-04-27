@@ -9,7 +9,7 @@ categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/delta-green-conspiracy-top.jpg
     alt: "PARALLAX, Session 0: Main character creation"
-description: 
+description: "Session 0 for the Delta Green campaign PARALLAX, where we meet the main character, Lawrence Bartolini"
 summary: "Session 0 for the Delta Green campaign PARALLAX, where we meet the main character, Lawrence Bartolini"
 image: /assets/img/2026/03/delta-green-conspiracy-top.jpg
 ---

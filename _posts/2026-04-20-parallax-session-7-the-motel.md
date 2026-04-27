@@ -9,7 +9,7 @@ categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/04/What-is-a-Motel-1.webp
     alt: "PARALLAX, Session 7: The Motel"
-description: 
+description: "Session 7 of the campaign PARALLAX for Delta Green, where another victim of the tatto is met."
 image: /assets/img/2026/04/What-is-a-Motel-1.webp
 summary: "Session 7 of the campaign PARALLAX for Delta Green, where another victim of the tatto is met."
 ---

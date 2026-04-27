@@ -9,7 +9,7 @@ categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_large_handout_sheets_apartment.webp
     alt: "Vestigial Memories, Session 3: The Witness"
-description:
+description: "Session 3 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke travels to the Red Lights district to interrogate the main witness.  Is this a mistaken identity case or is there something worse going on?"
 image: /assets/img/2026/01/br_large_handout_sheets_apartment.webp
 summary: "Session 3 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke travels to the Red Lights district to interrogate the main witness.  Is this a mistaken identity case or is there something worse going on?"
 ---

@@ -1,6 +1,6 @@
 ---
-date: 2026-04-15T11:32:35.000Z
-lastmod: 2026-04-15T11:32:35.000Z
+date: 2026-04-27T11:32:35.000Z
+lastmod: 2026-04-27T11:32:35.000Z
 title: "PARALLAX, Session 8: Hastur's shadow"
 draft: true
 slug: parallax-session-8-hasturs-shadow

@@ -54,20 +54,20 @@ Nathaniel is a **Cityspeaker**, a veteran human Blade Runner with a decade on th
 **The Origin**
 
 > **Origin Table roll:**  
-> (D12): (8) => After a traumatic childhood, you After a traumatic childhood, you struggled all your life to make struggled all your life to make connections. 
+> (D12): (8) => After a traumatic childhood, you struggled all your life to make connections. 
 
 Locke’s history is defined by isolation. After a traumatic childhood, he struggled to form meaningful connections, leading him to work without a partner. While a "loner" origin seems at odds with the social nature of a Cityspeaker, it creates a compelling tension: he understands everyone, yet belongs to no one.
 
 **The Memory:**
 
 > **Memory table 1:**  
-> (D6): (1) =>When you were a small child. The memory When you were a small child. The memory is now a fleeting vision.   
+> (D6): (1) =>When you were a small child. The memory is now a fleeting vision.   
 > **Memory table 2:**  
-> (D12): (4) => Lost in a seething crowd in a loud, dimly Lost in a seething crowd in a loud, dimly lit nightclub.   
+> (D12): (4) => Lost in a seething crowd in a loud, dimly lit nightclub.   
 > **Memory Table 3:**   
 > (D12): (8) => A throng of faceless people  
 > **Memory Table 4:**  
-> (D12): (2) => You took part in a violent crime, or You took part in a violent crime, or witnessed one.   
+> (D12): (2) => You took part in a violent crime, or witnessed one.   
 > **Memory Tbale 5:**  
 > (D12): (8) => Bold
 

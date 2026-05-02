@@ -1,6 +1,6 @@
 ---
-date: 2026-04-15T14:24:10.000Z
-lastmod: 2026-04-15T14:24:10.000Z
+date: 2026-05-02T14:24:10.000Z
+lastmod: 2026-05-02T14:24:10.000Z
 title: "PARALLAX, Session 9: A friend in need"
 draft: true
 slug: parallax-session-9-a-friend-in-need
@@ -13,15 +13,21 @@ description: "Session 9 of the campaign PARALLAX for Delta Green, where a friend
 image: /assets/img/2026/04/h.webp
 summary: "Session 9 of the campaign PARALLAX for Delta Green, where a friend faces danger."
 ---
+
 ## Scene setup
 
-> **Expectations:** The team goes to new york looking for Hastur & Associates and goes to the company offices.  
-> **Expected scene test:** Scene was altered! => Scene was interrupted!  
-> **Interruption Event:** NPC negative, Befriend + Health  
-> **NPC table roll:** Jo Mouton  
-> **My interpretation:** Jo calls, saying that she's at the hospital, injured. She's been attacked by a man in a bar while off duty.
+### Scene Expectations
+
+The team goes to new york looking for Hastur & Associates and goes to the company offices.  
+### Expected scene test 
+Scene was altered! => Scene was interrupted!  
+**Interruption Event:** NPC negative, Befriend + Health  
+**NPC table roll:** Jo Mouton  
+**My interpretation:** Jo calls, saying that she's at the hospital, injured. She's been attacked by a man in a bar while off duty.
 
 ---
+
+## Playing the scene
 
 We’re halfway to the airport when my phone rings. The caller ID says Jo.
 
@@ -75,4 +81,14 @@ I hang up. The silence in the car is heavy.
 
 ## Scene bookkeeping
 
-**Chaos factor:** +1 => 7
+### Chaos factor 
+
+7 (+1)
+
+#### Character list 
+
+Unchanged
+
+### Thread list 
+
+Unchanged

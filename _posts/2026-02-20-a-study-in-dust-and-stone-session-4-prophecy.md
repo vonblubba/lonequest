@@ -1,17 +1,10 @@
 ---
-date: 2026-02-20T14:55:53.000Z
-lastmod: 2026-02-20T14:55:53.000Z
+campaign: "A Study in Dust and Stone"
 title: "A Study in Dust and Stone, Session 4: Prophecy"
-draft: false
-slug: a-study-in-dust-and-stone-session-4-prophecy
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
-cover:
-    image: /assets/img/2026/02/bd413ddb75ff33f6bd1e5a61ea552057.jpg
-    alt: "A Study in Dust and Stone, Session 4: Prophecy"
 description: "Session 4 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where a dream becomes a prophecy."
 image: /assets/img/2026/02/bd413ddb75ff33f6bd1e5a61ea552057.jpg
-summary: "Session 4 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where a dream becomes a prophecy."
 ---
 ## Scene setup
 

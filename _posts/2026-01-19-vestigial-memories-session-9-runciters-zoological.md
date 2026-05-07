@@ -1,17 +1,10 @@
 ---
-date: 2026-01-19T13:52:35.000Z
-lastmod: 2026-01-21T13:54:23.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 9: Runciter's Zoological"
-draft: false
-slug: vestigial-memories-session-9-runciters-zoological
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/br_fa_large_handout_sheets_275x212_crime_runciters.webp
-    alt: "Vestigial Memories, Session 9: Runciter's Zoological"
 description: "Session 9 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke tracks down the bootleg replicant to Runciter's Zoological, a place he knows all too well."
 image: /assets/img/2026/01/br_fa_large_handout_sheets_275x212_crime_runciters.webp
-summary: "Session 9 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke tracks down the bootleg replicant to Runciter's Zoological, a place he knows all too well."
 ---
 ### Scene setup
 

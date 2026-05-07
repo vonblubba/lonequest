@@ -1,17 +1,10 @@
 ---
-date: 2026-02-27T11:51:28.000Z
-lastmod: 2026-02-27T11:51:28.000Z
+campaign: "A Study in Dust and Stone"
 title: "A Study in Dust and Stone, Session 5: Under a Tuscan sun"
-draft: false
-slug: a-study-in-dust-and-stone-session-5-under-a-tuscan-sun
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
-cover:
-    image: /assets/img/2026/02/maxresdefault.jpg
-    alt: "A Study in Dust and Stone, Session 5: Under a Tuscan sun"
 description: "Session 5 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where the investigation takes a Tuscan turn"
 image: /assets/img/2026/02/maxresdefault.jpg
-summary: "Session 5 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where the investigation takes a Tuscan turn"
 ---
 ## Scene setup
 

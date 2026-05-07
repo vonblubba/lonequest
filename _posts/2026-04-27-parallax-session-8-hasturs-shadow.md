@@ -1,17 +1,10 @@
 ---
-date: 2026-04-27T11:32:35.000Z
-lastmod: 2026-04-27T11:32:35.000Z
+campaign: "PARALLAX"
 title: "PARALLAX, Session 8: Hastur's shadow"
-draft: true
-slug: parallax-session-8-hasturs-shadow
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
-cover:
-    image: /assets/img/2026/04/Police-Building-Edit-3TAC_1611-1-scaled.jpg
-    alt: "PARALLAX, Session 8: Hastur's shadow"
 description: "Session 8 of the campaign PARALLAX for Delta Green, where the teams hits a dead end."
 image: /assets/img/2026/04/Police-Building-Edit-3TAC_1611-1-scaled.jpg
-summary: "Session 8 of the campaign PARALLAX for Delta Green, where the teams hits a dead end."
 ---
 ## Scene setup
 

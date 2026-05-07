@@ -1,17 +1,10 @@
 ---
-date: 2026-04-17T06:00:10.000Z
-lastmod: 2026-04-17T06:00:10.000Z
+campaign: "PARALLAX"
 title: "PARALLAX, Session 6: The Green Box"
-draft: false
-slug: parallax-session-6-the-green-box
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 image: /assets/img/2026/03/storage.jpeg
-cover:
-    image: /assets/img/2026/03/storage.jpeg
-    alt: "PARALLAX, Session 6: The Green Box"
 description: "Session 6 of the campaign PARALLAX for Delta Green, where a party is formed."
-summary: "Session 6 of the campaign PARALLAX for Delta Green, where a party is formed."
 ---
 ## Scene setup
 

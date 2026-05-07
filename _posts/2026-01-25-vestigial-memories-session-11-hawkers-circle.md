@@ -1,17 +1,10 @@
 ---
-date: 2026-01-25T13:30:01.000Z
-lastmod: 2026-02-05T15:21:22.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 11: Hawker's Circle"
-draft: false
-slug: vestigial-memories-session-11-hawkers-circle
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.webp
-    alt: "Vestigial Memories, Session 11: Hawker's Circle"
 description: "Session 11 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke takes some time off that leads to an unexpected meeting."
 image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.webp
-summary: "Session 11 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke takes some time off that leads to an unexpected meeting."
 ---
 ## Scene setup
 

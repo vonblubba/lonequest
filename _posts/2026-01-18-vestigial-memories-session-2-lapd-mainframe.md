@@ -1,17 +1,10 @@
 ---
-date: 2026-01-18T13:38:10.000Z
-lastmod: 2026-01-21T13:47:21.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 2: LAPD Mainframe"
-draft: false
-slug: vestigial-memories-session-2-lapd-mainframe
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/br_core08_tools_of_the_trade_188-189.webp
-    alt: "Vestigial Memories, Session 2: LAPD Mainframe"
 description: "Session 2 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke digs out a cold case file from the LAPD mainframe, looking for leads on the murder of Rhea Lang."
 image: /assets/img/2026/01/br_core08_tools_of_the_trade_188-189.webp
-summary: "Session 2 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke digs out a cold case file from the LAPD mainframe, looking for leads on the murder of Rhea Lang."
 ---
 ## The Investigation: Digging Through the Digital Ash
 

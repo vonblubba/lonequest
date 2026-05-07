@@ -1,17 +1,10 @@
 ---
-date: 2026-03-14T09:57:35.000Z
-lastmod: 2026-03-14T09:57:35.000Z
+campaign: "A Study in Dust and Stone"
 title: "A Study in Dust and Stone, Session 9: The tome"
-draft: false
-slug: a-study-in-dust-and-stone-session-9-the-tome
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
-cover:
-    image: /assets/img/2026/03/tome_2.jpg
-    alt: "A Study in Dust and Stone, Session 8: The tome"
 description: "Session 9 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo takes a peek at forbidden knowledge"
 image: /assets/img/2026/03/tome_2.jpg
-summary: "Session 9 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo takes a peek at forbidden knowledge"
 ---
 *October 28th, 10:17 a.m. | Prof. St. Claire office*
 

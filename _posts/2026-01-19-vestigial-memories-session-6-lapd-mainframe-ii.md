@@ -1,17 +1,10 @@
 ---
-date: 2026-01-19T11:25:52.000Z
-lastmod: 2026-02-05T15:19:11.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 6: LAPD Mainframe II"
-draft: false
-slug: vestigial-memories-session-6-lapd-mainframe-ii
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/br_core08_tools_of_the_trade_188-189-3.webp
-    alt: "Vestigial Memories, Session 6: LAPD Mainframe II"
 description: "Session 6 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke is back to the LAPD mainframe, looking for dirt on Zhao. He needs something to break her during the interrogation."
 image: /assets/img/2026/01/br_core08_tools_of_the_trade_188-189-3.webp
-summary: "Session 6 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke is back to the LAPD mainframe, looking for dirt on Zhao. He needs something to break her during the interrogation."
 ---
 ### Scene setup
 

@@ -1,17 +1,10 @@
 ---
-date: 2026-03-12T15:06:44.000Z
-lastmod: 2026-03-12T15:06:44.000Z
+campaign: "A Study in Dust and Stone"
 title: "A Study in Dust and Stone, Session 7: Jazz night"
-draft: false
-slug: a-study-in-dust-and-stone-session-7-jazz-night
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
-cover:
-    image: /assets/img/2026/03/jazz.jpg
-    alt: "A Study in Dust and Stone, Session 7: Jazz night"
 description: "Session 7 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy head for the lair of the Kraken."
 image: /assets/img/2026/03/jazz.jpg
-summary: "Session 7 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy head for the lair of the Kraken."
 ---
 ## Scene setup
 

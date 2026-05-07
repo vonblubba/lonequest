@@ -1,17 +1,10 @@
 ---
-date: 2026-01-22T08:53:08.000Z
-lastmod: 2026-02-05T15:30:03.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 10: Tsingtao"
-draft: false
-slug: vestigial-memories-session-10-tsingtao
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_86-87.webp
-    alt: "Vestigial Memories, Session 10: Tsingtao"
 description: "Session 10 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke tracks down the bootleg replicant to Tsingtao corp."
 image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_86-87.webp
-summary: "Session 10 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke tracks down the bootleg replicant to Tsingtao corp."
 ---
 ## Scene setup
 

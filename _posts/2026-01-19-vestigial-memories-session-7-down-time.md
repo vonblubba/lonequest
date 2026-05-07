@@ -1,17 +1,10 @@
 ---
-date: 2026-01-19T13:11:55.000Z
-lastmod: 2026-02-05T15:20:09.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 7: Down Time"
-draft: false
-slug: vestigial-memories-session-7-down-time
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_108-109.webp
-    alt: "Vestigial Memories, Session 7: Down Time"
 description: "Session 7 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke enjoys some well deserved down time before interrogating Zhao again. But it does not go as planned."
 image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_108-109.webp
-summary: "Session 7 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke enjoys some well deserved down time before interrogating Zhao again. But it does not go as planned."
 ---
 ### Scene setup
 

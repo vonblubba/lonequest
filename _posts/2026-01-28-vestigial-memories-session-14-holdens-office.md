@@ -1,17 +1,10 @@
 ---
-date: 2026-01-28T09:30:26.000Z
-lastmod: 2026-01-28T09:30:26.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 14: Holden's Office"
-draft: false
-slug: vestigial-memories-session-14-holdens-office
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/br_core07_working_the_case_158-159-1-1.webp
-    alt: "Vestigial Memories, Session 14: Holden's Office"
 description: "Session 14 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke must report back to Holden without revealing too much."
 image: /assets/img/2026/01/br_core07_working_the_case_158-159-1-1.webp
-summary: "Session 14 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke must report back to Holden without revealing too much."
 ---
 ## Scene setup
 

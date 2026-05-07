@@ -1,6 +1,6 @@
 ---
+campaign: "Campaign Name"
 title: "Campaign Name Session 12 - Post Title"
-published: false
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
 description: "Session 0 of the scenario 'Vestigial Memories' for the Blade Runner RPG, where ..."

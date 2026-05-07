@@ -1,15 +1,10 @@
 ---
+campaign: "PARALLAX"
 title: "PARALLAX, Session 10: Hypergeometry"
-draft: false
-slug: parallax-session-10-hypergeometry
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
-cover:
-    image: /assets/img/2026/04/WC-CoolRoof.jpg
-    alt: "PARALLAX, Session 10: Hypergeometry"
 description: "Session 10 of the campaign PARALLAX for Delta Green, where the team faces an unexpected unnatural danger"
 image: /assets/img/2026/04/WC-CoolRoof.jpg
-summary: "Session 10 of the campaign PARALLAX for Delta Green, where the team faces an unexpected unnatural danger"
 ---
 ## Scene setup
 

@@ -1,17 +1,10 @@
 ---
-date: 2026-03-31T10:19:25.000Z
-lastmod: 2026-03-31T10:19:25.000Z
+campaign: "PARALLAX"
 title: "PARALLAX, Session 3: The Bag"
-draft: false
-slug: parallax-session-3-the-bag
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
-cover:
-    image: /assets/img/2026/03/bag.jpeg
-    alt: "PARALLAX, Session 3: The Bag"
 description: "Session 3 of the campaign PARALLAX for Delta Green, where Lawrence makes a choice."
 image: /assets/img/2026/03/bag.jpeg
-summary: "Session 3 of the campaign PARALLAX for Delta Green, where Lawrence makes a choice."
 ---
 ## Scene setup
 

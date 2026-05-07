@@ -1,17 +1,10 @@
 ---
-date: 2026-01-25T15:31:09.000Z
-lastmod: 2026-01-26T11:52:31.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 12: Dante's Lair"
-draft: false
-slug: vestigial-memories-session-12-dantes-lair
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/riggs_lair.png
-    alt: "Vestigial Memories, Session 12: Dante's Lair"
 description: "Session 12 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke relies on an unreliable CI to alter Vestige's data."
 image: /assets/img/2026/01/riggs_lair.png
-summary: "Session 12 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke relies on an unreliable CI to alter Vestige's data."
 ---
 ## Scene setup
 

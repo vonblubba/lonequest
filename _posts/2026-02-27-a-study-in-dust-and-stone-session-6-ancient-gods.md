@@ -1,17 +1,10 @@
 ---
-date: 2026-02-27T11:51:37.000Z
-lastmod: 2026-02-27T11:51:37.000Z
+campaign: "A Study in Dust and Stone"
 title: "A Study in Dust and Stone, Session 6: Ancient gods"
-draft: false
-slug: a-study-in-dust-and-stone-session-6-ancient-gods
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
-cover:
-    image: /assets/img/2026/02/tome.jpg
-    alt: "A Study in Dust and Stone, Session 6: Ancient gods"
 description: "Session 6 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where some light is shed upon the situation"
 image: /assets/img/2026/02/tome.jpg
-summary: "Session 6 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where some light is shed upon the situation"
 ---
 ## Scene setup
 

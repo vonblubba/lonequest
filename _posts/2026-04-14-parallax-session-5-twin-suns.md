@@ -1,17 +1,10 @@
 ---
-date: 2026-04-14T09:03:56.000Z
-lastmod: 2026-04-14T09:03:56.000Z
+campaign: "PARALLAX"
 title: "PARALLAX, Session 5: Twin Suns"
-draft: false
-slug: parallax-session-5-twin-suns
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
-cover:
-    image: /assets/img/2026/03/suns.webp
-    alt: "PARALLAX, Session 5: Twin Suns"
 description: "Session 5 of the campaign PARALLAX for Delta Green, where things get moving before Lawrence is contacted again."
 image: /assets/img/2026/03/suns.webp
-summary: "Session 5 of the campaign PARALLAX for Delta Green, where things get moving before Lawrence is contacted again."
 ---
 ## Scene setup
 

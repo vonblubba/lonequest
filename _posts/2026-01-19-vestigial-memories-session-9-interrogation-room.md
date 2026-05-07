@@ -1,17 +1,10 @@
 ---
-date: 2026-01-19T13:38:06.000Z
-lastmod: 2026-02-05T15:27:54.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 8: Interrogation room"
-draft: false
-slug: vestigial-memories-session-9-interrogation-room
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/br_core08_tools_of_the_trade_174-175-2.webp
-    alt: "Vestigial Memories, Session 8: Interrogation room"
 description: "Session 8 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where it's time for Locke to interrogate Zhao again. Does he have enough dirt on her to get the information he needs?"
 image: /assets/img/2026/01/br_core08_tools_of_the_trade_174-175-2.webp
-summary: "Session 8 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where it's time for Locke to interrogate Zhao again. Does he have enough dirt on her to get the information he needs?"
 ---
 ### **Scene setup**
 

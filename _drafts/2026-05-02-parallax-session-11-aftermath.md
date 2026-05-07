@@ -1,17 +1,10 @@
 ---
-date: 2026-05-02T14:39:52.000Z
-lastmod: 2026-05-02T14:18:46.000Z
+campaign: "PARALLAX"
 title: "Parallax Session 11 - Aftermath"
-draft: false
-slug: parallax-session-11-aftermath
 tags: ["Delta Green","PARALLAX"]
 categories: ["Delta Green","PARALLAX"]
-cover:
-    image: /assets/img/2026/04/What-is-a-Motel-1.webp
-    alt: "Parallax Session 11 - Aftermath"
 description: "Session 11 of the scenario 'PARALLAX' for Delta Green, where the teams shares information with a new ally"
 image: /assets/img/2026/04/What-is-a-Motel-1.webp
-summary: "Session 11 of the scenario 'PARALLAX' for Delta Green, where the teams shares information with a new ally"
 ---
 ## Scene setup
 

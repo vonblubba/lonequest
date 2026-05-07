@@ -1,17 +1,10 @@
 ---
-date: 2026-04-20T13:36:02.000Z
-lastmod: 2026-04-20T13:36:02.000Z
+campaign: "PARALLAX"
 title: "PARALLAX, Session 7: The Motel"
-draft: false
-slug: parallax-session-7-the-motel
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
-cover:
-    image: /assets/img/2026/04/What-is-a-Motel-1.webp
-    alt: "PARALLAX, Session 7: The Motel"
 description: "Session 7 of the campaign PARALLAX for Delta Green, where another victim of the tatto is met."
 image: /assets/img/2026/04/What-is-a-Motel-1.webp
-summary: "Session 7 of the campaign PARALLAX for Delta Green, where another victim of the tatto is met."
 ---
 ## Scene setup
 

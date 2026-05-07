@@ -1,17 +1,10 @@
 ---
-date: 2026-02-01T12:51:01.000Z
-lastmod: 2026-02-05T15:31:36.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 15: The Snake Pit"
-draft: false
-slug: vestigial-memories-session-15-the-snake-pit
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/02/br_large_handout_sheets_snake_pit.webp
-    alt: "Vestigial Memories, Session 15: The Snake Pit"
 description: "Session 15 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke's enemies are closing in."
 image: /assets/img/2026/02/br_large_handout_sheets_snake_pit.webp
-summary: "Session 15 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke's enemies are closing in."
 ---
 ## **Scene setup**
 

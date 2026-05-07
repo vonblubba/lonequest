@@ -1,17 +1,10 @@
 ---
-date: 2026-05-02T14:24:10.000Z
-lastmod: 2026-05-02T14:24:10.000Z
+campaign: "PARALLAX"
 title: "PARALLAX, Session 9: A friend in need"
-draft: true
-slug: parallax-session-9-a-friend-in-need
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
-cover:
-    image: /assets/img/2026/04/h.webp
-    alt: "PARALLAX, Session 9: A friend in need"
 description: "Session 9 of the campaign PARALLAX for Delta Green, where a friend faces danger."
 image: /assets/img/2026/04/h.webp
-summary: "Session 9 of the campaign PARALLAX for Delta Green, where a friend faces danger."
 ---
 
 ## Scene setup

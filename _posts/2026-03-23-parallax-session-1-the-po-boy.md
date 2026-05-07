@@ -1,17 +1,10 @@
 ---
-date: 2026-03-23T10:16:37.000Z
-lastmod: 2026-03-23T10:16:37.000Z
+campaign: "PARALLAX"
 title: "PARALLAX, Session 1: The po-boy"
-draft: false
-slug: parallax-session-1-the-po-boy
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
-cover:
-    image: /assets/img/2026/03/office.png
-    alt: "PARALLAX, Session 1: The po-boy"
 description: "Session 1 of the campaign PARALLAX for Delta Green, where Lawrence gets some work to do."
 image: /assets/img/2026/03/office.png
-summary: "Session 1 of the campaign PARALLAX for Delta Green, where Lawrence gets some work to do."
 ---
 ## Scene setup
 

@@ -1,17 +1,10 @@
 ---
-date: 2026-01-27T08:12:57.000Z
-lastmod: 2026-01-27T08:12:57.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 13: UCLA"
-draft: false
-slug: vestigial-memories-session-13-ucla
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/ucla.jpg
-    alt: "Vestigial Memories, Session 13: UCLA"
 description: "Session 13 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke finds a way to alter Vestige's data at the cost of some of his own pride."
 image: /assets/img/2026/01/ucla.jpg
-summary: "Session 13 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke finds a way to alter Vestige's data at the cost of some of his own pride."
 ---
 ## Scene setup
 

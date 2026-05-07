@@ -1,16 +1,9 @@
 ---
-date: 2026-03-15T16:51:52.000Z
-lastmod: 2026-03-17T09:31:41.000Z
+campaign: "PARALLAX"
 title: "PARALLAX, Session 0: Main character creation"
-draft: false
-slug: parallax-session-0-main-character-creation
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
-cover:
-    image: /assets/img/2026/03/delta-green-conspiracy-top.jpg
-    alt: "PARALLAX, Session 0: Main character creation"
 description: "Session 0 for the Delta Green campaign PARALLAX, where we meet the main character, Lawrence Bartolini"
-summary: "Session 0 for the Delta Green campaign PARALLAX, where we meet the main character, Lawrence Bartolini"
 image: /assets/img/2026/03/delta-green-conspiracy-top.jpg
 ---
 This log entry marks the beginning of a new solo campaign for Delta Green by [Arc Dream Publishing](https://arcdream.com).

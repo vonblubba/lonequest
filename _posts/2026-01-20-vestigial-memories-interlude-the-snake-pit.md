@@ -1,17 +1,10 @@
 ---
-date: 2026-01-20T12:04:08.000Z
-lastmod: 2026-01-21T13:54:54.000Z
+campaign: "Vestigial Memories"
 title: "Vestigial Memories, Interlude: The Snake Pit"
-draft: false
-slug: vestigial-memories-interlude-the-snake-pit
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-cover:
-    image: /assets/img/2026/01/br_large_handout_sheets_snake_pit.webp
-    alt: "Vestigial Memories, Interlude: The Snake Pit"
 description: "Interlude for the scenario \"Vestigial Memories\" for the Blade Runner RPG, where while en route to the warehouse district, Locke receives a disturbing message from a CI."
 image: /assets/img/2026/01/br_large_handout_sheets_snake_pit.webp
-summary: "Interlude for the scenario \"Vestigial Memories\" for the Blade Runner RPG, where while en route to the warehouse district, Locke receives a disturbing message from a CI."
 ---
 ## Scene setup
 

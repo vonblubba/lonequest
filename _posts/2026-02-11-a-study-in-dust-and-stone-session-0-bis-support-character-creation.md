@@ -1,17 +1,10 @@
 ---
-date: 2026-02-11T07:50:02.000Z
-lastmod: 2026-02-11T07:54:16.000Z
+campaign: "A Study in Dust and Stone"
 title: "A Study in Dust and Stone, Session 0/bis: Support Character creation"
-draft: false
-slug: a-study-in-dust-and-stone-session-0-bis-support-character-creation
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
-cover:
-    image: /assets/img/2026/02/banner_00-1.png
-    alt: "A Study in Dust and Stone, Session 0/bis: Support Character creation"
 description: "Session 0 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed., where we meet Remy \"Red\" Fontenot, bootlegger form New Orleans."
 image: /assets/img/2026/02/banner_00-1.png
-summary: "Session 0 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed., where we meet Remy \"Red\" Fontenot, bootlegger form New Orleans."
 ---
 Where Lorenzo Bertolini relies on the abstract, **Remy Fontenot** deals in the concrete. A bootlegger, a veteran of the New Orleans underworld, Remy doesn't just smuggle rum; he solves logistics. To him, the world is a series of levers, gears, and pressure points.
 

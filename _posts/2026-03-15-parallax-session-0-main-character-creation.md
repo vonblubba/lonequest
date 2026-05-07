@@ -23,7 +23,7 @@ As always, I'll be using a self-hosted instance of [Foundry VTT](https://foundry
 
 ![](/assets/img/2026/03/lawrence_bartolini_2.png)
 
-For this campaign my main character will be **Lawrence Bartolini**, a direct descendant of Lorenzo Bartolini, the protagonist of my other ongoing Call of Cthulhu campaign [A study in dust and stone](/tags/a-study-in-dust-and-stone/). I feel this could lead to some interesting developments across both campaigns.
+For this campaign my main character will be **Lawrence Bartolini**, a direct descendant of Lorenzo Bartolini, the protagonist of my other ongoing Call of Cthulhu campaign [A study in dust and stone](/categories/a-study-in-dust-and-stone/). I feel this could lead to some interesting developments across both campaigns.
 
 Lawrence is a 49-year-old medical examiner living in New Orleans. 
 He has seen 25 years of gunshot wounds, drownings in the Bayou, and drug overdoses. He thinks he’s seen the worst of humanity. He’s meticulous, perhaps a bit "fussy" about his workspace, and relies on the **Scientific Method** as his shield against the grim nature of his job.

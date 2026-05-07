@@ -4,7 +4,7 @@ lastmod: 2026-02-11T07:53:45.000Z
 title: "A Study in Dust and Stone, Session 0:  Main Character creation"
 draft: false
 slug: a-study-in-dust-and-stone-session-0-main-character-creation
-tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/banner_00.png

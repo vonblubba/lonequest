@@ -4,7 +4,7 @@ lastmod: 2026-04-27T11:32:35.000Z
 title: "PARALLAX, Session 8: Hastur's shadow"
 draft: true
 slug: parallax-session-8-hasturs-shadow
-tags: ["Delta Green","PARALLAX"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/04/Police-Building-Edit-3TAC_1611-1-scaled.jpg

@@ -4,7 +4,7 @@ lastmod: 2026-01-21T14:18:46.000Z
 title: "Vestigial Memories, Session 0:  Character creation"
 draft: false
 slug: vestigial-memories-session-0
-tags: ["Blade Runner RPG", "Vestigial Memories"]
+tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.png

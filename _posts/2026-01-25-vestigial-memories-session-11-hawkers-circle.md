@@ -4,7 +4,7 @@ lastmod: 2026-02-05T15:21:22.000Z
 title: "Vestigial Memories, Session 11: Hawker's Circle"
 draft: false
 slug: vestigial-memories-session-11-hawkers-circle
-tags: ["Blade Runner RPG", "Vestigial Memories"]
+tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.webp

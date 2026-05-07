@@ -4,7 +4,7 @@ lastmod: 2026-03-23T10:16:37.000Z
 title: "PARALLAX, Session 1: The po-boy"
 draft: false
 slug: parallax-session-1-the-po-boy
-tags: ["Delta Green","PARALLAX"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/office.png

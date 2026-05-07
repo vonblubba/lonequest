@@ -4,7 +4,7 @@ lastmod: 2026-05-02T14:24:10.000Z
 title: "PARALLAX, Session 9: A friend in need"
 draft: true
 slug: parallax-session-9-a-friend-in-need
-tags: ["Delta Green","PARALLAX"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/04/h.webp

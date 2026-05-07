@@ -4,7 +4,7 @@ lastmod: 2026-01-25T15:34:05.000Z
 title: "Vestigial Memories, Session 1: Case briefing"
 draft: false
 slug: vestigial-meories-session-1-case-briefieng
-tags: ["Blade Runner RPG", "Vestigial Memories"]
+tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core07_working_the_case_158-159-1.webp

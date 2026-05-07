@@ -4,7 +4,7 @@ lastmod: 2026-03-26T10:42:29.000Z
 title: "PARALLAX, Session 2: Pariah"
 draft: false
 slug: parallax-session-2-pariah
-tags: ["Delta Green","PARALLAX"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/auttopsy.jpeg

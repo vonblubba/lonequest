@@ -105,11 +105,11 @@ Silence falls over the room. We’re standing in the middle of a reality-warping
 
 ## Scene bookkeeping
 
-#### Chaos Factor 
+### Chaos Factor 
 
 7 (-1)
 
-#### Character list 
+### Character list 
 
 Unchanged
 
@@ -120,4 +120,3 @@ Unchanged
 ### Notes
 
 This feels like a narrative dead end, so I will make the next scene an automatic interrupt scene to shake things up.
-```

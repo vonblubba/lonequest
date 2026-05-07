@@ -4,7 +4,8 @@ lastmod: 2026-02-05T15:19:11.000Z
 title: "Vestigial Memories, Session 6: LAPD Mainframe II"
 draft: false
 slug: vestigial-memories-session-6-lapd-mainframe-ii
-
+tags: ["SciFi", "Cyberpunk"]
+categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core08_tools_of_the_trade_188-189-3.webp
     alt: "Vestigial Memories, Session 6: LAPD Mainframe II"

@@ -4,7 +4,7 @@ lastmod: 2026-03-12T15:06:44.000Z
 title: "A Study in Dust and Stone, Session 7: Jazz night"
 draft: false
 slug: a-study-in-dust-and-stone-session-7-jazz-night
-tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/03/jazz.jpg

@@ -4,7 +4,7 @@ lastmod: 2026-02-05T15:16:52.000Z
 title: "Vestigial Memories, Session 16: LAPD"
 draft: false
 slug: vestigial-memories-session-16-lapd
-tags: ["Blade Runner RPG", "Vestigial Memories"]
+tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/02/br_core07_working_the_case_158-159-1-1.webp

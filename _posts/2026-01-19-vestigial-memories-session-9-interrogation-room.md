@@ -4,7 +4,7 @@ lastmod: 2026-02-05T15:27:54.000Z
 title: "Vestigial Memories, Session 8: Interrogation room"
 draft: false
 slug: vestigial-memories-session-9-interrogation-room
-tags: ["Blade Runner RPG", "Vestigial Memories"]
+tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core08_tools_of_the_trade_174-175-2.webp

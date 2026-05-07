@@ -1,10 +1,8 @@
 ---
-date: 2026-05-07T13:54:49.000Z
-lastmod: 2026-05-07T13:54:49.000Z
 title: "PARALLAX, Session 10: Hypergeometry"
 draft: false
 slug: parallax-session-10-hypergeometry
-tags: ["Delta Green","PARALLAX"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/04/WC-CoolRoof.jpg
@@ -15,11 +13,17 @@ summary: "Session 10 of the campaign PARALLAX for Delta Green, where the team fa
 ---
 ## Scene setup
 
-> **Expectations:** Lawrence goes visit Jo. The rest of the team might spot Robertson outside the hospital
+### Scene Expectations 
 
-> **Expected scene test :** Scene Proceeds Normally!
+Lawrence goes visit Jo. The rest of the team might spot Robertson outside the hospital
+
+### Expected scene test 
+
+Scene Proceeds Normally!
 
 ---
+
+## Playing the scene
 
 We head for Charity Hospital. Pariah and Phalanx take up positions outside with a clear view of the entrance and the parking lot. I head in alone.
 
@@ -185,6 +189,14 @@ He nods, shaking the water from his hair. We don't look back as we run for the s
 
 ## Scene bookkeeping
 
-Chaos factor +1 => 8
+### Chaos Factor 
 
-One new entry for Hastur & Associates in both NPC and thread lists
+8 (+1)
+
+### Thread list 
+
+One new entry for Hastur & Associates 
+
+### Character list
+
+One new entry for Hastur & Associates 

@@ -4,7 +4,7 @@ lastmod: 2026-02-05T15:20:09.000Z
 title: "Vestigial Memories, Session 7: Down Time"
 draft: false
 slug: vestigial-memories-session-7-down-time
-tags: ["Blade Runner RPG", "Vestigial Memories"]
+tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_108-109.webp

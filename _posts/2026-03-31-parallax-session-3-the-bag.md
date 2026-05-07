@@ -4,7 +4,7 @@ lastmod: 2026-03-31T10:19:25.000Z
 title: "PARALLAX, Session 3: The Bag"
 draft: false
 slug: parallax-session-3-the-bag
-tags: ["Delta Green","PARALLAX"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/bag.jpeg

@@ -4,7 +4,7 @@ lastmod: 2026-04-07T14:50:35.000Z
 title: "PARALLAX, Session 4: Contact"
 draft: false
 slug: parallax-session-4-contact
-tags: ["Delta Green","PARALLAX"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/confroom.jpg

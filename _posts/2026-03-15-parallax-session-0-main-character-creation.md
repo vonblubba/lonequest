@@ -4,7 +4,7 @@ lastmod: 2026-03-17T09:31:41.000Z
 title: "PARALLAX, Session 0: Main character creation"
 draft: false
 slug: parallax-session-0-main-character-creation
-tags: ["Delta Green","PARALLAX"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/delta-green-conspiracy-top.jpg

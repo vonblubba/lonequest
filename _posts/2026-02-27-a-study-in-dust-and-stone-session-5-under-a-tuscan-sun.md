@@ -4,7 +4,7 @@ lastmod: 2026-02-27T11:51:28.000Z
 title: "A Study in Dust and Stone, Session 5: Under a Tuscan sun"
 draft: false
 slug: a-study-in-dust-and-stone-session-5-under-a-tuscan-sun
-tags: ["Call of Cthulhu","A Study in Dust and Stone"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 cover:
     image: /assets/img/2026/02/maxresdefault.jpg

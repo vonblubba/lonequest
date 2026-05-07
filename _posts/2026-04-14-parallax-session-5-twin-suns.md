@@ -4,7 +4,7 @@ lastmod: 2026-04-14T09:03:56.000Z
 title: "PARALLAX, Session 5: Twin Suns"
 draft: false
 slug: parallax-session-5-twin-suns
-tags: ["Delta Green","PARALLAX"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 cover:
     image: /assets/img/2026/03/suns.webp

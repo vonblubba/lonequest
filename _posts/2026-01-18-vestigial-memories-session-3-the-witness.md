@@ -4,7 +4,7 @@ lastmod: 2026-01-21T13:48:25.000Z
 title: "Vestigial Memories, Session 3: The Witness"
 draft: false
 slug: vestigial-memories-session-3-the-witness
-tags: ["Blade Runner RPG", "Vestigial Memories"]
+tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/01/br_large_handout_sheets_apartment.webp

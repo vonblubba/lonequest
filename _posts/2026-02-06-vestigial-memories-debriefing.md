@@ -4,7 +4,7 @@ lastmod: 2026-02-06T07:31:46.000Z
 title: Vestigial Memories, Debriefing
 draft: false
 slug: vestigial-memories-debriefing
-tags: ["Blade Runner RPG", "Vestigial Memories"]
+tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
 cover:
     image: /assets/img/2026/02/br_core07_working_the_case_158-159-1-1-1.webp

@@ -1,8 +1,8 @@
 ---
-date: 2026-04-16T13:54:49.000Z
-lastmod: 2026-04-16T13:54:49.000Z
+date: 2026-05-07T13:54:49.000Z
+lastmod: 2026-05-07T13:54:49.000Z
 title: "PARALLAX, Session 10: Hypergeometry"
-draft: true
+draft: false
 slug: parallax-session-10-hypergeometry
 tags: ["Delta Green","PARALLAX"]
 categories: ["Delta Green","PARALLAX"]

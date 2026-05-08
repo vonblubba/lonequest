@@ -1,5 +1,4 @@
 ---
-campaign: "Vestigial Memories"
 title: "Vestigial Memories, Interlude: Locke's Apartment"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]

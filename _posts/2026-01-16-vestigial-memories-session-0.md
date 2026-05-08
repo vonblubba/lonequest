@@ -1,5 +1,4 @@
 ---
-campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 0:  Character creation"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]

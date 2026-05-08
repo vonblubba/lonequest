@@ -1,5 +1,4 @@
 ---
-campaign: "PARALLAX"
 title: "PARALLAX, Session 5: Twin Suns"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]

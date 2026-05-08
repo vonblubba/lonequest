@@ -1,5 +1,4 @@
 ---
-campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 9: Runciter's Zoological"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]

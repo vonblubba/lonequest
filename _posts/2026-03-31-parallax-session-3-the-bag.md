@@ -1,5 +1,4 @@
 ---
-campaign: "PARALLAX"
 title: "PARALLAX, Session 3: The Bag"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]

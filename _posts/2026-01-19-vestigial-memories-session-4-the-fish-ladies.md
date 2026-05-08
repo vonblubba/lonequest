@@ -1,5 +1,4 @@
 ---
-campaign: "Vestigial Memories"
 title: "Vestigial Memories, Session 4: The Fish Ladies"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]

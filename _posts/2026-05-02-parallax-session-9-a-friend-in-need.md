@@ -1,5 +1,4 @@
 ---
-campaign: "PARALLAX"
 title: "PARALLAX, Session 9: A friend in need"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]

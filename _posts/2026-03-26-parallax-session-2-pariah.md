@@ -1,5 +1,4 @@
 ---
-campaign: "PARALLAX"
 title: "PARALLAX, Session 2: Pariah"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]

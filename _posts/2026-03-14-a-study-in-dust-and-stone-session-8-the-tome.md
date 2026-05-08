@@ -1,5 +1,4 @@
 ---
-campaign: "A Study in Dust and Stone"
 title: "A Study in Dust and Stone, Session 9: The tome"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]

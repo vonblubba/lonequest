@@ -1,7 +1,6 @@
 ---
-campaign: "PARALLAX"
 title: "Parallax Session 11 - Aftermath"
-tags: ["Delta Green","PARALLAX"]
+tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 description: "Session 11 of the scenario 'PARALLAX' for Delta Green, where the teams shares information with a new ally"
 image: /assets/img/2026/04/What-is-a-Motel-1.webp

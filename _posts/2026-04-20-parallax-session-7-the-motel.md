@@ -1,5 +1,4 @@
 ---
-campaign: "PARALLAX"
 title: "PARALLAX, Session 7: The Motel"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]

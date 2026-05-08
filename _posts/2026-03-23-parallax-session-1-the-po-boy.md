@@ -1,5 +1,4 @@
 ---
-campaign: "PARALLAX"
 title: "PARALLAX, Session 1: The po-boy"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]

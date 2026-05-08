@@ -1,5 +1,4 @@
 ---
-campaign: "PARALLAX"
 title: "PARALLAX, Session 8: Hastur's shadow"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]

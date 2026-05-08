@@ -1,5 +1,4 @@
 ---
-campaign: "PARALLAX"
 title: "PARALLAX, Session 0: Main character creation"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]

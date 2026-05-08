@@ -123,7 +123,7 @@ I am unconvinced. The risk for Jo is still high, but I don't see any alternative
 She takes out her laptop and looks up the address. 
 
 > **FQ:** what place is it?  
-> **A:** Ruined + Block. 
+> **A:** Ruined + Block   
 > **My interpretation:** an abandoned building in a scarcely populated block
 
 It’s a building in ruins in a scarcely populated block.
@@ -154,8 +154,8 @@ We look at each other, then drop our weapons. The man looks pleased.
 
 I reveal the fake book we borrowed from a library. It's a fantasy novel with strange runes on the cover. The best we could find.
 
-> **HUMINT opposed roll**, Lawrence (10) vs Hastur's man (60). 
-> **Lawrence:** [D100]: [8] <10 => success. 
+> **HUMINT opposed roll**, Lawrence (10) vs Hastur's man (60)  
+> **Lawrence:** [D100]: [8] <10 => success  
 > **Hastur's man:** [D100]: [66] => critical failure => he believes that is the book, and mistakes the symbol on the cover for a yellow sign. He thinks we are already compromised.
 
 The man believes it. He even mistakes the symbols on the cover for the Yellow Sign. He thinks we are already compromised.
@@ -164,57 +164,57 @@ The man believes it. He even mistakes the symbols on the cover for the Yellow Si
 
 He smiles cruelly and pronounces words in a strange, guttural language. He expects a reaction, but nothing happens. Shock flashes across his face. Pariah acts immediately, taking advantage of his distraction.
 
-> **NPC: Hastur Cult Celebrant** 
-> **Stat | Value | Rating (Stat × 5)**. 
-> STR 09 45%. 
-> CON 10 50%. 
-> DEX 11 55%. 
-> INT 16 80%. 
-> POW 17 85%. 
-> CHA 15 75%. 
-> HP: 10. 
+> **NPC: Hastur Cult Celebrant**  
+> **Stat | Value | Rating (Stat × 5)**  
+> STR 09 45%  
+> CON 10 50%  
+> DEX 11 55%  
+> INT 16 80%  
+> POW 17 85%  
+> CHA 15 75%  
+> HP: 10  
 > WP: 17   
-> SAN: 0 | Breaking Point: N/A. 
-> **Key Skills**
-> Unnatural: 25%.  
+> SAN: 0 | Breaking Point: N/A  
+> **Key Skills**  
+> Unnatural: 25%   
 > HUMINT: 60%   
 > Persuade: 70%   
 > Occult: 50%   
-> Alertness: 50%. 
-> Athletics: 30%. 
-> **Hypergeometrical Rituals**
-> *Breath of the Deep (Cost: 3 WP):* Fills the target's lungs with seawater. (Opposed POW vs. POW).  
+> Alertness: 50%  
+> Athletics: 30%  
+> **Hypergeometrical Rituals**  
+> *Breath of the Deep (Cost: 3 WP):* Fills the target's lungs with seawater. (Opposed POW vs. POW)   
 > *The Yellow Sign* (Cost: 1 to 6 WP): If the cultist has a physical copy of the Sign (a ring, a drawing, a brand), they can "activate" it. Anyone who looks at it must make a SAN roll (1/1D6). On a failure, they are "marked," and the cultist can track their location or cause them to see hallucinations of the "Pallid Mask."  
-> *The Voorish Sign* (Cost: 1 WP): A hand gesture that allows the caster to see invisible entities or the "true" form of something hidden by hypergeometry.
-> **Combat & Gear**
-> Unarmed: 40%, 1D4-1 damage.
+> *The Voorish Sign* (Cost: 1 WP): A hand gesture that allows the caster to see invisible entities or the "true" form of something hidden by hypergeometry.  
+> **Combat & Gear**  
+> Unarmed: 40%, 1D4-1 damage  
 > Small Caliber Pistol: 30%, 1D8 damage 
 
 ### Combat begins
 
-> **Pariah's turn**
-> Pariah performs a surprise attack => automatic hit
-> Damage: (1D4) + (+1 DMG bonus for STR+CON): (1+1) => 2 damage
+> **Pariah's turn**  
+> Pariah performs a surprise attack => automatic hit  
+> Damage: (1D4) + (+1 DMG bonus for STR+CON): (1+1) => 2 damage  
 
-> **Lawrence's turn**
-> Lawrence tries to hit the man with the book. 
-> Unarmed Combat roll. 
-> (D100): (83) > 40 => miss. 
+> **Lawrence's turn**  
+> Lawrence tries to hit the man with the book  
+> Unarmed Combat roll  
+> (D100): (83) > 40 => miss  
 
-> **Hastur Cult Celebrant's turn**
-> Uses The Yellow Sign. 
-> target: (D6): (1-2)= Lawrence, (3-4)=Pariah, (5-6)=Phalanx. 
-> (D6): (2) => Lawrence. 
-> Lawrence (1/1D6) sanity check. 
-> (D100): (96) > 68 => failure. 
+> **Hastur Cult Celebrant's turn**  
+> Uses The Yellow Sign  
+> target: (D6): (1-2)= Lawrence, (3-4)=Pariah, (5-6)=Phalanx  
+> (D6): (2) => Lawrence  
+> Lawrence (1/1D6) sanity check  
+> (D100): (96) > 68 => failure  
 > (D6): (4) sanity lost and starts hallucinating
 
-> **Phalanx turn**
-> He reaches for the gun on the floor and shoots the cultist. 
-> Firearms roll (-20% because weapon was not in his hands). 
-> (D100 + 20): (28 + 20) < (80) success. 
+> **Phalanx turn**  
+> He reaches for the gun on the floor and shoots the cultist  
+> Firearms roll (-20% because weapon was not in his hands)  
+> (D100 + 20): (28 + 20) < (80) success  
 > Damage roll   
-> (1D10): (7). 
+> (1D10): (7)  
 > Enemy took 9 damages and has 1 HP left. He's ou of combat. Pariah finishes him off with a blow to the head
 
 Pariah performs a surprise attack. She catches him with a right uppercut, but it only deals minor damage. I attempt to strike his head with the book, but I'm out of my element and miss entirely.
@@ -225,7 +225,7 @@ Phalanx dives for his gun on the floor. Despite the rush, he fires and hits the 
 
 > **FQ:** Are both Hastur's men here?  
 > **A:** Unexpected Random Event  
-> **PC negative:** Neglect + Needs.   
+> **PC negative:** Neglect + Needs    
 > **My interpretation:** I neglected Jo's need for protection. One of the men is actually watching her.
 
 We look around, expecting a second attacker, but nothing happens. I'm still on the ground in a fetal position, trembling. Pariah checks my vitals with professional care. My heart is racing, pupils dilated.

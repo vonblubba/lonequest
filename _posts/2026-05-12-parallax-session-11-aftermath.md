@@ -40,17 +40,17 @@ We exchange a glance but offer no confirmation. The silence is answer enough.
 
 **Pariah:** "Shit. If that was a shell, we’ve got nothing."
 
-> **FQ:** Does Robertson know anything useful?
-> **A:** yes!
-> **Character background check:** helped + cheat
+> **FQ:** Does Robertson know anything useful?  
+> **A:** yes!  
+> **Character background check:** helped + cheat  
 > **My intepretation:** Hastur helped Kaminski with her gambling habit, cheating with some kind of unnatural trick
 
 **Phalanx:** "Tell us everything else, Robertson. There has to be a lead. How did they find her in the first place?"
 
 **Robertson:** "I never met them; they always communicated through Kaminski. But she told me how it started. It was a high-stakes poker night, and she was drowning in debt. She went to the bar for a drink, and a young man approached her. He offered to turn her luck around in exchange for her 'specialized services' later on."
 
-> **FQ:** how did they help her?
-> **A:** Trap + Cloud
+> **FQ:** how did they help her?  
+> **A:** Trap + Cloud  
 > **My interpretation:** they gave her a cloud shaped stone amulet that let her know when an opponent was bluffing (trap)
 
 **Lawrence:** "And she took the deal?"

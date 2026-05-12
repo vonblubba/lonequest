@@ -1,5 +1,5 @@
 ---
-title: "Parallax, Session 13: The Pallid Mask"
+title: "PARALLAX, Session 13: The Pallid Mask"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green", "PARALLAX"]
 description: "Session 13 of the scenario 'PARALLAX' for Delta Green, where the team has to make a difficult choice"

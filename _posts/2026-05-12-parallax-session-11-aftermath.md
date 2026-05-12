@@ -1,5 +1,5 @@
 ---
-title: "Parallax Session 11 - Aftermath"
+title: "PARALLAX, Session 11 - Aftermath"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green","PARALLAX"]
 description: "Session 11 of the scenario 'PARALLAX' for Delta Green, where the teams shares information with a new ally"

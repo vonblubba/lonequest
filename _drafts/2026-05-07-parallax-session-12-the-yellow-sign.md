@@ -1,6 +1,6 @@
 ---
 
-title: "Parallax, Session 12: The Yellow Sign"
+title: "PARALLAX, Session 12: The Yellow Sign"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green", "PARALLAX"]
 description: "Session 12 of the scenario Parallax for Delta Green, where the team hits a dead end"

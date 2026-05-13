@@ -15,9 +15,9 @@ The team shares information with Robertson. Hopefully something useful about Has
 
 Scene was interrupted!
 
-**Interruption Event:** Move away from a thread
-**Thread list roll:** Hastur & Associates
-Relinquish + Weapon
+**Interruption Event:** Move away from a thread  
+**Thread list roll:** Hastur & Associates  
+Relinquish + Weapon  
 **My interpretation:** Robertson reveals that the Manhattan trail on Hastur is a dead end. Also, Hastur knows about Delta Green involvement, so our best weapon, the element of surprise, is gone.
 
 ---

@@ -18,9 +18,9 @@ The team wakes up in the morning, hopefully with some kind of useful information
 
 Scene was altered!
 
-> **FQ:** do we get info on the artifact?
-**A:** No
-**FQ:** do we get info on Hastur?
+> **FQ:** do we get info on the artifact?  
+**A:** No  
+**FQ:** do we get info on Hastur?  
 **A:** Yes
 
 ---
@@ -35,21 +35,21 @@ The torment ends at 5:45 a.m. when Pariah kicks the door open.
 
 Phalanx is on his feet before she even finishes the sentence—soldier’s instinct. I sit up, rubbing my eyes, feeling every bit of the exhaustion.
 
-> **FQ:** What's the info?
-**A:** Religion + Prestige
+> **FQ:** What's the info?  
+**A:** Religion + Prestige  
 **My interpretation:** some kind of secret cult with acolytes in the high society
 
 **Pariah:** "Nothing on the cloud amulet yet. But they have a file on Hastur & Associates. It isn't a business; it’s a front for a high-society cult. We’re talking 'Prestige'—old money, political influence, the kind of people who feel untouchable because, in our tax bracket, they usually are."
 
 **Phalanx:** "'Hastur and Associates.' Not exactly subtle."
 
->**FQ:** Cult motivations
-**A:** Hide + Death
+>**FQ:** Cult motivations  
+**A:** Hide + Death  
 **My interpretation:** they seek a way to escape death
 
 **Pariah:** "When you own the judges and the police, you don’t have to be. Their motivation is the oldest story in the book: Immortality. These are powerful, aging people who aren't ready to let go of their empires. They believe this 'King' can grant them a way to bypass death. How? We don’t know. But we know the vector."
 
->**FQ:** "Do delta green provide info on the book?"
+>**FQ:** "Do delta green provide info on the book?"  
 **A:** yes
 
 She taps a tablet screen, showing a redacted file title: THE KING IN YELLOW.
@@ -86,7 +86,7 @@ Pariah doesn't look at me.
 
 **Phalanx:** "So the priority stays the same. Find the book, destroy it, and 'cleanse' anyone who’s touched it."
 
->**FQ:** any info on hastur wereabouts?
+>**FQ:** any info on hastur wereabouts?  
 **A:** exceptional no
 
 **Pariah:** "Right. But we have a problem. The Program has no lead on Hastur’s current location. They tried to trace their digital footprint, but they were discovered. That’s how Hastur knew we were onto them. They’ve gone dark."

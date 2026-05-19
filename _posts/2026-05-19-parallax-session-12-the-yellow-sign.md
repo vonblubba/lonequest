@@ -4,7 +4,7 @@ title: "PARALLAX, Session 12: The Yellow Sign"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green", "PARALLAX"]
 description: "Session 12 of the scenario Parallax for Delta Green, where the team hits a dead end"
-image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.png
+image: /assets/img/2026/05/yellow_sign.jpg
 
 ---
 

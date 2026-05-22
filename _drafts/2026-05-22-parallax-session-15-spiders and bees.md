@@ -56,7 +56,7 @@ Pariah nods. We head out to the car first. After making certain nobody is around
 > **FQ:** do we find anything?  
 > **A:** yes!  
 > Helpful + Warm  
-> Mechanical + Clean. 
+> Mechanical + Clean  
 > **My interpretation:** another metallic object, a mechanical toy in the shape of an insect, a bee maybe (helpful). warm to the touch. uncannily clean.
 
 We find no ID and no wallet, but we do discover another strange object: a mechanical, spring-powered toy in the shape of an insect—a bee, perhaps. Strangely, it is uncannily clean and warm to the touch. We take it and return to the room, placing both mechanical devices on the small table near the entrance.

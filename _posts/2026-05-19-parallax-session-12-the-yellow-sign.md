@@ -97,11 +97,11 @@ Silence falls over the room. We’re standing in the middle of a reality-warping
 
 ## Scene bookkeeping
 
-#### Chaos Factor 
+### Chaos Factor 
 
 7 (-1)
 
-#### Character list 
+### Character list 
 
 Unchanged
 

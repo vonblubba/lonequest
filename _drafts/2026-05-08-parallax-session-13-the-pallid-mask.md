@@ -17,9 +17,9 @@ This feels like a narrative dead end. This is what Mythic GME suggests in this s
 
 ## Expected scene test 
 
-> **Automatic interrupt scene:** Move Toward A Thread. 
-> **Threads list roll:** Hastur & Associates. 
-> **Character action roll:** Threatening + Deceive. 
+> **Automatic interrupt scene:** Move Toward A Thread  
+> **Threads list roll:** Hastur & Associates  
+> **Character action roll:** Threatening + Deceive  
 > **FQ:** are they still searching for the book?  
 > **A:** yes!  
 > **My interpretation:** we are contacted by Hastur men. They threaten to kill Jo unless we agree to a meet, but it's clearly a deception. A trap. They do not have the book and think WE do.
@@ -138,8 +138,6 @@ We all nod and move out.
 
 ------
 
-### **The Meeting**
-
 At 11:56, we walk onto Washington Ave. We stop at the entrance of 1403, trying not to look at where Robertson is hidden. We don't have to wait long. A man emerges from the building in a dark trenchcoat. One of the casters.
 
 **Man:** "Weapons on the floor, gentlemen. All of them."
@@ -256,11 +254,11 @@ While Phalanx gets the car, I reach for my phone frantically. I try Jo's number:
 
 ## Scene bookkeeping
 
-#### Chaos Factor 
+### Chaos Factor 
 
 Chaos factor: 8 (+1)
 
-#### Character list 
+### Character list 
 
 One more entry for Jolene LaRoux
 

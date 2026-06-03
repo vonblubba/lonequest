@@ -155,11 +155,11 @@ I lied to her again. It’s getting easier, and I hate it.
 
 ## Scene bookkeeping
 
-#### Chaos Factor 
+### Chaos Factor 
 
 8 (unchanged)
 
-#### Character list 
+### Character list 
 
 Unchanged
 

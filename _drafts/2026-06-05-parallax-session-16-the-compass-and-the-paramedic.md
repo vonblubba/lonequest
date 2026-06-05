@@ -58,7 +58,7 @@ The head of paramedics is Marcus LeBlanc, a man in his mid-fifties. He has close
 
 > **FQ:** did she behave strangely lately?  
 > **A:** yes!  
-> Punish + Environment. 
+> Punish + Environment  
 > **My interpretation:** she's been treating all her colleagues like Baptiste's death is their fault.
 
 **Pariah:** "How so?"

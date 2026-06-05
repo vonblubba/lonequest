@@ -14,7 +14,6 @@ The teams tracks the sniper using the spider thing. Hopefully we get some leads 
 ### Expected scene test 
 
 Scene Proceeds Normally
-
 ---
 
 ## Playing the scene
@@ -27,6 +26,7 @@ Scene Proceeds Normally
 
 We place the mechanical spider inside a large cardboard box. The precise direction it skitters works like a compass, making tracking the sniper an easy task.
 
+
 We don't have very far to go. The spider leads us to a motel on the outskirts of the city. It’s nothing fancy, but decent accommodation by the looks of it.
 
 **Placebo:** "Okay, what do we do now?"
@@ -35,9 +35,11 @@ We don't have very far to go. The spider leads us to a motel on the outskirts of
 
 **Phalanx:** "We can track him again anytime we need to. I say we follow the Jackie LaRoux lead instead. Let's try to find out if she has the book."
 
+**Pariah:** "Agreed. I will ask Robertson to surveil this hotel, and inform us of any movement, just in case."
+
 We all agree it’s the best course of action.
 
-**Pariah:** "Let's start with her workplace. We'll talk to her colleagues and see if she's been behaving strangely lately."
+**Pariah:** "Let's start with LaRoux's workplace. We'll talk to her colleagues and see if she's been behaving strangely lately."
 
 Her file states that LaRoux works at University Medical Center New Orleans, the primary academic medical center for the region. The trip there is uneventful. We head straight for the Emergency Room, where Pariah flashes her fake FBI badge and asks to speak with the head of paramedics.
 

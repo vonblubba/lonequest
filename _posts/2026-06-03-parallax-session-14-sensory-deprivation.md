@@ -70,7 +70,7 @@ Suddenly, the world vanishes.
 I am plunged into complete darkness. I cannot see, hear, or smell anything. I wave my arms frantically but touch only empty air; I am swimming in a sea of nothingness. I scream, but I cannot hear my own voice. Panic sets in.
 
 > **Lawrence (1/D4) sanity check**  
-> (D100): (27) < (64) => 1 sanity loss
+> (D100): (27) < (64) => 1 sanity loss (unnatural)
 
 I force myself to take deep breaths and slowly regain control, though I remain helpless. Moments pass like an eternity. Then, as suddenly as it began, the darkness is gone. I am back in Jo’s room, breathing heavily. Judging by their faces, Jo and Pariah just shared the same experience. I run to Jo and take her hand.
 

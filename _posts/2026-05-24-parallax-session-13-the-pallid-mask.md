@@ -205,7 +205,7 @@ He smiles cruelly and pronounces words in a strange, guttural language. He expec
 > (D6): (2) => Lawrence  
 > Lawrence (1/1D6) sanity check  
 > (D100): (96) > 68 => failure  
-> (D6): (4) sanity lost and starts hallucinating
+> (D6): (4) sanity lost (unnatural) and starts hallucinating
 
 > **Phalanx turn**  
 > He reaches for the gun on the floor and shoots the cultist  

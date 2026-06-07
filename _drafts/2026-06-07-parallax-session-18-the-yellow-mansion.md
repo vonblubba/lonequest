@@ -2,7 +2,7 @@
 title: "PARALLAX, Session 18: The Yellow Mansion"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green", "PARALLAX"]
-description: "Session 18 of the scenario 'PARALLAX' for Delta Green, where the surviving members of the team, shaken to the core, still try to continue the mission"
+description: "Session 18 of the scenario 'PARALLAX' for Delta Green, where the surviving team members, shaken to the core, still try to continue the mission"
 image: /assets/img/2026/06/lake.jpg
 ---
 ## Scene setup

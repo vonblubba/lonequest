@@ -161,7 +161,7 @@ Robertson stands up slowly. "I saw how it started. Kaminski was the first. That 
 > Tie, but cultist wins because he rolled higher  
 > [1D6] damage: [2] HP  
 > CON check: [D100]: [48] < 50 => spell ceases  
-> SAN check [2/4]: [D100]: [52] => success => 2 sanity loss
+> SAN check [2/4]: [D100]: [52] => success => 2 sanity loss (unnatural)
 
 "Who are these Hastur people?" I ask, but before he can answer, the air in my lungs turns to ice.
 

@@ -107,7 +107,7 @@ The noise immediately attracts something. From the darkest corner of the living 
 
 The shadow vanishes from the room, only to materialize instantly right behind us out of thin air. In the dim light, we finally see its gargantuan, blasphemous form—a hulking monstrosity that looks like a horrific cross between a giant ape and a massive insect. Its loose, rugose hide hangs in folds over its frame, and its dead-eyed, featureless head sways drunkenly from side to side. Its long forepaws extend toward us, talons spread wide, its entire body taut with a cold, murderous malice.
 
-![Dimensional Shambler](/assets/img/2026/06/shambler.jpg)
+![Dimensional Shambler](/assets/img/2026/06/shambler.webp)
 
 > **Sanity check 1/1D6**  
 > (D100): (37) => success => 1 sanity loss (unnatural)

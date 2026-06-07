@@ -27,7 +27,7 @@ We move to the next room…
 > **FQ:** is it a carcosa place?  
 > **A:** Yes!
 
-...nd find ourselves standing in a medieval banquet hall. A huge, roaring fireplace lights it from the far left, and a massive, rectangular carved wooden table sits at the center, capable of seating dozens. Smaller braziers line the walls, providing heat and a faint, flickering light.
+...and find ourselves standing in a medieval banquet hall. A huge, roaring fireplace lights it from the far left, and a massive, rectangular carved wooden table sits at the center, capable of seating dozens. Smaller braziers line the walls, providing heat and a faint, flickering light.
 
 The walls are covered by heavy tapestries depicting an unknown religious iconography. One in particular catches our eyes: it portrays a masquerade ball. All the participants have apparently just removed their masks and are staring in horror at the only guest who didn’t—a tall man in tattered yellow rags, wearing a plain white papier-mâché mask.
 

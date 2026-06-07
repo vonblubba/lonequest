@@ -3,7 +3,7 @@ title: "PARALLAX, Session 17: The Meaninglessness of Life"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Delta Green", "PARALLAX"]
 description: "Session 17 of the scenario 'PARALLAX' for Delta Green, where the team must face a danger far bigger than they can handle"
-image: /assets/img/2026/06/shambler.jpg
+image: /assets/img/2026/06/carcosa.webp
 ---
 ## Scene setup
 

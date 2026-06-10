@@ -23,8 +23,6 @@ NPC list roll: Hastur & Associates
 
 ## Playing the scene
 
-### **Waking Up**
-
 I wake up staring at an unfamiliar ceiling. I look around and recognize the walls of an anonymous motel room. Pariah and Robertson are talking quietly in the corner, their expressions grim. Pariah hears me groan and turns her head toward me.
 
 **Pariah:** "And he's back among the living."

@@ -72,7 +72,12 @@ We finally take our leave. Pariah promises she will recommend Robertson to the h
 ### Skill improvements 
 
 Lawrence improved the following skills by 1D4%:
-Firearms: +4%, Medicine: +1%, Persuade: +1%, Unarmed Combat: +3%
+- Firearms: +4% 
+- Medicine: +1% 
+- Persuade: +1% 
+- Unarmed Combat: +3%
+
+Lawrence has a new permanent psychological disorder: obsession (Phalanx). He is now deeply obsessed with the fate of Phalanx, the mechanics of his disappearance, and the crushing guilt of the friendly fire incident.
 
 Lawrence has a new breaking point: 38
 

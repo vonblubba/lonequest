@@ -42,7 +42,7 @@ The world spins. Nausea rolls over me in waves, and I grab the sink until my knu
 
 I exit the bathroom to find Dante waiting. He looks at me, eyes wide.
 
-**Dante:** "Nate, you look like hell. What happened?" 
+**Dante:** "Nate, you look like hell. What happened?"  
 **Locke:** "Follow me. It's not safe here."
 
 We slip out to the Spinner. I don't talk until we’re airborne, circling the neon spires of the district.
@@ -51,8 +51,8 @@ We slip out to the Spinner. I don't talk until we’re airborne, circling the ne
 > (D10 + D10): (6 + 4) => 1 success  
 > Dante successfully altered the data
 
-**Dante:** "Job's done. I masked the hash. The 'Stop Codon' is buried so deep their diagnostics will think it's a legacy error from the Tyrell era. Here’s the drive." 
-**Locke:** "Good. Now listen: they just tried to kill me, Dante. They’re burned into the Pit. Lay low. Don't go home, don't call me. Disappear until I finish this."
+**Dante:** "Job's done. I masked the hash. The 'Stop Codon' is buried so deep their diagnostics will think it's a legacy error from the Tyrell era. Here’s the drive."  
+**Locke:** "Good. Now listen: they just tried to kill me, Dante. They’re burned into the Pit. Lay low. Don't go home, don't call me. Disappear until I finish this."  
 
 He doesn't argue. I drop him in Hawker’s Circle and pull a dangerous U-turn. I have to get back. I told Kael to meet me there, and I’ve just walked him into a kill box.
 
@@ -134,8 +134,8 @@ We dive into a side alley, winding through the labyrinth of steam pipes and tras
 
 We stop under a flickering neon sign. Kael is bleeding, his synthetic blood looking black in the artificial light.
 
-**Locke:** "How bad is it?" 
-**Kael:** "I’ve felt worse. I know a medic who doesn't ask for ID." 
+**Locke:** "How bad is it?"  
+**Kael:** "I’ve felt worse. I know a medic who doesn't ask for ID."  
 **Locke:** "We’re still doing this? The man you’re sending in... he’s going to die, Kael. They’ll kill him the second they find the drive."
 
 Kael stops, looking at me with a gaze that feels ancient.
@@ -144,7 +144,7 @@ Kael stops, looking at me with a gaze that feels ancient.
 
 I have no answer. The morality of this city is as grey as the rain. I hand him the poisoned drive.
 
-**Locke:** "So what now?" 
+**Locke:** "So what now?"  
 **Kael:** "Now, you wait. When the mark changes to three circles, meet me at the Seawall near Tsingtao. We’ll watch the towers fall together."
 
 He vanishes into the gloom, leaving me alone with the smell of ozone and the taste of copper in my mouth.

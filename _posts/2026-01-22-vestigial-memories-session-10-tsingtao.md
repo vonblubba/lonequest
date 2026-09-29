@@ -60,9 +60,9 @@ I wait for a delivery driver to distract the woman, then I loom over the boy’s
 
 The kid’s face goes white. He looks at his colleague, but she’s buried in paperwork. He looks back at me, his lip trembling.
 
-**Locke:** "Come on, kid. I've got two other Hubs to hit before I can get a drink. Don't make me write down your name and employee number as the reason for my delay."
-**Receptionist:** "No! No, sir... sorry. Of course. We were... we were expecting you. I'll call a guide—"
-**Locke:** "Don't bother. I've been here twice this month. Just give me a master badge so I can get through the Tsingtao gate and get out of your hair."
+**Locke:** "Come on, kid. I've got two other Hubs to hit before I can get a drink. Don't make me write down your name and employee number as the reason for my delay."  
+**Receptionist:** "No! No, sir... sorry. Of course. We were... we were expecting you. I'll call a guide—"  
+**Locke:** "Don't bother. I've been here twice this month. Just give me a master badge so I can get through the Tsingtao gate and get out of your hair."  
 
 He practically fumbles the badge into my hand. I don't thank him. I just turn and walk into the belly of the beast.
 

@@ -16,10 +16,10 @@ image: /assets/img/2026/01/br_core08_tools_of_the_trade_174-175-2.webp
 > - Opponent has suffered stress
 > - Opponent is in custody
 > - Opponent is in the interrogation room
-> - I present my case very well
-> Disadvantages:
-> - Opponent must take a serious risk to help me
-> - Opponent has nothing to gain by helping me
+> - I present my case very well  
+> Disadvantages:  
+> - Opponent must take a serious risk to help me  
+> - Opponent has nothing to gain by helping me. 
 
 > **Opposed roll, MANIPULATION vs STAMINA:**  
 > Locke [2D10 + D12] vs Zhao [D10 + D10] = [10 + 8] vs [6 + 4] => 2 successes for Locke (critical success)
@@ -57,7 +57,7 @@ Zhao lets out a long, ragged sigh. The weight of thirty years begins to pour out
 
 **Zhao:** "It started thirty years ago. I was young, political, and very stupid. I joined the pro-replicant underground. We weren't just holding signs; we were terrorists. We vandalized Tyrell warehouses as cover to steal their manufacturing data.
 
-**Zhao: **"They didn't understand half of what they stole, but they understood enough to duplicate existing models. They called it 'freedom'—the ability to reproduce without a master. I was a fool. I believed them. I used my shop to smuggle components. Then, they gave me an 'assistant' to test the stability of their work."
+**Zhao:** "They didn't understand half of what they stole, but they understood enough to duplicate existing models. They called it 'freedom'—the ability to reproduce without a master. I was a fool. I believed them. I used my shop to smuggle components. Then, they gave me an 'assistant' to test the stability of their work."
 
 **Locke:** "Kasper."
 

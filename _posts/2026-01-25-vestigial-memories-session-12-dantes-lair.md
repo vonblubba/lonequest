@@ -21,9 +21,9 @@ image: /assets/img/2026/01/riggs_lair.png
 
 Dante is holed up in a ratty basement apartment in **Hawker’s Circle**. It’s a damp, low-ceilinged tomb that smells of ozone and mildew—hardly the ideal environment for high-end hardware, but beggars can’t be choosers when they’re hiding from shadows.
 
-**Riggs:** "Nate. You’re late. What do you have for me?" 
-**Locke:** "Work. If you’re up to it." 
-**Riggs:** "I am... if the pay covers the hardware I lost thanks to you."
+**Riggs:** "Nate. You’re late. What do you have for me?"  
+**Locke:** "Work. If you’re up to it."  
+**Riggs:** "I am... if the pay covers the hardware I lost thanks to you."  
 
 He’s still sore about the hardware in his "lair," and I can’t blame him. [Disadvantage on possible related skill checks]
 
@@ -31,17 +31,17 @@ He’s still sore about the hardware in his "lair," and I can’t blame him. [Di
 
 His eyes narrow, reflecting the pale blue light of a jury-rigged monitor.
 
-**Riggs:** "There’s a lot you’re not telling me, Nate." 
-**Locke:** "Of course there is. That’s the only way you stay alive." 
-**Riggs:** "Fine. What are we making? Toasters? Spinners?" 
+**Riggs:** "There’s a lot you’re not telling me, Nate."  
+**Locke:** "Of course there is. That’s the only way you stay alive."  
+**Riggs:** "Fine. What are we making? Toasters? Spinners?"  
 **Locke:** "Replicants."
 
 The silence that follows is heavy. Dante actually stops typing.
 
-**Riggs:** "You’re shitting me." 
-**Locke:** "I wish." 
-**Riggs:** "Who the fuck do you think I am? Nobody outside of Wallace knows a damn thing about their bio-sequencing. I’m a decker, not a god." 
-**Locke:** "I’ll handle the genetic logic, just send me every genetic sequence you can find on that drive. I’ve got contacts at the University and a woman who’s spent thirty years sabotaging this exact process. I just need you to fix the data hash signatures. I need the 'sabotage' to look like a natural corruption in the sequence. Can you do that?"
+**Riggs:** "You’re shitting me."  
+**Locke:** "I wish."  
+**Riggs:** "Who the fuck do you think I am? Nobody outside of Wallace knows a damn thing about their bio-sequencing. I’m a decker, not a god."  
+**Locke:** "I’ll handle the genetic logic, just send me every genetic sequence you can find on that drive. I’ve got contacts at the University and a woman who’s spent thirty years sabotaging this exact process. I just need you to fix the data hash signatures. I need the 'sabotage' to look like a natural corruption in the sequence. Can you do that?" 
 
 > **Connections Roll**  
 > (D12 + D12 + Disadvantage because NPC indisposed towards me)  

@@ -32,18 +32,18 @@ I head down, my coat collar pulled high. The damp air is a slap to the face. I s
 
 He gestures toward the alleyway.
 
-**Thorne:** "One of my rookies was doing a sweep. Saw this guy skulking in the shadows, looking like he was waiting for a bus that doesn't run here. Rookie asks for ID, the guy bolts. Reaches into his coat during the chase—rookie doesn't wait to see if it's a wallet or a weave-gun. Two shots to the back. Clean as a whistle."
+**Thorne:** "One of my rookies was doing a sweep. Saw this guy skulking in the shadows, looking like he was waiting for a bus that doesn't run here. Rookie asks for ID, the guy bolts. Reaches into his coat during the chase—rookie doesn't wait to see if it's a wallet or a weave-gun. Two shots to the back. Clean as a whistle."  
 
 A cold knot of foreboding tightens in my chest.
 
-**Locke:** "Mind if I take a look?" 
+**Locke:** "Mind if I take a look?"  
 **Thorne:** "Suit yourself. He’s not going anywhere."
 
 I step past the tape. The man is face-down in a puddle, his coat soaked through. I roll him over just enough to see the jawline. Then I see it—the stylized bird tattoo on his temple, peeking out from the grime.
 
-**Locke:** "Shit." 
-**Thorne:** "You know this guy?" 
-**Locke:** "Yeah. Tell your rookie he just retired a replicant. He probably saved me some trouble, though he won't get a medal for it." 
+**Locke:** "Shit."  
+**Thorne:** "You know this guy?"  
+**Locke:** "Yeah. Tell your rookie he just retired a replicant. He probably saved me some trouble, though he won't get a medal for it."  
 **Thorne:** [Grinning] "A skinjob? Well, damn. Guess the kid’s buying the first round tonight."
 
 I stare at the bird. He was waiting outside my apartment. Not Dante's—*mine*. He wasn't hunting the hacker anymore; he was hunting the Runner.

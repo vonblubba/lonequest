@@ -27,16 +27,16 @@ An elderly woman sits on a bench nearby, her face a map of lived-in history. She
 
 ![](/assets/img/2026/01/kamarr-1.png)
 
-**Woman:** "Bad day, young man?" 
-**Locke:** "You could say that, lady." 
-**Woman:** [Laughing softly] "A nice single malt usually helps me when the world gets heavy." 
-**Locke:** "You're not wrong. Maybe later." 
-**Woman:** "Good. You’ve got a decision to make. Best to keep a clear head until the ink is dry."
+**Woman:** "Bad day, young man?"  
+**Locke:** "You could say that, lady."  
+**Woman:** [Laughing softly] "A nice single malt usually helps me when the world gets heavy."  
+**Locke:** "You're not wrong. Maybe later."  
+**Woman:** "Good. You’ve got a decision to make. Best to keep a clear head until the ink is dry." 
 
-I stiffen. I take a harder look at her. There’s a ghost of a memory stirring in the back of my mind—something from the old files, a grainy photograph from a forgotten era.
+I stiffen. I take a harder look at her. There’s a ghost of a memory stirring in the back of my mind—something from the old files, a grainy photograph from a forgotten era.  
 
-**Locke:** "Do I know you?" 
-**Woman:** "Sometimes just looking the other way is the best thing to do... even for a Blade Runner."
+**Locke:** "Do I know you?"   
+**Woman:** "Sometimes just looking the other way is the best thing to do... even for a Blade Runner."  
 
 The way she says "Blade Runner" sounds like a title she once wore herself.
 

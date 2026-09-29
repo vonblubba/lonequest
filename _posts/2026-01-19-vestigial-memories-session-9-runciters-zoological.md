@@ -7,7 +7,7 @@ image: /assets/img/2026/01/br_fa_large_handout_sheets_275x212_crime_runciters.we
 ---
 ### Scene setup
 
-> **Countdown event check: **  
+> **Countdown event check:**  
 > (D6): (6) => no event  
 > **Scene check:**  
 > (D8): (6) => Routine. Probably does not require a skill roll. Witness is cooperative; there are obvious clues at the crime scene; the data you seek is easily retrieved.

@@ -94,6 +94,7 @@ He grunts.
 **H:** "While you're there, check out Pentecost's digital assistant too. Cass Beck. She handles all the legal and manufacturing issues at the farm. If I got it right from the uniforms who inspected the scene, she does all the work while Pentecost takes all the credit. Since the incident, he's become highly suspicious of her."  
   
 **L:** "Got it. It's just… you said this case was tailored to me? Doesn't seem so."  
+  
 Holden checks that nobody is near his office before answering.   
   
 **H:** "The uniforms say there was one suspicious event just before the explosion. One of the clerks said a policewoman showed up at the farm asking to look around. Her badge was authentic. The name on it was De Vries, but the badge ID the clerk took note of... it's Kamarr's. Needless to say, no LAPD officer reported a visit to the farm yesterday, nor any officer named De Vries exists."  

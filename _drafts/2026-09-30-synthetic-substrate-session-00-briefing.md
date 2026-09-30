@@ -44,7 +44,9 @@ Deputy Chief Holden's office is more smoke than light, as usual. I can barely ma
 That sounds ominous.  
   
 **Locke:** "I'm listening."  
+  
 **H:** "Ten hours ago, the power generators of a Wallace protein farm blew up. Production's halted entirely, and they won't be resuming anytime soon; the damage is extensive. Sabotage is extremely likely. Security procedures are too tight for damage like that to be an accident."  
+  
 **L:** "What's the RDU got to do with it?"
 
 > **NPC roll**  
@@ -59,6 +61,7 @@ That sounds ominous.
 > (D10): (10) => ambiguous answer, unusual identity, rogue N8 or digital companion
 
 **H:** "I'm getting to that. Three hours after the explosion, I get a call from Wallace Corp. Haru Wozniak, PR big brass, handles political issues, which means basically anything of importance. He says we have to look into it, because replicant rebellion agents are suspected of the sabotage. No other details provided. The man's a real asshole, trust me."  
+  
 **L:** "And I suppose we can't say no to Wallace, even without any evidence of replicant involvement."  
   
 He grunts.
@@ -75,6 +78,7 @@ He grunts.
 > (D10): (3) => Human
 
 **H:** "The farm's director is Rami Pentecost, 32, mycologist. Glamorous past as a celebrity science presenter, until he fell from grace over the way he treated his employees. Now he runs a mushroom-based protein farm for Wallace. I suggest you start with a chat with the guy."  
+  
 **L:** "A trip out beyond downtown. I can't wait."
 
 > **Name:** Cass Beck  
@@ -88,18 +92,22 @@ He grunts.
 > (D10): (10) => ambiguous answer, unusual identity, rogue N8 or digital companion
 
 **H:** "While you're there, check out Pentecost's digital assistant too. Cass Beck. She handles all the legal and manufacturing issues at the farm. If I got it right from the uniforms who inspected the scene, she does all the work while Pentecost takes all the credit. Since the incident, he's become highly suspicious of her."  
+  
 **L:** "Got it. It's just… you said this case was tailored to me? Doesn't seem so."  
 Holden checks that nobody is near his office before answering.   
+  
 **H:** "The uniforms say there was one suspicious event just before the explosion. One of the clerks said a policewoman showed up at the farm asking to look around. Her badge was authentic. The name on it was De Vries, but the badge ID the clerk took note of... it's Kamarr's. Needless to say, no LAPD officer reported a visit to the farm yesterday, nor any officer named De Vries exists."  
   
 The air in the office suddenly freezes.  
   
 **L:** "I see. How do you want me to handle this if… she… really is involved? Which still needs to be confirmed, honestly."  
+  
 **H:** "I know. But in six months we've had zero leads on Kamarr. We have to follow this, even if it leads nowhere. If she really is involved, keep her name out of every report until she's apprehended. I already have Wallace breathing down my neck, and I don't need any more attention on this until things are sorted out. Understood?"  
   
 I nod.  
   
 **L:** "Any idea why Wallace is so interested in that farm?"  
+  
 **H:** "I'm not doing your job for you, Locke. Get your ass out there and find out."  
   
 I know when my presence is no longer wanted, so I leave.

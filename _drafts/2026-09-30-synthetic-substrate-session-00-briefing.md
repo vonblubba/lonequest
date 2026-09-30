@@ -60,7 +60,7 @@ That sounds ominous.
 > **Human/Replicant**  
 > (D10): (10) => ambiguous answer, unusual identity, rogue N8 or digital companion
 
-**H:** "I'm getting to that. Three hours after the explosion, I get a call from Wallace Corp. Haru Wozniak, PR big brass, handles political issues, which means basically anything of importance. He says we have to look into it, because replicant rebellion agents are suspected of the sabotage. No other details provided. The man's a real asshole, trust me."  
+**H:** "I'm getting to that. Three hours after the explosion, I get a call from Wallace Corp. Haru Wozniak, PR big brass, handles political issues, which means basically anything of importance. He says we have to look into it, because replicant underground agents are suspected of the sabotage. No other details provided. The man's a real asshole, trust me."  
   
 **L:** "And I suppose we can't say no to Wallace, even without any evidence of replicant involvement."  
   
@@ -118,7 +118,7 @@ I know when my presence is no longer wanted, so I leave.
 ## Scene bookkeeping
 
 ### Leads 
-- Possible Replicant Rebellion involvement
+- Possible Replicant underground involvement
 - Wallace has interest in the case
 - Libby Kamarr involvement in the case
 

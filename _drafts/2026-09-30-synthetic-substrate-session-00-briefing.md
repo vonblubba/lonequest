@@ -27,7 +27,7 @@ image: /assets/img/2026/01/br_core07_working_the_case_158-159-1.webp
 **Location Table**  
 (D6): (10 => The Energy Empire, Protein farm  
 
-**Type of sabotage** 
+**Type of sabotage**  
 Cipher table roll => Destroy + Power
 
 ## Playing the scene  

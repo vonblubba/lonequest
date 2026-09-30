@@ -33,14 +33,16 @@ Cipher table roll => Destroy + Power
 ## Playing the scene  
 
 Six months have passed since the *Vestige* mess. Going back to retiring replicants has been hard since I crossed the line that forced me to admit to myself that what I do for a living is murder. And yet, I keep doing it. Maybe because I have yet to find an alternative.  
-
+  
 I'm sitting at my desk, writing the report on my latest retirement, with a tightness in my chest that won't go away.  
 The phone rings. It's Holden. I have to report to his office, stat. A new case, I suppose.  
-
+  
 Deputy Chief Holden's office is more smoke than light, as usual. I can barely make him out on the other side of the desk.  
 
 **Holden:** "Locke, got a new case. One especially for you."  
+  
 That sounds ominous.  
+  
 **Locke:** "I'm listening."  
 **H:** "Ten hours ago, the power generators of a Wallace protein farm blew up. Production's halted entirely, and they won't be resuming anytime soon; the damage is extensive. Sabotage is extremely likely. Security procedures are too tight for damage like that to be an accident."  
 **L:** "What's the RDU got to do with it?"
@@ -58,6 +60,7 @@ That sounds ominous.
 
 **H:** "I'm getting to that. Three hours after the explosion, I get a call from Wallace Corp. Haru Wozniak, PR big brass, handles political issues, which means basically anything of importance. He says we have to look into it, because replicant rebellion agents are suspected of the sabotage. No other details provided. The man's a real asshole, trust me."  
 **L:** "And I suppose we can't say no to Wallace, even without any evidence of replicant involvement."  
+  
 He grunts.
 
 > **NPC roll**  
@@ -88,13 +91,17 @@ He grunts.
 **L:** "Got it. It's just… you said this case was tailored to me? Doesn't seem so."  
 Holden checks that nobody is near his office before answering.   
 **H:** "The uniforms say there was one suspicious event just before the explosion. One of the clerks said a policewoman showed up at the farm asking to look around. Her badge was authentic. The name on it was De Vries, but the badge ID the clerk took note of... it's Kamarr's. Needless to say, no LAPD officer reported a visit to the farm yesterday, nor any officer named De Vries exists."  
+  
 The air in the office suddenly freezes.  
+  
 **L:** "I see. How do you want me to handle this if… she… really is involved? Which still needs to be confirmed, honestly."  
 **H:** "I know. But in six months we've had zero leads on Kamarr. We have to follow this, even if it leads nowhere. If she really is involved, keep her name out of every report until she's apprehended. I already have Wallace breathing down my neck, and I don't need any more attention on this until things are sorted out. Understood?"  
+  
 I nod.  
+  
 **L:** "Any idea why Wallace is so interested in that farm?"  
 **H:** "I'm not doing your job for you, Locke. Get your ass out there and find out."  
-
+  
 I know when my presence is no longer wanted, so I leave.
 
 ---

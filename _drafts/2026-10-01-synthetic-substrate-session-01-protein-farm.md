@@ -144,8 +144,8 @@ I don't think I'll get much more out of him. Holden was right: he's just a front
 
 ### Leads
 
-1- Possible Replicant Rebellion involvement
-2- Wallace has interest in the case
-3- Libby Kamarr involvement in the case
-4- A storage of wood was destroyed in the explosion
+1- Possible Replicant Rebellion involvement  
+2- Wallace has interest in the case  
+3- Libby Kamarr involvement in the case  
+4- A storage of wood was destroyed in the explosion  
 5- The farm might also be producing hallucinogenic mushrooms

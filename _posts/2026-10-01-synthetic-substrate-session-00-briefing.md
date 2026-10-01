@@ -32,7 +32,7 @@ Cipher table roll => Destroy + Power
 
 ## Playing the scene  
 
-Six months have passed since the *Vestige* mess. Going back to retiring replicants has been hard since I crossed the line that forced me to admit to myself that what I do for a living is murder. And yet, I keep doing it. Maybe because I have yet to find an alternative.  
+Six months have passed since the [Vestige](/categories/vestigial-memories/) mess. Going back to retiring replicants has been hard since I crossed the line that forced me to admit to myself that what I do for a living is murder. And yet, I keep doing it. Maybe because I have yet to find an alternative.  
   
 I'm sitting at my desk, writing the report on my latest retirement, with a tightness in my chest that won't go away.  
 The phone rings. It's Holden. I have to report to his office, stat. A new case, I suppose.  

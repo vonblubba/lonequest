@@ -19,4 +19,10 @@ To me, solo adventuring is about the story. Rules are there to help me find it; 
 
 I manage my games through a self-hosted [Foundry VTT](https://foundryvtt.com) instance, which is an incredible tool for solo play.
 
+In my logs, I use a made-up notation for dice rolls that looks like this:
+
+> (D8 + D12): (3 + 9) => 1 success
+
+It means "I rolled a D8 and a D12. I got a 3 from the D8 and a 9 from the D12". After the => symbol, there's a description of the result, heavily related to the game system I'm using. It may report the number of successes, or if it's a regular or critical success/failure, etc.
+
 **Disclaimer:** All images used in these logs are copyright of their respective owners. This blog is a non-commercial hobby project. If you are a copyright holder and wish for an image to be removed, please contact me and I will do so immediately.

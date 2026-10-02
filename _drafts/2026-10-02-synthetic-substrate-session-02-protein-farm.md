@@ -8,7 +8,8 @@ image: /assets/img/2026/09/protein_farm.jpg
 ## Scene Setup
 ### Scene check
 > (D8): (8) => Favorable. Probably does not require a skill roll – if one is required, it is made with an advantage. Examples:The witness has unexpected insight; a clue at the crime scene provides a promising break in the case; the data you seek connects to some other aspect of the case in a surprising way
-  
+
+## Playing the scene
 I ask the first clerk I meet where I can find Beck.   
 Clerk: "Well, there's only one place she can ever be, isn't there?"  
 He points toward the main administration office.  

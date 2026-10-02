@@ -93,7 +93,7 @@ Interesting. Tampering with a police badge is no easy task. You could change the
 
 **L:** "That's probably what happened, yes. A name I can't even remember is definitely a dead end."  
   
-That settles it. We're on the same side. Or at least, not enemies. I can see it in her posture: her arms, crossed a moment ago, now hang relaxed at her sides. A.I.s have complete control over their body language, so that's a clear message. We can talk.  
+That settles it. We're on the same side. Or at least, not enemies. I can see it in her posture: her arms, crossed a moment ago, now hang relaxed at her sides. A.I.s have complete control over their body language, so that's a clear message: "We can talk".  
   
 **L:** "What happened then?"  
   

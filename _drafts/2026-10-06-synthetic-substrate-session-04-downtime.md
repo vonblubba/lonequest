@@ -86,7 +86,7 @@ The screen goes dark.
 Crop records. Why would she want crop records? Could the black op be tied to whatever's growing in that greenhouse?  
 Only one way to find out. I need to see those records, and I know just the man who can help. I dial Dante.  
   
-**Dante:* "Nate. Bit busy right now."  
+**Dante:** "Nate. Bit busy right now."  
   
 A girl giggles somewhere in the background.  
   

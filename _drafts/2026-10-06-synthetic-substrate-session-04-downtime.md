@@ -59,7 +59,7 @@ Still, I can't let this slip. She might be willing to share what she knows about
 Here we go.  
   
 > **Cipher table roll**  
-> create + life => something related to mushroom farming
+> create + life => something related to mushroom farming  
 > **Evidence Descriptor roll**  
 > (1D6 + 1D10): (4 + 6) => residual. It is a trace of something left behind  
 > **Evidence Type roll**  

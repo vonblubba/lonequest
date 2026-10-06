@@ -90,7 +90,7 @@ Only one way to find out. I need to see those records, and I know just the man w
   
 A girl giggles somewhere in the background.  
   
-**Locke:* "This is important, Dante. Send your girlfriends home."  
+**Locke:** "This is important, Dante. Send your girlfriends home."  
   
 He curses  .
   

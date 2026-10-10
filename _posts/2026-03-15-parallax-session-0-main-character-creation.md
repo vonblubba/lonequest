@@ -13,7 +13,7 @@ I will be using the solo rules from [Mythic Game Master Emulator 2nd edition](ht
 
 As always, I'll be using a self-hosted instance of [Foundry VTT](https://foundryvtt.com) to run my sessions.
 
-![](/assets/img/2026/03/lawrence_bartolini_2.png)
+![Lawrence Bartolini, the protagonist of the Parallax campaign](/assets/img/2026/03/lawrence_bartolini_2.png)
 
 For this campaign my main character will be **Lawrence Bartolini**, a direct descendant of Lorenzo Bartolini, the protagonist of my other ongoing Call of Cthulhu campaign [A study in dust and stone](/categories/a-study-in-dust-and-stone/). I feel this could lead to some interesting developments across both campaigns.
 
@@ -31,21 +31,21 @@ Unknown to him, his grandfather Lorenzo was aware of the unnatural and fought se
 Lawrence is not an agent yet; the first adventure will be his "awakening" to the true nature of the universe. I plan for this first mystery to be a short introduction to the character and the Mythic rules (which I'm using for the first time, so expect mistakes). 
 This intro will feature Lawrence as a lone PC, but in later adventures, I plan to add at least one partner. Delta Green is a deadly system; a lone PC would not last long otherwise.
 
-![](/assets/img/2026/03/lawrence_00.png)
+![Lawrence Bartolini's character sheet, showing his medical examiner skillset](/assets/img/2026/03/lawrence_00.png)
 
 His skillset is pretty ordinary for a medical examiner, which is fine.
 
 Lawrence has 3 bonds.
 
-![](/assets/img/2026/03/sally_monaghan.png)
+![Sally Monaghan, Lawrence's wife and a history teacher at LSU](/assets/img/2026/03/sally_monaghan.png)
 
 **Sally Monaghan (Wife):** A 45-year-old teacher of ancient history at LSU. She is Black, nerdy-looking, and wears dreadlocks. She loves Lawrence deeply and avoids asking for too many details about his work. They have been married for almost 20 years. Though they discovered she was infertile years ago, Lawrence was incredibly supportive, and their bond is strong.
 
-![](/assets/img/2026/03/jo.png)
+![Detective Jolene "Jo" Mouton, Lawrence's colleague](/assets/img/2026/03/jo.png)
 
 **Detective Jolene "Jo" Mouton (Colleague):** Jo has complete professional trust in Lawrence; they have worked together on countless cases. That trust has extended outside of work; they are frequent drinking buddies, and Jo often comes over for dinner (Sally loves her, too).
 
-![](/assets/img/2026/03/akira.png)
+![Akira, Lawrence and Sally's Russian Blue cat](/assets/img/2026/03/akira.png)
 
 **Akira (The Cat):** A 4-year-old Russian Blue. Since Lawrence and Sally do not have children, they pour all their love into the "little pest," who returns it in earnest (when he feels like it). *Note: Akira is a real-world cat belonging to a close friend!*
 

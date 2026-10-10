@@ -143,6 +143,6 @@ I nod, a chill running down my spine. The fact that she knows I talk to Akira is
 
 **Chaos factor**: unchanged = 6
 
-![](/assets/img/2026/03/npc.png)
+![An NPC encountered during the Parallax investigation](/assets/img/2026/03/npc.png)
 
-![](/assets/img/2026/03/thread.png)
+![A thread board mapping the leads in the Parallax investigation](/assets/img/2026/03/thread.png)

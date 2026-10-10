@@ -47,7 +47,7 @@ The ink begins to shift before my eyes, pulsing with colors not of this world—
 
 The heavy thud of footsteps echoes from the corridor. The morgue door swings open, and a woman steps in who seems to command the very air in the room. She’s a powerhouse—maybe 6’4”, clearly samoan, with arms like corded oak. She’s wearing a U.S. Marines combat medic uniform, her name tag torn away.
 
-![](/assets/img/2026/03/pariah.png)
+![Pariah entering the morgue](/assets/img/2026/03/pariah.png)
 
 **Woman:** "Hello there. Call me Pariah. You the one cutting the bodies today?"
 

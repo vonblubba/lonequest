@@ -33,7 +33,7 @@ The first step is to decide how much your character knows at the beginning of th
 *Wednesday, October 12th, 1995. 9:48 a.m.*
 
 It’s a gray, rain-slicked morning in New Orleans. The humidity is thick enough to chew. Jo swings into my office, the smell of wet pavement trailing behind her.
-![](/assets/img/2026/03/jo-1.png)
+![Jo stopping by Lawrence's office](/assets/img/2026/03/jo-1.png)
 **Jo:** "Hey, Law. You look bored. I brought you something to wake you up."
 
 **Lawrence:** "Careful, Jo. Your 'toys' usually come in body bags. Not much to be thankful for there."

@@ -87,6 +87,6 @@ Pariah flips open her laptop, her fingers flying across the keys as she attempts
 
 **Chaos factor:** 6 (unchanged)
 
-![](/assets/img/2026/04/Screenshot-2026-04-15-at-13.19.31.png)
+![A Foundry VTT scene from the Hastur's Shadow session](/assets/img/2026/04/Screenshot-2026-04-15-at-13.19.31.png)
 
-![](/assets/img/2026/04/Screenshot-2026-04-15-at-13.19.45.png)
+![A continuation of the Foundry VTT scene from the Hastur's Shadow session](/assets/img/2026/04/Screenshot-2026-04-15-at-13.19.45.png)

@@ -26,7 +26,7 @@ At 701 Decatur Street, I find a non-descript self-storage facility. Waiting by t
 
 **Pariah:** "Hello, Placebo. Sorry for the short notice, but there’s been a development. This is **Phalanx**. We’re the team assigned to Operation PARALLAX." 
 
-![](/assets/img/2026/03/reyes.png)
+![An agent of the Operation PARALLAX team](/assets/img/2026/03/reyes.png)
 
 I can’t help but smirk at the names. It feels like a spy novel, but the cold look in Phalanx’s eyes tells me there’s nothing fictional about the stakes. Pariah gestures for us to follow her to one of the units. She slides the corrugated metal door up, revealing a "Green Box"—a stash of gear tucked away from prying eyes.
 

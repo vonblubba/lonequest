@@ -1,5 +1,5 @@
 ---
-title: "A Study in Dust and Stone, Session 8: the Krarken's Lair"
+title: "A Study in Dust and Stone, Session 8: Krarken's Lair"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 description: "Session 8 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy face the cult of Summanus."

@@ -1,5 +1,5 @@
 ---
-title: "A Study in Dust and Stone, Session 3: Gumbo and Books"
+title: "A Study in Dust and Stone, Session 3: Gumbo & Books"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 description: "Session 3 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo and Remy get to know each other over spicy gumbo."

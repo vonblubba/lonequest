@@ -1,5 +1,5 @@
 ---
-title: "Vestigial Memories, Interlude: Locke's Apartment"
+title: "Vestigial Memories, Interlude: The Mirage in the Rain"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
 description: "Interlude of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where an unexpected encounter outside of Locke's apartment turns into a dangerous situation."

@@ -1,5 +1,5 @@
 ---
-title: "A Study in Dust and Stone, Session 2: Dreams and Visions"
+title: "A Study in Dust and Stone, Session 2: Dreams & Visions"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 description: "Session 2 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo receives a warning."

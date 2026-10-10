@@ -1,5 +1,5 @@
 ---
-title: "A Study in Dust and Stone, Session 0/bis: Support Character creation"
+title: "A Study in Dust and Stone, Session 0b: Support Character"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 description: "Session 0 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed., where we meet Remy \"Red\" Fontenot, bootlegger form New Orleans."

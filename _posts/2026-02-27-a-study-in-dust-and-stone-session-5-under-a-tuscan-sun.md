@@ -1,5 +1,5 @@
 ---
-title: "A Study in Dust and Stone, Session 5: Under a Tuscan sun"
+title: "A Study in Dust and Stone, Session 5: Tuscan Sun"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 description: "Session 5 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where the investigation takes a Tuscan turn"

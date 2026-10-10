@@ -1,5 +1,5 @@
 ---
-title: "Synthetic Substrate, Session 2: NuHarvest Substrate Farm 14"
+title: "Synthetic Substrate, Session 2: NuHarvest Farm 14"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Synthetic Substrate"]
 description: "Session 2 of the scenario \"Synthetic Substrate\" for the Blade Runner RPG, where Locke meets an unexpected ally"

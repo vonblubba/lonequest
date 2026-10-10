@@ -1,5 +1,5 @@
 ---
-title: "A Study in Dust and Stone, Session 1:  Scenario setup"
+title: "A Study in Dust and Stone, Session 1: Scenario Setup"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 description: "Session 1 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed, where Lorenzo faces a mystery from his past."

@@ -1,5 +1,5 @@
 ---
-title: "A Study in Dust and Stone, Session 0:  Main Character creation"
+title: "A Study in Dust and Stone, Session 0: Main Character"
 tags: ["Horror", "Lovecraftian"]
 categories: ["Call of Cthulhu","A Study in Dust and Stone"]
 description: "Session 0 of the scenario \"A study in Dust and Stone\" for Call of Cthulhu 7th ed., where we meet Loenzo Bartolini, Florentine antiquarian."

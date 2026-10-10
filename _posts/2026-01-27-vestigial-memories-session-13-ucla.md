@@ -2,7 +2,7 @@
 title: "Vestigial Memories, Session 13: UCLA"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-description: "Session 13 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke finds a way to alter Vestige's data at the cost of some of his own pride."
+description: "Vestigial Memories, Session 13 (Blade Runner RPG): Locke finds a way to alter Vestige's data, at the cost of some of his own pride."
 image: /assets/img/2026/01/ucla.jpg
 ---
 ## Scene setup

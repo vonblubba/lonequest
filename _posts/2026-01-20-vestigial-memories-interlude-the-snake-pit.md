@@ -2,7 +2,7 @@
 title: "Vestigial Memories, Interlude: The Snake Pit"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-description: "Interlude for the scenario \"Vestigial Memories\" for the Blade Runner RPG, where while en route to the warehouse district, Locke receives a disturbing message from a CI."
+description: "Vestigial Memories, Interlude (Blade Runner RPG): En route to the warehouse district, Locke gets a disturbing message from a CI."
 image: /assets/img/2026/01/br_large_handout_sheets_snake_pit.webp
 ---
 ## Scene setup

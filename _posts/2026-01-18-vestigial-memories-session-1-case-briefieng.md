@@ -2,7 +2,7 @@
 title: "Vestigial Memories, Session 1: Case briefing"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-description: "Session 1 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke's downtime is cut short by Deputy Chief Holden that wants him on a new case."
+description: "Vestigial Memories, Session 1 (Blade Runner RPG): Locke's downtime is cut short by Deputy Chief Holden, who wants him on a new case."
 image: /assets/img/2026/01/br_core07_working_the_case_158-159-1.webp
 ---
 ## The Assignment: Echoes of the Snake Pit

@@ -2,7 +2,7 @@
 title: "Vestigial Memories, Interlude: The Mirage in the Rain"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-description: "Interlude of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where an unexpected encounter outside of Locke's apartment turns into a dangerous situation."
+description: "Vestigial Memories, Interlude (Blade Runner RPG): Locke is ambushed by someone wearing Kael's face, and the attacker's tattoo gives away a chilling secret."
 image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_108-109-1.webp
 ---
 ### Scene setup

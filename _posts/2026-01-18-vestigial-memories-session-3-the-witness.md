@@ -2,7 +2,7 @@
 title: "Vestigial Memories, Session 3: The Witness"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-description: "Session 3 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke travels to the Red Lights district to interrogate the main witness.  Is this a mistaken identity case or is there something worse going on?"
+description: "Vestigial Memories, Session 3 (Blade Runner RPG): Locke travels to the Red Lights district to interrogate the main witness. Mistaken identity, or worse?"
 image: /assets/img/2026/01/br_large_handout_sheets_apartment.webp
 ---
 ### Scene setup

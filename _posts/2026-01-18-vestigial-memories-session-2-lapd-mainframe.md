@@ -2,7 +2,7 @@
 title: "Vestigial Memories, Session 2: LAPD Mainframe"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-description: "Session 2 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke digs out a cold case file from the LAPD mainframe, looking for leads on the murder of Rhea Lang."
+description: "Vestigial Memories, Session 2 (Blade Runner RPG): Locke digs a cold case file out of the LAPD mainframe, looking for leads on Rhea Lang's murder."
 image: /assets/img/2026/01/br_core08_tools_of_the_trade_188-189.webp
 ---
 ## The Investigation: Digging Through the Digital Ash

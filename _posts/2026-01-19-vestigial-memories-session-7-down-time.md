@@ -2,7 +2,7 @@
 title: "Vestigial Memories, Session 7: Down Time"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-description: "Session 7 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke enjoys some well deserved down time before interrogating Zhao again. But it does not go as planned."
+description: "Vestigial Memories, Session 7 (Blade Runner RPG): Locke enjoys some well-deserved down time before interrogating Zhao again. It doesn't go as planned."
 image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_108-109.webp
 ---
 ### Scene setup

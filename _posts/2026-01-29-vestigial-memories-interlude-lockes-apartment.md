@@ -2,7 +2,7 @@
 title: "Vestigial Memories, Interlude: Locke's Apartment"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-description: "Interlude of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where an unexpected encounter outside of Locke's apartment turns into a dangerous situation."
+description: "Vestigial Memories, Interlude (Blade Runner RPG): A body outside Locke's apartment bears a telltale tattoo, confirming his attacker wasn't who he seemed."
 image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_108-109-1-1.webp
 ---
 ## Scene setup

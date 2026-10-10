@@ -2,7 +2,7 @@
 title: "Vestigial Memories, Session 0:  Character creation"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-description: "Session 0 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where we meet Nathaniel Locke, veteran cityspeaker for the LAPD Replicant Detection Unit."
+description: "Vestigial Memories, Session 0 (Blade Runner RPG): We meet Nathaniel Locke, veteran cityspeaker for the LAPD Replicant Detection Unit."
 image: /assets/img/2026/01/br_core01_fiery_the-angels_fell_4-5.png
 ---
 This is the beginning of a new solo adventure for the **Blade Runner RPG** by [Freelegue Publishing](https://freeleaguepublishing.com). At the moment of writing, a beta version for the solo rules is available, so that's what I will use.

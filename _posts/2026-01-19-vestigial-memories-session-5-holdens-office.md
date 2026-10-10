@@ -2,7 +2,7 @@
 title: "Vestigial Memories, Session 5: Holden's Office"
 tags: ["SciFi", "Cyberpunk"]
 categories: ["Blade Runner RPG", "Vestigial Memories"]
-description: "Session 5 of the scenario \"Vestigial Memories\" for the Blade Runner RPG, where Locke reports to Deputy Chief Holden and finds out that something much more sinister than expected is going on."
+description: "Vestigial Memories, Session 5 (Blade Runner RPG): Locke reports to Deputy Chief Holden and learns something far more sinister is going on."
 image: /assets/img/2026/01/br_core07_working_the_case_158-159-2.webp
 ---
 ### Scene setup

@@ -56,6 +56,13 @@ jobs:
             \-\-disable-external \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
+      - name: Optimize images
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq jpegoptim optipng
+          find "_site${{ steps.pages.outputs.base_path }}/assets/img" -iname "*.jpg" -o -iname "*.jpeg" | xargs -r jpegoptim --strip-all --max=85
+          find "_site${{ steps.pages.outputs.base_path }}/assets/img" -iname "*.png" | xargs -r optipng -o2 -quiet
+
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:

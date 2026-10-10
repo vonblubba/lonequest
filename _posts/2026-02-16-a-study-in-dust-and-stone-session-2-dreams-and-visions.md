@@ -60,7 +60,7 @@ A mermaid with skin like midnight sat upon a salt-stained rock, bathing in the s
 
 She sang, and the gold moved. The water erupted. The event was gruesome: the squid did not just kill her, it erased her.
 
-![](/assets/img/2026/02/mermaid.png)
+![The singing mermaid-like creature, moments before the squid attack](/assets/img/2026/02/mermaid.png)
 
 "Sir! Sir, you all right?"
 

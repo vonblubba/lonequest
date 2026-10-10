@@ -7,7 +7,7 @@ image: /assets/img/2026/02/banner_00-1.png
 ---
 Where Lorenzo Bertolini relies on the abstract, **Remy Fontenot** deals in the concrete. A bootlegger, a veteran of the New Orleans underworld, Remy doesn't just smuggle rum; he solves logistics. To him, the world is a series of levers, gears, and pressure points.
 
-![](/assets/img/2026/02/Screenshot-2026-02-11-at-08.02.54.png)
+![Remy Fontenot's character sheet in Foundry VTT](/assets/img/2026/02/Screenshot-2026-02-11-at-08.02.54.png)
 
 ### The Philosophy: Meat & Mathematics
 
@@ -16,7 +16,7 @@ Remy views the world through a lens of grim "Biological Science." He isn't a man
 - **The Creed:** "A man is a machine of meat and bone. A $.38$ caliber slug is simply a mathematical solution to a biological problem."
 - **The Method:** If a problem cannot be measured, weighed, or shot, it isn't worth his time. This cold pragmatism makes him a terrifyingly efficient combatant and a ghost in the bayou.
 
-![](/assets/img/2026/02/Screenshot-2026-02-10-at-10.04.27.png)
+![Remy Fontenot's skills and attributes in Foundry VTT](/assets/img/2026/02/Screenshot-2026-02-10-at-10.04.27.png)
 
 Beneath the grease and gun oil lies a man anchored by two things:
 

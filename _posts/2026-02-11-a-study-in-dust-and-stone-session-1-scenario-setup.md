@@ -49,7 +49,7 @@ The inciting incident arrived not by vision, but by post. A frantic, stain-rimme
 
 Included was the photograph: a jagged, morbid sigil. To my eye, it bore the unmistakable, twisted geometry of the **Ars Goetia**. But why was it under my father’s feet? Why was our history built upon a seal of the abyss?
 
-![](/assets/img/2026/02/rune.png)
+![The jagged occult sigil resembling the Ars Goetia, found in the photograph](/assets/img/2026/02/rune.png)
 I knew only one man with the cold temperament to analyze such a thing: **Professor Sterling St. Claire** of LSU. Our shared membership in the *Dante Alighieri Society*—a thin veneer for our true work in occult historiography—provided the necessary trust.
 
 ---

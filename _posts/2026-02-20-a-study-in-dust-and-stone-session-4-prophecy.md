@@ -30,7 +30,7 @@ image: /assets/img/2026/02/bd413ddb75ff33f6bd1e5a61ea552057.jpg
 
 Camille’s workplace is a short, fifteen-minute stroll from the gumbo shop. The Garden District is beautiful—all wrought-iron fences and ancient oaks—but the air feels heavy, as if the humidity is hiding a secret.
 
-![](/assets/img/2026/02/camille.png)
+![Camille serving a customer at the upscale restaurant](/assets/img/2026/02/camille.png)
 
 As we enter the upscale restaurant, Remy’s posture stiffens. He spots her immediately. She is serving an expensive dish to a wealthy woman, but her movements are jagged.
 

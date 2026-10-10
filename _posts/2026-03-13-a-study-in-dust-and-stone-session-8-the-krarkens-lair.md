@@ -18,7 +18,7 @@ The stairs end in a dark, oppressive corridor. It is damp and extremely filthy, 
 
 Three doors line the right side, two line the left, and one stands sentinel at the far end.
 
-![](/assets/img/2026/03/Screenshot-2026-03-13-at-10.53.54.png)
+![A corridor lined with doors in the Krarken's lair](/assets/img/2026/03/Screenshot-2026-03-13-at-10.53.54.png)
 
 > **Q: Do we hear the groaning noises?**  
 > Modificator: +60 (a certainty)  
@@ -43,7 +43,7 @@ Despite the thick walls, we hear the groaning noises again, unmistakable and clo
 
 We ease open the first door. Behind it, Hattie LaRue is struggling against a dark shape—a man in a black robe trying to force her into a ceremonial garment.
 
-![](/assets/img/2026/03/Screenshot-2026-03-13-at-12.38.06.png)
+![Hattie LaRue struggling against a robed man forcing a ceremonial garment on her](/assets/img/2026/03/Screenshot-2026-03-13-at-12.38.06.png)
 
 > **Remy Stealth skill check**  
 > (D100): (17) => hard success
@@ -102,13 +102,13 @@ We reach the final door.
 
 The door is too thick to betray the secrets within. I grip my .45, nod to Remy, and kick it open.
 
-![](/assets/img/2026/03/Screenshot-2026-03-13-at-14.42.22.png)
+![The ritual chamber's stone altar, where Thibodeaux awaits](/assets/img/2026/03/Screenshot-2026-03-13-at-14.42.22.png)
 
 The room is circular, centered around a large drainage grate. An ancient stone altar stands at the far end, carved with runes that seem to pulse in the dim light. Thibodeaux is there, draped in purple silk and brandishing a ritual dagger. He whirls around, his face twisting from shock to pure, unadulterated rage.
 
 **Thibodeaux:** "YOU! What have you done? The ritual MUST be celebrated! Summanus awaits, you fools!"
 
-![](/assets/img/2026/03/Screenshot-2026-03-13-at-14.51.52.png)
+![Thibodeaux beginning a frantic, guttural chant](/assets/img/2026/03/Screenshot-2026-03-13-at-14.51.52.png)
 
 Thibodeaux moves with a frantic, supernatural speed. He begins a guttural chant.
 

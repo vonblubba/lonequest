@@ -31,7 +31,7 @@ As darkness falls, we head for the Golden Kraken. We hop into a cab and hammer o
 
 He hands me a **.45 revolver**. I look at it anxiously—the cold steel feels heavy and wrong in my palm—but I tuck it into my pocket nonetheless.
 
-![](/assets/img/2026/03/Screenshot-2026-03-12-at-09.00.54.png)Lorenzo and Remy arrive at the Golden Kraken
+![Lorenzo and Remy arrive at the Golden Kraken](/assets/img/2026/03/Screenshot-2026-03-12-at-09.00.54.png)
 
 The cab drops us in front of the Golden Kraken. A young Black receptionist greets us with a bright, practiced smile. 
 
@@ -65,7 +65,7 @@ I spot Thibodeaux near the stage. He is leaning in close to a young woman in her
 
 We slip into the corridor behind the stage and find the dressing room. The girl is inside, dabbing at tears with a silk handkerchief.
 
-![](/assets/img/2026/03/Screenshot-2026-03-12-at-15.04.06.png)Lorenzo and Remy sneak into the dressing room
+![Lorenzo and Remy sneak into the dressing room](/assets/img/2026/03/Screenshot-2026-03-12-at-15.04.06.png)
 
 **Remy:** "Hello, Miss. I'm Remy Fontenot, and this is my associate, Mr. Bartolini. Could we have a moment of your time?" 
 **Girl:** "This really isn't a good time." 

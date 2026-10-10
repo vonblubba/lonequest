@@ -45,7 +45,7 @@ She hands me a note:
 **Lorenzo:** "Huh. Well, looks like the library will have to wait."
 
 ---
-![](/assets/img/2026/02/st_claire.png)
+![Professor St. Claire greeting Lorenzo](/assets/img/2026/02/st_claire.png)
 
 **St. Claire:** "Ah, Lorenzo. Finally." 
 

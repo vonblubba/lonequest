@@ -63,7 +63,7 @@ He had a point.
 
 We knocked. The chanting stopped instantly. After a tense silence, the door opened. A Black man in his sixties stood there; he had discarded the robe but was awkwardly hiding his bandaged forearm behind his back.
 
-![](/assets/img/2026/02/Thibodeaux.jpg)
+![Thibodeaux standing in the doorway, hiding a bandaged forearm](/assets/img/2026/02/Thibodeaux.jpg)
 
 **Remy:** "Mr. Thibodeaux? My name is Remy. I’m a pianist. The manager at the Kraken said I needed your approval to be hired. Hope it’s a good time."
 

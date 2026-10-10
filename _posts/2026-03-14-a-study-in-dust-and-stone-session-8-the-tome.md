@@ -62,7 +62,7 @@ I turned to my companion. "Remy, your sister is safe now. You have no further ob
 > **Luck recovery roll**  
 > (D100): (80) > 35 => Remy recovers (D10): (5) LP
 
-![](/assets/img/2026/03/tome.png)
+![The ancient tome recovered from the Krarken's lair](/assets/img/2026/03/tome.png)
 ### Lorenzo's development phase
 
 > **Library use skill improvement roll**  

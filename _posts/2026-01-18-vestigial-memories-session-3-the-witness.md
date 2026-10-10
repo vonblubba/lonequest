@@ -34,7 +34,7 @@ I hit the buzzer. After a long beat, a voice like grinding gravel comes through 
 
 The lock clicks. Inside, the apartment is a jarring contrast to the hallway—decrepit, yes, but meticulously kept. It smells of old paper and stale time. Nombeko Esposito stands near the inner door, looking like he’s ready to bolt. I hope he doesn't; it’s too wet for a chase today.
 
-![](/assets/img/2026/01/esposito.png)
+![Nombeko Esposito, the witness Locke has come to interrogate](/assets/img/2026/01/esposito.png)
 
 ### The Interview
 

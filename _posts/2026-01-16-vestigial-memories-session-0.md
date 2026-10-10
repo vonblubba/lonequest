@@ -68,7 +68,7 @@ A man pulled a gun, screaming, and fired blindly. A woman fell.
 Then, she appeared. A woman stepped from the shadows, hands raised, perfectly calm. She spoke to the gunman. They talked for what felt like hours—a private conversation in the middle of a massacre. He dropped the gun. When the police arrived, they treated her with a deference I’d never seen. They called her a 'Blade Runner.'
 I survived that night emboldened by single realization: words are more powerful than bullets.*
 
-![](/assets/img/2026/01/Screenshot-2026-01-16-at-15.36.40.png)
+![Dante "Static" Riggs, a contact from Locke's past](/assets/img/2026/01/Screenshot-2026-01-16-at-15.36.40.png)
 
 ## Key Relationship: Dante "Static" Riggs
 

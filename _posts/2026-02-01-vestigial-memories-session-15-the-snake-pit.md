@@ -57,7 +57,7 @@ We slip out to the Spinner. I don't talk until we’re airborne, circling the ne
 He doesn't argue. I drop him in Hawker’s Circle and pull a dangerous U-turn. I have to get back. I told Kael to meet me there, and I’ve just walked him into a kill box.
 
 ---
-![](/assets/img/2026/02/kael.png)
+![Kael at the bar in the Snake Pit](/assets/img/2026/02/kael.png)
 
 I re-enter the Snake Pit, my hand on the butt of my blaster. I spot Kael at the bar. He’s clean—no drink in front of him. 
 

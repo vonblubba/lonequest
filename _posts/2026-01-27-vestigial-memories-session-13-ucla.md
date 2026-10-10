@@ -46,7 +46,7 @@ I knock.
 **Sterling:** [A heavy sigh, then the buzz of the lock] "Come in." 
 
 The office is a tomb of digital scrolls and DNA models. She doesn't look up from her screen.
-![](/assets/img/2026/01/sterling.png)Prof. sterling at work
+![Professor Sterling at work in her office at UCLA](/assets/img/2026/01/sterling.png)
 **Sterling:** "What is it this time, Locke? Do I need to explain how to spell 'Deoxyribonucleic' for your report again?"  
 **Locke:** [Ignoring the jab] "Indulge me, Professor. Suppose you had a sequence for a biosynthetic organism. What kind of subtle, untraceable alteration could cause the production process to fail halfway through the vats?"
 

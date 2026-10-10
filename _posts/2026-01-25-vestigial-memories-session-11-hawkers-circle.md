@@ -25,7 +25,7 @@ I can't go home. My apartment feels like a trap, and the silence there is too lo
 
 An elderly woman sits on a bench nearby, her face a map of lived-in history. She watches me with eyes that have seen too much.
 
-![](/assets/img/2026/01/kamarr-1.png)
+![The elderly woman sitting on a bench in Hawker's Circle](/assets/img/2026/01/kamarr-1.png)
 
 **Woman:** "Bad day, young man?"  
 **Locke:** "You could say that, lady."  

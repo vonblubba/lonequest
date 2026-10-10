@@ -26,7 +26,7 @@ Shit. I write back.
 
 > *Meet me at the Snake Pit in 15*
 
-![](/assets/img/2026/01/Screenshot-2026-01-16-at-15.36.40-1.png)
+![The Snake Pit nightclub, where Locke is meeting his contact](/assets/img/2026/01/Screenshot-2026-01-16-at-15.36.40-1.png)
 ### The Meeting
 
 The Snake Pit is a hollowed-out cavern of red light and synthetic smoke. I take my usual stool at the corner of the bar, the one with a clear view of the stage. A daiquiri sits untouched in my hand.

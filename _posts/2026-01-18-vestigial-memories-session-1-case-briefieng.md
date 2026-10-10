@@ -9,7 +9,7 @@ image: /assets/img/2026/01/br_core07_working_the_case_158-159-1.webp
 
 I was at home, nursing a whisky sour and watching the rain streak against the grime of my windows, when the call came in. It was **Holden**. No small talk, just the usual order: *Report in. New case.*
 
-![](/assets/img/2026/01/holdeb.png)
+![Deputy Chief Holden, LAPD](/assets/img/2026/01/holdeb.png)
 
 ### Case Brief: The Replicant Who Shouldn't Exist
 
@@ -55,7 +55,7 @@ As I looked over the details, a cold sensation crawled up my spine. The nightclu
 
 **Holden:** "No. She passed away a few years ago. At least she got to taste retirement before the city took her. Most of us don't."
 
-![](/assets/img/2026/01/kamarr_cold-1.png)
+![Libby Kamarr, the replicant Runner at the center of the cold case file](/assets/img/2026/01/kamarr_cold-1.png)
 
 **Locke:** "Shame. Sounds like someone I would have liked. I’m going to need the full cold case file."
 

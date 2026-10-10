@@ -51,7 +51,7 @@ I don't go in alone. I’m not a martyr, and this isn't a job for one man. I cal
 
 > Rules say 3 promotion points and 1 shift to get support from Spec Ops, but I am ignoring the time requirements because Holden was forewarned of my plan.
 
-![](/assets/img/2026/02/Screenshot-2026-02-05-at-16.22.07.png)3 promotion points spent
+![Foundry VTT character sheet showing 3 promotion points spent](/assets/img/2026/02/Screenshot-2026-02-05-at-16.22.07.png)
 
 Fifteen minutes later, the air vibrates with the hum of unmarked tactical spinners. Spec Ops moves like a scalpel. They don't ask questions about who I'm with or how I found the place. They launch micro-drones—detecting 32 heartbeats, light weaponry. I warn them they’re facing Replicants. They don't even blink.
 

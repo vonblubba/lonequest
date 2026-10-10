@@ -21,7 +21,7 @@ Time to report to Holden, but before I face him, I need more than a hunch. I ret
 
 I dig into the restricted archives of **Libby Kamarr**. Born 1976. RDU in 2006. One of the most decorated Runners in history—124 retirements. But then, the cracks appear. Six months before she "retired," there was an informal reprimand. She’d broken Detective Sean O’Mallon’s jaw in the middle of a precinct hallway.
 
-![](/assets/img/2026/02/kamarr_cold-1.png)
+![Libby Kamarr's LAPD personnel file photo](/assets/img/2026/02/kamarr_cold-1.png)
 
 The context: A female replicant was being retired for "assaulting" her owner. The owner claimed robbery; the girl claimed he’d forced her into a crime. O’Mallon—a sadistic fossil who treated skinjobs like scrap metal—had "handled" the retirement with his usual brutality. Kamarr watched it, then leveled him.
 
@@ -37,7 +37,7 @@ The desk phone screams. It’s Holden.
 
 I walk in, and the air is practically vibrating with Holden's rage.
 
-![](/assets/img/2026/02/holdeb.png)
+![An enraged Deputy Chief Holden confronting Locke](/assets/img/2026/02/holdeb.png)
 
 **Holden:** "The Snake Pit? Again? I told you to keep a lid on this, Locke! Now I've got two gunmen shooting up a nightclub. What the hell is going on?"
 

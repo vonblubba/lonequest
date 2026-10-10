@@ -34,7 +34,7 @@ image: /assets/img/2026/01/br_core05_a_tale_of_two_cities_112-113.webp
 
 I park my Spinner a few blocks away. I don’t want the blue-and-reds announcing my arrival. The **Fish Ladies** stall is a neon-soaked open bar built into the face of a crumbling tenement, right next to my favorite dumpling stand. Synthetic fish, suspended in glowing tanks, cast eerie shadows over the crowd.
 
-![](/assets/img/2026/01/Screenshot-2026-01-19-at-11.04.04.png)
+![The neon-lit Fish Ladies stall in Animoid Row](/assets/img/2026/01/Screenshot-2026-01-19-at-11.04.04.png)
 
 I spot her: **Mei Lin Zhao**, the proprietor. She’s in her sixties, sharp-eyed and wearing the weariness of the district like a shroud. I decide to keep my badge in my pocket for now.
 

@@ -26,7 +26,7 @@ The terminal hums to life, and the file pulls up with surprising clarity. Better
 
 I check the date: **February 2nd, 2011.** My breath hitches. It’s confirmed. This isn’t just a case; it’s *the* night. I was there, a terrified child in the crowd at the Snake Pit. The report matches my memory with cold, clinical precision. *[This confirmation comes from the 2 successes]*
 
-![](/assets/img/2026/01/lang.png)
+![Rhea Lang, the murder victim in the cold case file](/assets/img/2026/01/lang.png)
 
 - **Subject:** Rhea Lang (28).
 - **Profile:** An accountant for Tyrell Corp since her graduation six years prior.
@@ -44,7 +44,7 @@ I check the date: **February 2nd, 2011.** My breath hitches. It’s confirmed. T
 
 - **Connection to Kasper:** No link found. No shared history, no professional overlap. By all accounts, she was simply standing in the wrong place when the world went mad.
 
-![](/assets/img/2026/01/kasper.png)
+![KS-1108 "Kasper", the suspect replicant in Locke's investigation](/assets/img/2026/01/kasper.png)
 ### Findings: The Suspect (KS-1108 "Kasper")
 
 - **Technical Specs:** Inception date 2009. Expiration date 2013. If he’s alive today, he’s 24 years past his "sell-by" date.

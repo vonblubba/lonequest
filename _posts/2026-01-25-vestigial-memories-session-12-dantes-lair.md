@@ -17,7 +17,7 @@ image: /assets/img/2026/01/riggs_lair.png
 > [D12] Must be [3] =>  Consult. Seek expert insight or outside perspective => CONNEC TIONS to leverage an informant or LAPD asset, MANIPULATION to gain cooperation, TECH or MEDICAL AID to verify or interpret findings
 
 ---
-![](/assets/img/2026/01/riggs.png)
+![Dante "Static" Riggs in his basement hideout](/assets/img/2026/01/riggs.png)
 
 Dante is holed up in a ratty basement apartment in **Hawker’s Circle**. It’s a damp, low-ceilinged tomb that smells of ozone and mildew—hardly the ideal environment for high-end hardware, but beggars can’t be choosers when they’re hiding from shadows.
 

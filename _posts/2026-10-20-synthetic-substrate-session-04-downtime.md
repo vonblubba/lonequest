@@ -92,7 +92,7 @@ A girl giggles somewhere in the background.
   
 **Locke:** "This is important, Dante. Send your girlfriends home."  
   
-He curses  .
+He curses  
   
 **D:** "That's extra on your tab. They don't come cheap."  
   
@@ -132,7 +132,7 @@ He eyes me with suspicion.
   
 **L:** "Good. Get to work."  
   
-**D:** "You'll have the KIA in a couple of hours."
+**D:** "You'll have the KIA in a couple of hours."  
   
 I hang up.  
 Time to talk to Beck again. Not over the vid, though. Too risky. I'll wait for Dante's KIA, then head back out to Farm 14.
@@ -140,10 +140,10 @@ Time to talk to Beck again. Not over the vid, though. Too risky. I'll wait for D
 ---
 ## Scene bookkeeping
 ### Leads
-1- Replicant Underground involvement
-2- Wallace has a black op going on at the farm, Pentecost is probably involved
-3- Libby Kamarr involvement in the case
-4- A stock of wood was destroyed in the explosion
-5- The farm might also be producing hallucinogenic mushrooms
-6- Beck's programming was altered by the replicant underground
+1- Replicant Underground involvement  
+2- Wallace has a black op going on at the farm, Pentecost is probably involved  
+3- Libby Kamarr involvement in the case  
+4- A stock of wood was destroyed in the explosion  
+5- The farm might also be producing hallucinogenic mushrooms  
+6- Beck's programming was altered by the replicant underground  
 7- Crop records of Greenhouse B383
